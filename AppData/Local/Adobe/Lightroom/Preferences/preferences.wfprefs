@@ -1,0 +1,5 @@
+{
+	imsBaseUrl = "https://ims-na1.adobelogin.com/ims",
+	lastDaemonUser = "lightroom6=076c33d2ffd5696ad27adb5856ba3650",
+	ozServerOverrideUrl = "https://api-lr.adbecrsl.com",
+}

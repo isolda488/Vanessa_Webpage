@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<MediaAcceleratorDatabaseEntry ObjectRef="1"/>
+	<MediaAcceleratorDatabaseEntry ObjectID="1" ClassID="e727e14d-731c-47f8-9d24-2cb69e8c5323" Version="4">
+		<Stream.ID1>0</Stream.ID1>
+		<Item.Path1>C:\Users\Vanessa\AppData\Local\Adobe\Lightroom\Caches\Video\Media Cache Files\01 Table of Contents 1.mp3 44100.cfa</Item.Path1>
+		<Item.MacPath1></Item.MacPath1>
+		<Item.ModDate1 Encoding="base64" Checksum="3016848667">jqyH84rb0gE=</Item.ModDate1>
+		<Item.Path2>C:\Users\Vanessa\AppData\Local\Adobe\Lightroom\Caches\Video\Media Cache Files\01 Table of Contents 1.mp3 44100.pek</Item.Path2>
+		<Item.Count1>2</Item.Count1>
+		<Item.ModDate2 Encoding="base64" Checksum="3016848667">DIGJ84rb0gE=</Item.ModDate2>
+		<Item.Key1>cfa44100</Item.Key1>
+		<Item.WinPath1>C:\Users\Vanessa\AppData\Local\Adobe\Lightroom\Caches\Video\Media Cache Files\01 Table of Contents 1.mp3 44100.cfa</Item.WinPath1>
+		<Item.MacPath2></Item.MacPath2>
+		<Item.WinPath2>C:\Users\Vanessa\AppData\Local\Adobe\Lightroom\Caches\Video\Media Cache Files\01 Table of Contents 1.mp3 44100.pek</Item.WinPath2>
+		<Item.Key2>pek44100</Item.Key2>
+		<Item.CanBeCopied2>false</Item.CanBeCopied2>
+		<Item.CanBeCopied1>false</Item.CanBeCopied1>
+		<Item.ContentState>e3d392aa-c94b-1efc-639b-cc7100000024</Item.ContentState>
+		<Stream.Count>1</Stream.Count>
+		<OriginalWinPath>G:\Music\Watch Tower Bible and Tract Society of PA\JW  Watchtower (Study) (wE MP3)\01 Table of Contents 1.mp3</OriginalWinPath>
+		<OriginalMacPath></OriginalMacPath>
+		<OriginalPath>G:\Music\Watch Tower Bible and Tract Society of PA\JW  Watchtower (Study) (wE MP3)\01 Table of Contents 1.mp3</OriginalPath>
+	</MediaAcceleratorDatabaseEntry>
+</PremiereData>

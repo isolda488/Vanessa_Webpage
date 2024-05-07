@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preferences>
+<LogFile>C:\Users\Vanessa\AppData\Local\Adobe\AAMUpdater\1.0\aamu.log</LogFile>
+<LogLevel>2</LogLevel>
+<WebFeedEtag>&quot;4479f-58875c1fe25bf&quot;</WebFeedEtag>
+<WebFeedSize>280479</WebFeedSize>
+<WebFeedSeqNo>1</WebFeedSeqNo>
+<LastDateCheck>2020-06-23T09:25:46</LastDateCheck>
+<CSUVersion>9.0</CSUVersion>
+<OSVersion>10.0.18362</OSVersion>
+<IsFirstRun>0</IsFirstRun>
+<NotificationLogFile>C:\Users\Vanessa\AppData\Local\Adobe\AAMUpdater\1.0\aamun.log</NotificationLogFile>
+<InstallerLogFile>C:\Users\Vanessa\AppData\Local\Adobe\AAMUpdater\1.0\aamui.log</InstallerLogFile>
+<StartupLogFile>C:\Users\Vanessa\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log</StartupLogFile>
+<SilentNotificationLogFile>C:\Users\Vanessa\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log</SilentNotificationLogFile>
+<ChannelsEnabled>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeLightroom-6.0">1</MapPrefEntry>
+</ChannelsEnabled>
+<ChannelsInstalled>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeLightroom-6.0">1</MapPrefEntry>
+</ChannelsInstalled>
+<CCMChannels>
+<MapPrefEntry MapPrefKey="AdobeLightroom-6.0">1</MapPrefEntry>
+</CCMChannels>
+</Preferences>
