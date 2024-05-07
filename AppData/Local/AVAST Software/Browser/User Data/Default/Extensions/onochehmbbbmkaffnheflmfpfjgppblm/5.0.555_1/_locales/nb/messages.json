@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blokkert av"
+   },
+   "LoggerList": {
+      "message": "Liste"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Type"
+   },
+   "LoggerWhitelisting": {
+      "message": "Sette på tillatelsesliste"
+   },
+   "add": {
+      "message": "Legg til"
+   },
+   "addSite": {
+      "message": "Legg til nettsted"
+   },
+   "adsTrackersAllowed": {
+      "message": "Reklame og sporing tillates på dette nettstedet"
+   },
+   "adsTrackersBlocked": {
+      "message": "Reklame og sporing blokkert"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Tillat alltid reklame på følgende nettsteder"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ forsøk oppdaget"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ forsøk oppdaget"
+   },
+   "balancedBlocking": {
+      "message": "Balansert blokkering"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blokker kjente sporingsverktøy og enda mer reklame, og få raskere nettbruk."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Alle i standard blokkering og reklame på sosiale medier"
+   },
+   "balancedBlockingName": {
+      "message": "Balansert"
+   },
+   "basicBlocking": {
+      "message": "Grunnleggende blokkering"
+   },
+   "basicBlockingDescription": {
+      "message": "Blokker kjente sporingsverktøy og reklame som forstyrrer nettbruken."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Kjente sporingsverktøy, popup-annonser og bannere, inkludert videoer"
+   },
+   "blockAdsSearch": {
+      "message": "Blokker reklame i søkeresultater"
+   },
+   "blockSearchAds": {
+      "message": "Blokker reklame i søkeresultater"
+   },
+   "blockSearchAdsMore": {
+      "message": "Gå til innstillingene for å få \u003Cu>mer informasjon\u003C/u>."
+   },
+   "blockingOff": {
+      "message": "Blokkering er slått av"
+   },
+   "blockingOptions": {
+      "message": "Alternativer for blokkering"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Avbryt å legge til nettsted"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Avbryt redigering av nettsted"
+   },
+   "cancelSetStrict": {
+      "message": "Avbryt streng modus"
+   },
+   "clearLogger": {
+      "message": "Tøm loggerhistorikk"
+   },
+   "edit": {
+      "message": "Rediger"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Rediger nettsted på godkjentliste"
+   },
+   "essentialBlockingName": {
+      "message": "Grunnleggende"
+   },
+   "extShortDesc": {
+      "message": "Endelig en effektiv blokkering som krever lite av prosessor og minne."
+   },
+   "fingerprintBlocked": {
+      "message": "Fingeravtrykk i nettleser blokkert"
+   },
+   "generalSettings": {
+      "message": "Generelle innstillinger"
+   },
+   "goToStrict": {
+      "message": "Gå til Strict"
+   },
+   "keepFree": {
+      "message": "Hold den kostnadsfri"
+   },
+   "keep_balanced": {
+      "message": "Behold balansert"
+   },
+   "keep_essential": {
+      "message": "Behold grunnleggende"
+   },
+   "learnMore": {
+      "message": "Finn ut mer"
+   },
+   "pgLogger": {
+      "message": "Logger for personvernvakt"
+   },
+   "pgSettings": {
+      "message": "Endre innstillinger"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Innstillinger for personvernvakt"
+   },
+   "privacyGuard": {
+      "message": "Personvernvakt"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "beskyttelsen er AV"
+   },
+   "protectionOn": {
+      "message": "beskyttelsen er PÅ"
+   },
+   "protectionPaused": {
+      "message": "beskyttelsen er midlertidig stoppet"
+   },
+   "recommended": {
+      "message": "Anbefalt"
+   },
+   "refreshWarning": {
+      "message": "Når du slår personvernvakten PÅ eller AV, vil siden automatisk oppdateres, og eventuelle endringer blir kanskje ikke lagret. Husk å lagre alt arbeid før du endre personvernvakten."
+   },
+   "remove": {
+      "message": "Fjern"
+   },
+   "save": {
+      "message": "Lagre"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Lagre nettsted i godkjentliste"
+   },
+   "setStrict": {
+      "message": "Angi strengt"
+   },
+   "setStrictDescription_avast": {
+      "message": "Vi viser noen få annonser som hjelper oss med å drive Avast Secure Browser. De avbryter ikke nettlesingen din og bidrar til at nettleseren forblir gratis. Vi ber deg la oss vise disse annonsene."
+   },
+   "setStrictDescription_avg": {
+      "message": "Vi viser noen få annonser som hjelper oss med å drive AVG Secure Browser. De avbryter ikke nettlesingen din og bidrar til at nettleseren forblir gratis. Vi ber deg la oss vise disse annonsene."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Vi viser noen få annonser som hjelper oss med å drive CCleaner Secure Browser. De avbryter ikke nettlesingen din og bidrar til at nettleseren forblir gratis. Vi ber deg la oss vise disse annonsene."
+   },
+   "setStrictMode": {
+      "message": "Angi streng modus"
+   },
+   "setStrictTitle": {
+      "message": "Angi streng personvernvakt"
+   },
+   "setToBalanced": {
+      "message": "Du har angitt balansert blokkering"
+   },
+   "setToBasic": {
+      "message": "Du har angitt grunnleggende blokkering"
+   },
+   "setToStrict": {
+      "message": "Du har angitt streng blokkering"
+   },
+   "settingsDescription": {
+      "message": "Få utvidet personvern. Beskytt identiteten mot sporing og andre trusler. Blokker reklame og sporing, og få raskere og tryggere nettbruk."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Vis antall blokkerte annonser på ikonet"
+   },
+   "site": {
+      "message": "Nettsted"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Nettsteder hvor du tillater reklame, vises her"
+   },
+   "spc": {
+      "message": "Sikkerhets- og personvernsenter"
+   },
+   "stayOn_balanced": {
+      "message": "Bli i balansert modus"
+   },
+   "stayOn_essential": {
+      "message": "Bli i grunnleggende modus"
+   },
+   "strictBlocking": {
+      "message": "Streng blokkering"
+   },
+   "strictBlockingDescription": {
+      "message": "Blokker automatisl alt, og få raskere og uforstyrret nettbruk."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Denne innstillingen kan føre til at noen nettsteder ikke lastes inn på riktig måte (noe av innholdet blir kanskje ikke vist eller ser feil ut). Slå av innstillingen hvis dette skjer."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Alle som balansert blokkering samt nettleservarsler og fingeravtrykk"
+   },
+   "strictBlockingName": {
+      "message": "Streng"
+   },
+   "strictModalDescription": {
+      "message": "For å holde nettleseren vår kostnadsfri, er vi avhengige av partnere som finansierer oss gjennom ikke-forstyrrende og brukervennlige annonser. Målet vårt er å bidra til å styrke personvernet og beskytte identiteten din på nettet"
+   },
+   "strictModalTitle": {
+      "message": "Hjelp oss å holde nettleseren kostnadsfri"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Totalt __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Gå inn på \u003Cb>\u003Cu>Sikkerhets- og personvernsenter\u003C/u>\u003C/b>\n for andre innstillinger"
+   },
+   "whitelistModalDescription": {
+      "message": "Hvilket nettsted vil du tillate reklame på?"
+   },
+   "youWillBlock": {
+      "message": "Dette blokkeres: "
+   }
+}

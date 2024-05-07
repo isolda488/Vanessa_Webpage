@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Pobieranie filmów"
+    },
+    "appDesc": {
+        "message": "Pobierz filmy do oglądania offline"
+    },
+    "barMediaBtn": {
+        "message": "Multimedia",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Pobierz",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Odłącz",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Ustawienia",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Nie pokazuj ponownie",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Nie pokazuj w tej witrynie",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Więcej informacji",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Wideo",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Dźwięk",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Technologia Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Ustawienia",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Pobieranie filmów",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Pobierz filmy do oglądania offline.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Dźwięk",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Wideo",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Pobierz",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Dołącz",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "nieznany rozmiar",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Na tej stronie nie ma filmów do pobrania",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Aby pobrać film, przejdź do strony ze szczegółami.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Pobieranie filmów zostało wyłączone dla",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Włącz",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Akceptując naszą <div><a target='blank' href='$link$'>Umowę licencyjną użytkownika końcowego<\/a><\/div> (EULA), przyjmujesz do wiadomości i zgadzasz się, że Twoim obowiązkiem jest korzystanie z modułu Pobieranie filmów zgodnie z obowiązującymi przepisami prawa autorskiego i warunkami korzystania z danej strony internetowej.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Przed pobraniem",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Rozumiem i akceptuję umowę EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Kontynuuj",
+        "description": "EUlA continue button"
+    }
+}

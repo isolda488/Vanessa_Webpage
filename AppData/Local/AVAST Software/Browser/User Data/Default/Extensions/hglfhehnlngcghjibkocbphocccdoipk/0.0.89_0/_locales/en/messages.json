@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Communication"
+   },
+   "extShortDesc": {
+      "message": "Browser's Side Panel extension"
+   },
+   "extTitle": {
+      "message": "Side Panel extension"
+   },
+   "featured": {
+      "message": "Featured"
+   },
+   "music": {
+      "message": "Music"
+   },
+   "notes": {
+      "message": "Notes"
+   },
+   "social": {
+      "message": "Social"
+   }
+}

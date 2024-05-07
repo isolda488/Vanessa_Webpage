@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "مسدودشده توسط"
+   },
+   "LoggerList": {
+      "message": "لیست"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "نوع"
+   },
+   "LoggerWhitelisting": {
+      "message": "اعمال لیست سفید"
+   },
+   "add": {
+      "message": "افزودن"
+   },
+   "addSite": {
+      "message": "افزودن سایت"
+   },
+   "adsTrackersAllowed": {
+      "message": "تبلیغات و ردیاب‌ها در این سایت مجاز هستند"
+   },
+   "adsTrackersBlocked": {
+      "message": "تبلیغات و ردیاب‌ها مسدود شدند"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "همیشه تبلیغات برای سایت‌های زیر اجازه داده شوند"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ تلاش تشخیص داده شد"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ تلاش تشخیص داده شد"
+   },
+   "balancedBlocking": {
+      "message": "مسدودسازی متعادل"
+   },
+   "balancedBlockingDescription": {
+      "message": "برای تجربه وب‌گردی سریع‌تر، ردیاب‌های شناخته‌شده و حتی تبلیغات بیشتر را مسدود کنید."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "همه درمسدود کردن پایه و تبلیغات شبکه‌های اجتماعی"
+   },
+   "balancedBlockingName": {
+      "message": "متعادل شد"
+   },
+   "basicBlocking": {
+      "message": "مسدودسازی پایه"
+   },
+   "basicBlockingDescription": {
+      "message": "ردیاب‌ها و تبلیغات شناخته‌شده مزاحم تجربه وب‌گردی را مسدود کنید."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "ردیاب‌ها، پنجره‌های بالاآمدنی و تبلیغات بنر شناخته‌شده شامل ویدیوها"
+   },
+   "blockAdsSearch": {
+      "message": "مسدودسازی تبلیغات در نتایج جستجو"
+   },
+   "blockSearchAds": {
+      "message": "مسدودسازی تبلیغات نتایج جستجو"
+   },
+   "blockSearchAdsMore": {
+      "message": "جهت کسب \u003Cu>اطلاعات بیشتر\u003C/u> به تنظیمات مراجعه کنید"
+   },
+   "blockingOff": {
+      "message": "مسدودسازی خاموش است"
+   },
+   "blockingOptions": {
+      "message": "گزینه‌های مسدودسازی"
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "cancelAddSiteOperation": {
+      "message": "لغو عملیات افزودن سایت"
+   },
+   "cancelEditSiteOperation": {
+      "message": "لغو عملیات ویرایش سایت"
+   },
+   "cancelSetStrict": {
+      "message": "لغو عملیات تنظیم سختگیرانه"
+   },
+   "clearLogger": {
+      "message": "پاک‌کردن سابقه رویداد‌ها"
+   },
+   "edit": {
+      "message": "ویرایش"
+   },
+   "editSiteFromWhitelist": {
+      "message": "ویرایش سایت از لیست موارد مجاز"
+   },
+   "essentialBlockingName": {
+      "message": "پایه"
+   },
+   "extShortDesc": {
+      "message": "در نهایت، یک مسدودکننده کارآمد. به راحتی در CPU و حافظه."
+   },
+   "fingerprintBlocked": {
+      "message": "انگشت‌نگاری مرورگر مسدود شد"
+   },
+   "generalSettings": {
+      "message": "تنظیمات کلی"
+   },
+   "goToStrict": {
+      "message": "رفتن به حالت سخت‌گیرانه"
+   },
+   "keepFree": {
+      "message": "رایگان نگه داشتن"
+   },
+   "keep_balanced": {
+      "message": "حالت متعادل"
+   },
+   "keep_essential": {
+      "message": "حفظ حالت پایه"
+   },
+   "learnMore": {
+      "message": "بیشتر بدانید"
+   },
+   "pgLogger": {
+      "message": "رویدادهای سپر حریم خصوصی"
+   },
+   "pgSettings": {
+      "message": "تغییر تنظیمات"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "تنظیمات سپر حریم خصوصی"
+   },
+   "privacyGuard": {
+      "message": "سپر حریم خصوصی"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "محافظت خاموش است"
+   },
+   "protectionOn": {
+      "message": "محافظت روشن است"
+   },
+   "protectionPaused": {
+      "message": "محافظت متوقف شده است"
+   },
+   "recommended": {
+      "message": "توصیه شده"
+   },
+   "refreshWarning": {
+      "message": "وقتی سپر حریم خصوصی را روشن یا خاموش می‌کنید، صفحه شما به طور خودکار تازه‌سازی خواهد شد و تغییراتی که اعمال کرده‌اید، ممکن است ذخیره نشود. قبل از تغییر سپر حریم خصوصی، لطفاً کارهای خود را ذخیره کنید."
+   },
+   "remove": {
+      "message": "برداشتن"
+   },
+   "save": {
+      "message": "ذخیره"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "ذخیره کردن سایت در لیست موارد مجاز"
+   },
+   "setStrict": {
+      "message": "تنظیم درجه سختگیری"
+   },
+   "setStrictDescription_avast": {
+      "message": "چند تبلیغات بی‌ضرر به ما کمک می کنند هزینه های Avast Secure Browser را تأمین کنیم. آنها مزاحمتی برای وب‌گردی شما ایجاد نمی‌ کنند و ما را در ارائه خدمات رایگان یاری می‌رسانند. لطفاً با اجازه دادن به این تبلیغات از ما حمایت کنید."
+   },
+   "setStrictDescription_avg": {
+      "message": "چند تبلیغات بی‌ضرر به ما کمک می کنند هزینه های AVG Secure Browser را تأمین کنیم. آنها مزاحمتی برای وب‌گردی شما ایجاد نمی‌ کنند و ما را در ارائه خدمات رایگان یاری می‌رسانند. لطفاً با اجازه دادن به این تبلیغات از ما حمایت کنید."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "چند تبلیغات بی‌ضرر به ما کمک می‌کنند هزینه‌های CCleaner Browser را تأمین کنیم. آنها مزاحمتی برای وب‌گردی شما ایجاد نمی‌‌کنند و ما را در ارائه خدمات رایگان یاری می‌رسانند. لطفاً با اجازه دادن به این تبلیغات از ما حمایت کنید."
+   },
+   "setStrictMode": {
+      "message": "تنظیم حالت سختگیرانه"
+   },
+   "setStrictTitle": {
+      "message": "تنظیم محافظ حریم خصوصی روی حالت سختگیرانه"
+   },
+   "setToBalanced": {
+      "message": "شما روی حالت مسدود‌سازی متعادل تنظیم هستید"
+   },
+   "setToBasic": {
+      "message": "شما روی حالت مسدودسازی پایه تنظیم هستید"
+   },
+   "setToStrict": {
+      "message": "شما روی مسدودسازی سختگیرانه تنظیم هستید"
+   },
+   "settingsDescription": {
+      "message": "محافظت حریم خصوصی را بهبود دهید. از هویت خود در مقابل ردیاب‌ها و سایر عوامل نفوذی دفاع کنید.\nبرای وب‌گردی سریع‌تر و امن‌تر، تبلیغات و ردیاب‌ها را مسدود کنید."
+   },
+   "settingsShowNumberBadge": {
+      "message": "نمایش تعداد تبلیغات مسدود شده روی آیکون"
+   },
+   "site": {
+      "message": "سایت"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "سایت‌هایی که اجازه نمایش تبلیغات به آنها دادید در اینجا نشان داده می‌شوند"
+   },
+   "spc": {
+      "message": "مرکز امنیت و حریم خصوصی"
+   },
+   "stayOn_balanced": {
+      "message": "ادامه استفاده از حالت متعادل"
+   },
+   "stayOn_essential": {
+      "message": "ادامه استفاده از حالت ضروری"
+   },
+   "strictBlocking": {
+      "message": "مسدودسازی سختگیرانه"
+   },
+   "strictBlockingDescription": {
+      "message": "برای تجربه وب‌گردی سریع‌تر و بدون اختلال، همه چیز را به طور خودکار مسدود کنید."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "این تنظیم ممکن است باعث شود برخی وب‌سایت‌ها به خوبی بارگذاری نشوند (ممکن است برخی محتواها نمایش داده نشوند، اگر به نظر می‌رسد وب‌سایت دچار اشکال شده است، این تنظیم را غیرفعال کنید)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "همه به عنوان مسدود کردن متعادل و اعلان‌های مرورگر و ثبت اثر انگشت"
+   },
+   "strictBlockingName": {
+      "message": "سختگیرانه"
+   },
+   "strictModalDescription": {
+      "message": "برای رایگان نگه داشتن مرورگرمان، به شرکایی متکی هستیم که از طریق تبلیغات غیر مزاحم و کاربر‌پسند، ما را تأمین مالی می‌کنند. هدف ما این است که به شما کمک کنیم تا بتوانید حریم خصوصی خود را ارتقا داده و از هویت آنلاین خود محافظت کنید"
+   },
+   "strictModalTitle": {
+      "message": "کمک کنید تا مرورگرمان را رایگان نگه داریم"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "مجموع __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "برای سایر تنظیمات به \u003Cb>\u003Cu>مرکز امنیت و حریم خصوصی\u003C/u>\u003C/b>\n مراجعه کنید"
+   },
+   "whitelistModalDescription": {
+      "message": "کدام سایت را برای اجازه دادن تبلیغات در نظر دارید؟"
+   },
+   "youWillBlock": {
+      "message": "شما موارد زیر را مسدود خواهید کرد: "
+   }
+}

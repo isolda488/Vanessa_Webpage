@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Bloķē"
+   },
+   "LoggerList": {
+      "message": "Saraksts"
+   },
+   "LoggerRegex": {
+      "message": "Regex  Not started"
+   },
+   "LoggerType": {
+      "message": "Tips"
+   },
+   "LoggerWhitelisting": {
+      "message": "Iekļaušana baltajā sarakstā"
+   },
+   "add": {
+      "message": "Pievienot"
+   },
+   "addSite": {
+      "message": "Pievienot vietni"
+   },
+   "adsTrackersAllowed": {
+      "message": "Reklāmas un izsekotāji šajā vietnē tiek atļauti"
+   },
+   "adsTrackersBlocked": {
+      "message": "Reklāmas un izsekotāji bloķēti"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Vienmēr atļaut reklāmas šajās vietnes"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "Atklāts __TOTAL_FINGERPRINTING__ mēģinājums"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "Atklāti __TOTAL_FINGERPRINTING__ mēģinājumi"
+   },
+   "balancedBlocking": {
+      "message": "Balansēta bloķēšana"
+   },
+   "balancedBlockingDescription": {
+      "message": "Bloķējiet zināmos izsekotājus un citas reklāmas, lai uzlabotu pārlūkošanas ātrumu."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Viss pamata bloķēšanā un sociālo mediju reklāmās"
+   },
+   "balancedBlockingName": {
+      "message": "Balansēts"
+   },
+   "basicBlocking": {
+      "message": "Pamata bloķēšana"
+   },
+   "basicBlockingDescription": {
+      "message": "Bloķējiet zināmos izsekotājus un reklāmas, kas traucē pārlūkošanai."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Zināmi izsekotāji, uznires un reklāmkarogu reklāmas, tostarp video"
+   },
+   "blockAdsSearch": {
+      "message": "Bloķējiet reklāmas meklēšanas rezultātos"
+   },
+   "blockSearchAds": {
+      "message": "Bloķēt meklēšanas rezultātu reklāmas"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>Papildinformāciju\u003C/u> skatiet iestatījumos"
+   },
+   "blockingOff": {
+      "message": "Bloķēšana ir izslēgta"
+   },
+   "blockingOptions": {
+      "message": "Bloķēšanas opcijas"
+   },
+   "cancel": {
+      "message": "Atcelt"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Atcelt vietnes pievienošanas darbību"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Atcelt vietnes rediģēšanas darbību"
+   },
+   "cancelSetStrict": {
+      "message": "Atcelt iestatīto stingrā režīma darbību"
+   },
+   "clearLogger": {
+      "message": "Dzēst reģistrētāja vēsturi"
+   },
+   "edit": {
+      "message": "Rediģēt"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Rediģēt vietni no baltā saraksta"
+   },
+   "essentialBlockingName": {
+      "message": "Pamata"
+   },
+   "extShortDesc": {
+      "message": "Visbeidzot efektīvs bloķētājs. Vienkārši izmantot centrālajam procesoram un atmiņai."
+   },
+   "fingerprintBlocked": {
+      "message": "Pārlūka pirkstu nospiedumi bloķēti"
+   },
+   "generalSettings": {
+      "message": "Vispārējie iestatījumi"
+   },
+   "goToStrict": {
+      "message": "Doties uz sadaļu Stingra"
+   },
+   "keepFree": {
+      "message": "Uzturēt bez maksas"
+   },
+   "keep_balanced": {
+      "message": "Saglabāt līdzsvaru"
+   },
+   "keep_essential": {
+      "message": "Saglabāt pamata līmeni"
+   },
+   "learnMore": {
+      "message": "Uzzināt vairāk"
+   },
+   "pgLogger": {
+      "message": "Privātuma aizsardzības reģistrētājs"
+   },
+   "pgSettings": {
+      "message": "Mainīt iestatījumus"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Privātuma aizsarga iestatījumi"
+   },
+   "privacyGuard": {
+      "message": "Privātuma aizsargs"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "aizsardzība ir IZSLĒGTA"
+   },
+   "protectionOn": {
+      "message": "aizsardzība ir IESLĒGTA"
+   },
+   "protectionPaused": {
+      "message": "aizsardzība ir pauzēta"
+   },
+   "recommended": {
+      "message": "Ieteicams"
+   },
+   "refreshWarning": {
+      "message": "Kad jūs ieslēdzat vai izslēdzat funkciju Privātuma aizsardzība, jūsu lapa tiek automātiski atsvaidzināta, un jūsu veiktās izmaiņas var netikt saglabātas. Pirms maināt funkcijas Privātuma aizsardzība iestatījumu, lūdzu, neaizmirstiet saglabāt jebkuras veiktās izmaiņas."
+   },
+   "remove": {
+      "message": "Noņemt"
+   },
+   "save": {
+      "message": "Ietaupīt"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Saglabāt vietni baltajā sarakstā"
+   },
+   "setStrict": {
+      "message": "Iestatiet stingru"
+   },
+   "setStrictDescription_avast": {
+      "message": "Dažas ļoti neuzmācīgas reklāmas mums palīdz finansēt Avast Secure Browser. Tās nepārtrauc jūsu pārlūkošanu un palīdz uzturēt pārlūku bez maksas. Lūdzu, izrādiet mums nedaudz mīlestības, atļaujot šīs reklāmas."
+   },
+   "setStrictDescription_avg": {
+      "message": "Dažas ļoti neuzmācīgas reklāmas mums palīdz finansēt AVG Secure Browser. Tās nepārtrauc jūsu pārlūkošanu un palīdz uzturēt pārlūku bez maksas. Lūdzu, izrādiet mums nedaudz mīlestības, atļaujot šīs reklāmas."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Dažas ļoti neuzmācīgas reklāmas mums palīdz finansēt CCleaner Secure Browser. Tās nepārtrauc jūsu pārlūkošanu un palīdz uzturēt pārlūku bez maksas. Lūdzu, izrādiet mums nedaudz mīlestības, atļaujot šīs reklāmas."
+   },
+   "setStrictMode": {
+      "message": "Iestatīt stingro režīmu"
+   },
+   "setStrictTitle": {
+      "message": "Iestatīt privātuma aizsargu kā stingru"
+   },
+   "setToBalanced": {
+      "message": "Jums ir iestatīta balansētā bloķēšana"
+   },
+   "setToBasic": {
+      "message": "Jums ir iestatīta pamata bloķēšana"
+   },
+   "setToStrict": {
+      "message": "Jums ir iestatīta stingrā bloķēšana"
+   },
+   "settingsDescription": {
+      "message": "Uzlabota privātuma aizsardzība. Aizsargājiet savu identitāti no izsekotājiem un daudz kā cita.\nBloķējiet reklāmas un izsekotājus, lai uzlabotu pārlūkošanas ātrumu un drošību."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Rādīt bloķēto reklāmu skaitu ikonā"
+   },
+   "site": {
+      "message": "Vietne"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Vietne, kurā esat atļāvis reklāmas, tiks parādīta šeit"
+   },
+   "spc": {
+      "message": "Drošības un privātuma centrs"
+   },
+   "stayOn_balanced": {
+      "message": "Palikt balansētā režīmā"
+   },
+   "stayOn_essential": {
+      "message": "Palikt pamata režīmā"
+   },
+   "strictBlocking": {
+      "message": "Stingra bloķēšana"
+   },
+   "strictBlockingDescription": {
+      "message": "Bloķējiet visu automātiski, lai paātrinātu pārlūka darbību un novērstu tās pārtraukumus."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Šis iestatījums var izraisīt situāciju, ka dažas vietnes netiek pienācīgi ielādētas (daļa satura var netikt parādīta; ja vietne izskatās bojāta, izslēdziet šo iestatījumu)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Viss kā līdzsvarota bloķēšana, pārlūkprogrammas paziņojumi un identificējošas ciparvirknes veidošana"
+   },
+   "strictBlockingName": {
+      "message": "Stingra"
+   },
+   "strictModalDescription": {
+      "message": "Lai uzturētu mūsu pārlūkprogrammu bez maksas, mēs esam atkarīgi no mūsu sadarbības partneriem, kuri finansē mūs, izmantojot dažas netraucējošas un lietotājam draudzīgas reklāmas. Mūsu mērķis ir veicināt jūsu privātuma uzlabošanu un aizsargāt jūsu identitāti tiešsaistē"
+   },
+   "strictModalTitle": {
+      "message": "Palīdziet uzturēt mūsu pārlūkprogrammu bez maksas"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Kopā __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Lai veiktu citus iestatījumus, dodieties uz sadaļu \u003Cb>\u003Cu>Aizsardzības un privātuma centrs\u003C/u>\u003C/b>\n"
+   },
+   "whitelistModalDescription": {
+      "message": "Kurā vietnē vēlaties atļaut reklāmas?"
+   },
+   "youWillBlock": {
+      "message": "Jūs bloķēsiet šos: "
+   }
+}

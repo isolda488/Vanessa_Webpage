@@ -1,0 +1,4 @@
+2024/05/07-15:49:59.128 8a68 Reusing MANIFEST C:\Users\Vanessa\AppData\Local\AVAST Software\Browser\User Data\Default\Session Storage/MANIFEST-000001
+2024/05/07-15:49:59.151 8a68 Recovering log #242
+2024/05/07-15:49:59.243 8a68 Level-0 table #245: started
+2024/05/07-15:49:59.243 8a68 Level-0 table #245: 0 bytes IO error: C:\Users\Vanessa\AppData\Local\AVAST Software\Browser\User Data\Default\Session Storage/000245.ldb: Unable to create writable file (ChromeMethodBFE: 9::NewWritableFile::16)

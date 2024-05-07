@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Zeptejte se mě..."
+   },
+   "clearChat": {
+      "message": "Vymazat chat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Došlo k chybě. Odeslaná zpráva byla příliš dlouhá. Začněte nový chat a pošlete kratší zprávu."
+   },
+   "example_0": {
+      "message": "“Vysvětlete proces výroby vína.”"
+   },
+   "example_1": {
+      "message": "“Dejte mi tipy na narozeninové dárky pro 14letého chlapce.”"
+   },
+   "example_2": {
+      "message": "“Pomozte mi naplánovat sedmidenní výlet do Tokia.”"
+   },
+   "examples": {
+      "message": "Příklady:"
+   },
+   "exploreGenie": {
+      "message": "Prozkoumat Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Rozšíření AI Chat"
+   },
+   "extTitle": {
+      "message": "Rozšíření AI Chat"
+   },
+   "freshChat": {
+      "message": "Pokud nemáte žádné další otázky, za 5 minut tento chat smažeme, abyste mohli začít nový."
+   },
+   "genieDescription": {
+      "message": "Genie dokáže během několika sekund zjistit, jestli nejsou textové zprávy, e-maily, weby nebo příspěvky na sociálních sítích podvodné. Stačí zkopírovat snímky obrazovek s podezřelými zprávami a vložit je nebo nahrát do aplikace. Ta vás pak okamžitě informuje, zda se nejedná o podvod."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Je mi líto, ale s tímto požadavkem vám nemohu pomoci."
+   },
+   "initialScreenSubtitle": {
+      "message": "AI Chat vám dá odpověď na to, co hledáte."
+   },
+   "initialScreenTitle": {
+      "message": "Něco vás zajímá? Tak se ptejte…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Došlo k chybě. Odeslaná zpráva byla příliš dlouhá. Pošlete kratší zprávu."
+   },
+   "limitError": {
+      "message": "Dosáhli jste limitu počtu zpráv v této relaci. Zkuste chat vymazat a začít znovu."
+   },
+   "limitErrorMessage": {
+      "message": "Dosáhli jste limitu počtu zpráv v této relaci. Zkuste chat vymazat a začít znovu."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Jste tady ještě?\u003C/b> Už dlouho jste nic nenapsali."
+   },
+   "suggestedSearch": {
+      "message": "Doporučená hledání"
+   },
+   "tooManyRequestsError": {
+      "message": "Příliš mnoho požadavků. Zkuste to později."
+   },
+   "tryAsking": {
+      "message": "Zkuste se zeptat "
+   },
+   "tryGenie": {
+      "message": "našeho nástroje \u003Cb>Norton Genie\u003C/b> pro detekci podvodů v reálném čase, který využívá umělou inteligenci."
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "커뮤니케이션"
+   },
+   "extShortDesc": {
+      "message": "브라우저의 측면 패널 확장"
+   },
+   "extTitle": {
+      "message": "측면 패널 확장"
+   },
+   "featured": {
+      "message": "추천"
+   },
+   "music": {
+      "message": "음악"
+   },
+   "notes": {
+      "message": "메모"
+   },
+   "social": {
+      "message": "소셜"
+   }
+}

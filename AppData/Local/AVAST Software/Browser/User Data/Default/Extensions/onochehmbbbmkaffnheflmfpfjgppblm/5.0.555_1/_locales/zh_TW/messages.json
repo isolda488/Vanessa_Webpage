@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "封鎖者"
+   },
+   "LoggerList": {
+      "message": "清單"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "類型"
+   },
+   "LoggerWhitelisting": {
+      "message": "白名單"
+   },
+   "add": {
+      "message": "新增"
+   },
+   "addSite": {
+      "message": "新增網站"
+   },
+   "adsTrackersAllowed": {
+      "message": "已允許這個網站的廣告和追蹤器"
+   },
+   "adsTrackersBlocked": {
+      "message": "封鎖的廣告與追蹤器"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "永遠允許下列網站的廣告"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "共偵測到 __TOTAL_FINGERPRINTING__ 次嘗試"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "共偵測到 __TOTAL_FINGERPRINTING__ 次嘗試"
+   },
+   "balancedBlocking": {
+      "message": "平衡封鎖"
+   },
+   "balancedBlockingDescription": {
+      "message": "封鎖已知追蹤器與更多廣告，獲得更快速的瀏覽體驗。"
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "所有基本封鎖項目以及社交媒體廣告"
+   },
+   "balancedBlockingName": {
+      "message": "平衡"
+   },
+   "basicBlocking": {
+      "message": "基本封鎖"
+   },
+   "basicBlockingDescription": {
+      "message": "封鎖已知追蹤器，以及干擾您瀏覽體驗的廣告。"
+   },
+   "basicBlockingExtraDescription": {
+      "message": "已知追蹤器、快顯視窗和橫幅廣告，包含影片"
+   },
+   "blockAdsSearch": {
+      "message": "封鎖搜尋結果中的廣告"
+   },
+   "blockSearchAds": {
+      "message": "封鎖搜尋結果廣告"
+   },
+   "blockSearchAdsMore": {
+      "message": "請前往設定查看\u003Cu>詳細資訊\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "封鎖已關閉"
+   },
+   "blockingOptions": {
+      "message": "封鎖選項"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancelAddSiteOperation": {
+      "message": "取消新增網站的操作"
+   },
+   "cancelEditSiteOperation": {
+      "message": "取消編輯網站的操作"
+   },
+   "cancelSetStrict": {
+      "message": "取消設定嚴格模式的操作"
+   },
+   "clearLogger": {
+      "message": "清除側錄程式歷史記錄"
+   },
+   "edit": {
+      "message": "編輯"
+   },
+   "editSiteFromWhitelist": {
+      "message": "編輯白名單上的網站"
+   },
+   "essentialBlockingName": {
+      "message": "基本"
+   },
+   "extShortDesc": {
+      "message": "減輕 CPU 和記憶體負擔的高效率封鎖工具終於問世。"
+   },
+   "fingerprintBlocked": {
+      "message": "封鎖的瀏覽器指紋辨識"
+   },
+   "generalSettings": {
+      "message": "一般設定"
+   },
+   "goToStrict": {
+      "message": "前往嚴格"
+   },
+   "keepFree": {
+      "message": "保持免費"
+   },
+   "keep_balanced": {
+      "message": "保留平衡模式"
+   },
+   "keep_essential": {
+      "message": "維持基本模式"
+   },
+   "learnMore": {
+      "message": "深入瞭解"
+   },
+   "pgLogger": {
+      "message": "Privacy Guard 側錄程式"
+   },
+   "pgSettings": {
+      "message": "變更設定"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Privacy Guard 設定"
+   },
+   "privacyGuard": {
+      "message": "Privacy Guard"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "保護已關閉"
+   },
+   "protectionOn": {
+      "message": "保護已開啟"
+   },
+   "protectionPaused": {
+      "message": "保護已暫停"
+   },
+   "recommended": {
+      "message": "建議"
+   },
+   "refreshWarning": {
+      "message": "開啟或關閉 Privacy Guard 時，您的頁面將自動重新整理，且可能不會儲存所做的變更。請確保在變更 Privacy Guard 之前儲存所有工作。"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "save": {
+      "message": "儲存"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "將網站儲存至白名單"
+   },
+   "setStrict": {
+      "message": "設定為嚴格"
+   },
+   "setStrictDescription_avast": {
+      "message": "只要觀看幾個非侵入性廣告，就能協助我們籌措 Avast Secure Browser 的資金。這些廣告不會干擾您瀏覽網頁，而且有助於讓使用者繼續免費使用瀏覽器。請允許這些廣告，展現您對我們的支持。"
+   },
+   "setStrictDescription_avg": {
+      "message": "只要觀看幾個非侵入性廣告，就能協助我們籌措 AVG Secure Browser 的資金。這些廣告不會干擾您瀏覽網頁，而且有助於讓使用者繼續免費使用瀏覽器。請允許這些廣告，展現您對我們的支持。"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "只要觀看幾個非侵入性廣告，就能協助我們籌措 CCleaner Secure Browser 的資金。這些廣告不會干擾您瀏覽網頁，而且有助於讓使用者繼續免費使用瀏覽器。請允許這些廣告，展現您對我們的支持。"
+   },
+   "setStrictMode": {
+      "message": "設定嚴格模式"
+   },
+   "setStrictTitle": {
+      "message": "將 Privacy Guard 設定為嚴格"
+   },
+   "setToBalanced": {
+      "message": "您已設定為平衡封鎖"
+   },
+   "setToBasic": {
+      "message": "您已設定為基本封鎖"
+   },
+   "setToStrict": {
+      "message": "您已設定為嚴格封鎖"
+   },
+   "settingsDescription": {
+      "message": "增強型的隱私保護。保護您的身分不受追蹤器等威脅侵擾。\n封鎖廣告與追蹤器，讓您瀏覽網路時更快速安全"
+   },
+   "settingsShowNumberBadge": {
+      "message": "將封鎖的廣告數量顯示在圖示上"
+   },
+   "site": {
+      "message": "網站"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "您允許廣告播放的網站會顯示在這裡"
+   },
+   "spc": {
+      "message": "安全和隱私中心"
+   },
+   "stayOn_balanced": {
+      "message": "維持平衡模式"
+   },
+   "stayOn_essential": {
+      "message": "維持基本模式"
+   },
+   "strictBlocking": {
+      "message": "嚴格封鎖"
+   },
+   "strictBlockingDescription": {
+      "message": "自動封鎖所有內容，獲得更快速、不受干擾的瀏覽器體驗。"
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "這個設定可能會導致一些網站無法正確載入 (某些內容可能無法顯示，或是當網站呈現損壞狀況時，請關閉該設定)。"
+   },
+   "strictBlockingExtraDescription": {
+      "message": "所有平衡封鎖項目以及瀏覽器通知和指紋辨識"
+   },
+   "strictBlockingName": {
+      "message": "嚴格"
+   },
+   "strictModalDescription": {
+      "message": "為了保持瀏覽器免費，我們依賴合作夥伴，他們透過一些非破壞性和使用者易記的廣告為我們提供資金。我們的目標是讓您增強隱私權和保護線上身分"
+   },
+   "strictModalTitle": {
+      "message": "協助保持瀏覽器免費"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "共 __TOTAL_ADS__ 個"
+   },
+   "visitSPC": {
+      "message": "造訪\u003Cb>\u003Cu>「安全和隱私中心」\u003C/u>\u003C/b>\n  查看其他設定"
+   },
+   "whitelistModalDescription": {
+      "message": "您想要允許哪些網站播放廣告？"
+   },
+   "youWillBlock": {
+      "message": "您將封鎖： "
+   }
+}

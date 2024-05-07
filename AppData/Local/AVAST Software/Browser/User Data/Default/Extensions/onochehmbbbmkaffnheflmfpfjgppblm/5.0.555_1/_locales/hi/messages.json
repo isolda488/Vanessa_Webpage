@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "इसके द्वारा अवरुद्ध"
+   },
+   "LoggerList": {
+      "message": "सूची"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "प्रकार"
+   },
+   "LoggerWhitelisting": {
+      "message": "व्हाइटलिस्टिंग"
+   },
+   "add": {
+      "message": "जोड़ें"
+   },
+   "addSite": {
+      "message": "साइट जोड़ें"
+   },
+   "adsTrackersAllowed": {
+      "message": "इस साइट पर विज्ञापन और ट्रैकर्स की अनुमति है"
+   },
+   "adsTrackersBlocked": {
+      "message": "विज्ञापन व ट्रैकर्स ब्लॉक किए गए"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "निम्नलिखित साइटों पर हमेशा विज्ञापनों की अनुमति दें"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ प्रयास मिले"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ प्रयास मिले"
+   },
+   "balancedBlocking": {
+      "message": "संतुलित ब्लॉकिंग"
+   },
+   "balancedBlockingDescription": {
+      "message": "तेज़ ब्राउज़िंग अनुभव के लिए ज्ञात ट्रैकर्स, और भी अधिक विज्ञापनों को ब्लॉक करें."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "मूल ब्लॉकिंग और सोशल मीडियो विज्ञापनों में सब कुछ"
+   },
+   "balancedBlockingName": {
+      "message": "संतुलित"
+   },
+   "basicBlocking": {
+      "message": "बेसिक ब्लॉकिंग"
+   },
+   "basicBlockingDescription": {
+      "message": "ब्राउज़िंग के आपके अनुभव को बाधित करने वाले ज्ञात ट्रैकर्स और विज्ञापनों को ब्लॉक करें."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "वीडियो सहित ज्ञात ट्रैकर्स, पॉप-अप और बैनर विज्ञापन"
+   },
+   "blockAdsSearch": {
+      "message": "खोज परिणामों में विज्ञापन ब्लॉक करें"
+   },
+   "blockSearchAds": {
+      "message": "खोज परिणामों के विज्ञापन ब्लॉक करें"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>अधिक जानकारी\u003C/u> के लिए सेटिंग्स पर जाएं"
+   },
+   "blockingOff": {
+      "message": "ब्लॉकिंग बंद है"
+   },
+   "blockingOptions": {
+      "message": "अवरोधन विकल्प"
+   },
+   "cancel": {
+      "message": "रद्द करें"
+   },
+   "cancelAddSiteOperation": {
+      "message": "साइट ऑपरेशन जोड़ना रद्द करें"
+   },
+   "cancelEditSiteOperation": {
+      "message": "साइट संचालन संपादन रद्द करें"
+   },
+   "cancelSetStrict": {
+      "message": "स्ट्रिक्ट मोड ऑपरेशन सेट करें-रद्द करें"
+   },
+   "clearLogger": {
+      "message": "लॉगर इतिहास साफ़ करें"
+   },
+   "edit": {
+      "message": "संपादित करें"
+   },
+   "editSiteFromWhitelist": {
+      "message": "व्हाइटलिस्ट से साइट संपादित करेें"
+   },
+   "essentialBlockingName": {
+      "message": "मूलभूत"
+   },
+   "extShortDesc": {
+      "message": "अंततः, एक सक्षम अवरोधक. CPU और मेमोरी पर आसान."
+   },
+   "fingerprintBlocked": {
+      "message": "ब्राउज़र फ़िंगरप्रिंटिंग को ब्लॉक किया गया"
+   },
+   "generalSettings": {
+      "message": "सामान्य सेटिंग"
+   },
+   "goToStrict": {
+      "message": "स्ट्रिक्ट पर जाएं"
+   },
+   "keepFree": {
+      "message": "मुफ़्त बनाए रखें"
+   },
+   "keep_balanced": {
+      "message": "संतुलित रखें"
+   },
+   "keep_essential": {
+      "message": "मूलभूत रखें"
+   },
+   "learnMore": {
+      "message": "और अधिक जानें"
+   },
+   "pgLogger": {
+      "message": "गोपनीयता रक्षक लॉगर"
+   },
+   "pgSettings": {
+      "message": "सेटिंग्स बदलें"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "गोपनीयता गार्ड सेटिंग्स"
+   },
+   "privacyGuard": {
+      "message": "गोपनीयता रक्षक"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "सुरक्षा बंद है"
+   },
+   "protectionOn": {
+      "message": "सुरक्षा चालू है"
+   },
+   "protectionPaused": {
+      "message": "सुरक्षा को रोका गया"
+   },
+   "recommended": {
+      "message": "अनुशंसित"
+   },
+   "refreshWarning": {
+      "message": "जब आप गोपनीयता रक्षक चालू या बंद करते हैं, तो आपका पेज स्वचालित रूप से रीफ़्रेश हो जाएगा और आपने जो बदलाव किए थे हो सकता है वे सहेजे न गए हों। गोपनीयता रक्षक में बदलाव करने से पहले कृपया सुनिश्चित करें कोई भी किया गया कार्य सहेज लिया गया हो।"
+   },
+   "remove": {
+      "message": "निकालें"
+   },
+   "save": {
+      "message": "सहेजें"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "साइट को व्हाइटलिस्ट में सहेजें"
+   },
+   "setStrict": {
+      "message": "सख़्त सेट करें"
+   },
+   "setStrictDescription_avast": {
+      "message": "कुछ गैर-आक्रामक विज्ञापन हमें Avast Secure Browser के लिए निधि संग्रह करने में सहायता करते हैं. वे आपके ब्राउज़िंग को बाधित नहीं करते हैं और आपके ब्राउज़र को स्वतंत्र रखने में सहायता करते हैं. कृपया इन विज्ञापनों की अनुमति देकर हमारे प्रति कुछ स्नेह दर्शाएं."
+   },
+   "setStrictDescription_avg": {
+      "message": "कुछ गैर-आक्रामक विज्ञापन हमें AVG Secure Browser के लिए निधि संग्रह करने में सहायता करते हैं. वे आपके ब्राउज़िंग को बाधित नहीं करते हैं और आपके ब्राउज़र को स्वतंत्र रखने में सहायता करते हैं. कृपया इन विज्ञापनों की अनुमति देकर हमारे प्रति कुछ स्नेह दर्शाएं."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "बहुत कम गैर-आक्रामक विज्ञापन हमें CCleaner Browser के लिए निधि संग्रह करने में सहायता करते हैं. वे आपके ब्राउज़िंग को बाधित नहीं करते हैं और आपके ब्राउज़र को स्वतंत्र रखने में सहायता करते हैं. कृपया इन विज्ञापनों की अनुमति देकर हमारे प्रति कुछ स्नेह दर्शाएं."
+   },
+   "setStrictMode": {
+      "message": "स्ट्रिक्ट मोड सेट करें"
+   },
+   "setStrictTitle": {
+      "message": "गोपनीयता गार्ड के लिए के लिए सख्त सेट करें"
+   },
+   "setToBalanced": {
+      "message": "आपको संतुलित ब्लॉकिंग के लिए सेट किया गया है"
+   },
+   "setToBasic": {
+      "message": "आफ को मूलभूल ब्लॉकिंग के लिए सेट किया गया है"
+   },
+   "setToStrict": {
+      "message": "आपने कड़ाई से अपनाए जाने ब्लॉकिंग को सेट किया है"
+   },
+   "settingsDescription": {
+      "message": "बेहतर गोपनीयता सुरक्षा. ट्रैकर्स आदि से अपनी पहचान सुरक्षित रखें. तेज़, सुरक्षित ब्राउज़िंग के लिए विज्ञापनों और ट्रैकर्स को ब्लॉक करें."
+   },
+   "settingsShowNumberBadge": {
+      "message": "इस आइकॉन पर अवरुद्ध किये गए विज्ञापनों की संख्या प्रदर्शित करें"
+   },
+   "site": {
+      "message": "साइट"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "जिन साइटों पर आपने विज्ञापनों की अनुमति दी है, वे यहां दिखाई देंगी"
+   },
+   "spc": {
+      "message": "सुरक्षा और गोपनीयता केंद्रसुरक्षा और गोपनीयता केंद्र"
+   },
+   "stayOn_balanced": {
+      "message": "संतुलित मोड पर बने रहें"
+   },
+   "stayOn_essential": {
+      "message": "आवश्यक मोड पर बने रहें"
+   },
+   "strictBlocking": {
+      "message": "कड़ाई से अपनाया गया ब्लॉकिंग"
+   },
+   "strictBlockingDescription": {
+      "message": "तेज़, बिना रुकावट वाले ब्राउज़र अनुभव के लिए सब कुछ स्वचालित रूप से ब्लॉक करें."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "इस सेटिंग के कारण कुछ साइटें ठीक से लोड नहीं हो पाएंगी (हो सकता है कि कुछ कंटेंट दिखाई न पड़े या ऐसा लगे कि साइट से कनेक्शन टूट गया हो, तो इस सेटिंग को बंद कर दें)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "संतुलित ब्लॉकिंग और ब्राउज़र नोटिफिकेशन तथा फिंगरप्रिंटिंग के रूप में सब कुछ"
+   },
+   "strictBlockingName": {
+      "message": "सख़्त"
+   },
+   "strictModalDescription": {
+      "message": "हमारे ब्राउज़र का मुफ़्त उपयोग बनाए रखने के लिए, हम ऐसे भागीदारों पर निर्भर होते हैं जो कुछ परेशान रहित तथा उपयोगकर्ता अनुकूल विज्ञापनों के माध्यम से हमें फंड करते हैं। हमारा लक्ष्य आपकी गोपनीयता को मज़बूत करना तथा आपकी ऑनलाइन पहचान को सुरक्षित रखना है"
+   },
+   "strictModalTitle": {
+      "message": "हमारे ब्राउज़र का मुफ़्त उपयोग बनाए रखने में मदद करें"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "कुल __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "अन्य सेटिंग्स के लिए \u003Cb>\u003Cu>सुरक्षा और गोपनीयता केंद्र\u003C/u>\u003C/b>\nपर जाएँ"
+   },
+   "whitelistModalDescription": {
+      "message": "आप किस साइट पर विज्ञापन चालू रखना चाहते हैं?"
+   },
+   "youWillBlock": {
+      "message": "आप ब्लॉक कर पाएंगे: "
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Зв'язок"
+   },
+   "extShortDesc": {
+      "message": "Розширення бічної панелі браузера"
+   },
+   "extTitle": {
+      "message": "Розширення бічної панелі"
+   },
+   "featured": {
+      "message": "Рекомендовано"
+   },
+   "music": {
+      "message": "Музика"
+   },
+   "notes": {
+      "message": "Примітки"
+   },
+   "social": {
+      "message": "Соціальні мережі"
+   }
+}

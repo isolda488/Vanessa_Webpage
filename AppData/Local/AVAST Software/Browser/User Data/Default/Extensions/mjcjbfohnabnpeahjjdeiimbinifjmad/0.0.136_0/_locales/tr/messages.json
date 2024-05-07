@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Bana istediğinizi sorun..."
+   },
+   "clearChat": {
+      "message": "Sohbeti temizle"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Bir hata oluştu. Gönderilen mesaj çok uzundu, yeni bir sohbet başlatın ve daha kısa bir mesaj gönderin."
+   },
+   "example_0": {
+      "message": "“Şarap yapım sürecini açıkla.”"
+   },
+   "example_1": {
+      "message": "“14 yaşındaki bir çocuk için doğum günü için hediye fikirleri ver.”"
+   },
+   "example_2": {
+      "message": "“Tokyo'ya 7 günlük bir gezi planlamama yardım et.”"
+   },
+   "examples": {
+      "message": "Örnekler:"
+   },
+   "exploreGenie": {
+      "message": "Norton Genie'yi Keşfedin"
+   },
+   "extShortDesc": {
+      "message": "AI Chat uzantısı"
+   },
+   "extTitle": {
+      "message": "AI Chat uzantısı"
+   },
+   "freshChat": {
+      "message": "Başka sorunuz yoksa bu sohbeti 5 dakika içinde sileceğiz, böylece yeni bir sohbete başlayabilirsiniz."
+   },
+   "genieDescription": {
+      "message": "Genie, metinlerin, e-postaların, web sitelerinin veya sosyal medya gönderilerinin dolandırıcılık olup olmadığını saniyeler içinde tespit edebilir. Şüpheli mesajların ekran görüntülerini kopyalayıp yapıştırmanız veya uygulamaya yüklemeniz yeterlidir; bu sayede dolandırıcılık olup olmadığını hemen anlayabilirsiniz."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Üzgünüm ama bu talebinize yardımcı olamayacağım."
+   },
+   "initialScreenSubtitle": {
+      "message": "Yanıtlarını AI Chat versin."
+   },
+   "initialScreenTitle": {
+      "message": "İlginizi çekti mi? Sorularınızı sorun…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Bir hata oluştu. Gönderilen mesaj çok uzun, daha kısa bir mesaj gönderin."
+   },
+   "limitError": {
+      "message": "Bu oturum için mesaj sınırına ulaştınız. Baştan başlamak için sohbeti temizlemeyi deneyin."
+   },
+   "limitErrorMessage": {
+      "message": "Bu oturum için mesaj sınırına ulaştınız. Baştan başlamak için sohbeti temizlemeyi deneyin."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Hâlâ orada mısın?\u003C/b>Bir süredir bir şey yazmadınız."
+   },
+   "suggestedSearch": {
+      "message": "Önerilen aramalar"
+   },
+   "tooManyRequestsError": {
+      "message": "Çok fazla istek. Daha sonra tekrar deneyin."
+   },
+   "tryAsking": {
+      "message": "Sormayı deneyin "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, gerçek zamanlı yapay zeka destekli dolandırıcılık tespit aracımız."
+   }
+}

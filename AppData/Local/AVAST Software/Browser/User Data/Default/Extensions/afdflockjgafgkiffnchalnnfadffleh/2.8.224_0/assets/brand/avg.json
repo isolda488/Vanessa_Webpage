@@ -1,0 +1,12 @@
+{
+  "theme": {
+    "primary": "#09884C",
+    "secondary": "#09884C",
+    "hoverPrimary": "#076D3D",
+    "hoverSecondary": "#076D3D"
+  },
+  "urls": {
+    "eula": "https://extension.securebrowser.com/policies/license",
+    "info": "https://extension.securebrowser.com/video-downloader/about"
+  }
+}

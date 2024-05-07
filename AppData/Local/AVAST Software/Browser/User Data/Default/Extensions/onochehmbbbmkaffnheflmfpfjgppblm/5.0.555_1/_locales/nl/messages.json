@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Geblokkeerd door"
+   },
+   "LoggerList": {
+      "message": "Lijst"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Type"
+   },
+   "LoggerWhitelisting": {
+      "message": "Aan witte lijst toevoegen"
+   },
+   "add": {
+      "message": "Toevoegen"
+   },
+   "addSite": {
+      "message": "Website toevoegen"
+   },
+   "adsTrackersAllowed": {
+      "message": "Reclame en trackers op deze website worden toegestaan"
+   },
+   "adsTrackersBlocked": {
+      "message": "Reclame en trackers geblokkeerd"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Altijd advertenties toestaan op de volgende websites"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ poging gedetecteerd"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ pogingen gedetecteerd"
+   },
+   "balancedBlocking": {
+      "message": "Evenwichtig blokkeren"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blokkeer bekende trackers en nog meer advertenties voor een snellere browse-ervaring."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Alles in Essentieel blokkeren en Advertenties op sociale media"
+   },
+   "balancedBlockingName": {
+      "message": "Evenwichtig"
+   },
+   "basicBlocking": {
+      "message": "Algemeen blokkeren"
+   },
+   "basicBlockingDescription": {
+      "message": "Blokkeer bekende trackers en advertenties die uw browse-ervaring verstoren."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Bekende trackers, pop-upadvertenties en banners, inclusief video's"
+   },
+   "blockAdsSearch": {
+      "message": "Reclame in zoekresultaten blokkeren"
+   },
+   "blockSearchAds": {
+      "message": "Reclame in zoekresultaten blokkeren"
+   },
+   "blockSearchAdsMore": {
+      "message": "Ga naar de instellingen voor \u003Cu>Meer informatie\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Blokkeren is uitgeschakeld"
+   },
+   "blockingOptions": {
+      "message": "Blokkeeropties"
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Bewerking voor toevoegen site annuleren"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Bewerking voor bewerken site annuleren"
+   },
+   "cancelSetStrict": {
+      "message": "Bewerking voor instellen strenge modus annuleren"
+   },
+   "clearLogger": {
+      "message": "Geschiedenis in logboek wissen"
+   },
+   "edit": {
+      "message": "Bewerken"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Site in witte lijst bewerken"
+   },
+   "essentialBlockingName": {
+      "message": "Algemeen"
+   },
+   "extShortDesc": {
+      "message": "Eindelijk een efficiënt blokkeerprogramma dat vriendelijk is voor processor en geheugen."
+   },
+   "fingerprintBlocked": {
+      "message": "Fingerprinting in browser geblokkeerd"
+   },
+   "generalSettings": {
+      "message": "Algemene instellingen"
+   },
+   "goToStrict": {
+      "message": "Ga naar Strikt"
+   },
+   "keepFree": {
+      "message": "Gratis houden"
+   },
+   "keep_balanced": {
+      "message": "Evenwichtig houden"
+   },
+   "keep_essential": {
+      "message": "Algemeen behouden"
+   },
+   "learnMore": {
+      "message": "Meer informatie"
+   },
+   "pgLogger": {
+      "message": "Logboek van Privacybewaking"
+   },
+   "pgSettings": {
+      "message": "Instellingen wijzigen"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Instellingen van Privacybewaking"
+   },
+   "privacyGuard": {
+      "message": "Privacybewaking"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "bescherming is UITGESCHAKELD"
+   },
+   "protectionOn": {
+      "message": "bescherming is INGESCHAKELD"
+   },
+   "protectionPaused": {
+      "message": "bescherming is gepauzeerd"
+   },
+   "recommended": {
+      "message": "Aanbevolen"
+   },
+   "refreshWarning": {
+      "message": "Wanneer u Privacybewaking AAN of UIT zet, wordt uw pagina automatisch vernieuwd en worden uw wijzigingen mogelijk niet opgeslagen. Sla uw werk altijd op voordat u Privacybewaking verandert."
+   },
+   "remove": {
+      "message": "Verwijderen"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Site opslaan in witte lijst"
+   },
+   "setStrict": {
+      "message": "Streng instellen"
+   },
+   "setStrictDescription_avast": {
+      "message": "Een klein aantal niet-hinderlijke advertenties helpt ons om Avast Secure Browser te financieren. Uw browseactiviteiten worden er niet door onderbroken en ze zorgen ervoor dat uw browser gratis blijft. U doet ons een groot plezier door deze advertenties toe te staan."
+   },
+   "setStrictDescription_avg": {
+      "message": "Een klein aantal niet-hinderlijke advertenties helpt ons om AVG Secure Browser te financieren. Uw browseactiviteiten worden er niet door onderbroken en ze zorgen ervoor dat uw browser gratis blijft. U doet ons een groot plezier door deze advertenties toe te staan."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Een klein aantal niet-hinderlijke advertenties helpt ons om CCleaner Browser te financieren. Uw browseactiviteiten worden er niet door onderbroken en ze zorgen ervoor dat uw browser gratis blijft. U doet ons een groot plezier door deze advertenties toe te staan."
+   },
+   "setStrictMode": {
+      "message": "Strenge modus instellen"
+   },
+   "setStrictTitle": {
+      "message": "Privacybewaking op streng instellen"
+   },
+   "setToBalanced": {
+      "message": "Uw instelling is Evenwichtig blokkeren"
+   },
+   "setToBasic": {
+      "message": "Uw instelling is Algemeen blokkeren"
+   },
+   "setToStrict": {
+      "message": "Ingesteld op Streng blokkeren"
+   },
+   "settingsDescription": {
+      "message": "Verbeterde privacybescherming. Verberg uw identiteit voor trackers.\nBlokkeer reclame en trackers, zodat u veiliger kunt browsen."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Het aantal geblokkeerde advertenties op het pictogram tonen"
+   },
+   "site": {
+      "message": "Website"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Hier worden de websites getoond waarvoor u advertenties hebt toegestaan"
+   },
+   "spc": {
+      "message": "Beveiligings- en privacycentrum"
+   },
+   "stayOn_balanced": {
+      "message": "Evenwichtige modus blijven gebruiken"
+   },
+   "stayOn_essential": {
+      "message": "Essentiële modus blijven gebruiken"
+   },
+   "strictBlocking": {
+      "message": "Streng blokkeren"
+   },
+   "strictBlockingDescription": {
+      "message": "Blokkeer alles automatisch voor een snellere, ongestoorde browse-ervaring."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Deze instelling zorgt er mogelijk voor dat sommige websites niet goed worden geladen. (Als bepaalde inhoud niet wordt weergegeven of de website niet goed werkt, schakelt u deze instelling uit.)"
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Alles zoals Evenwichtig blokkeren en browsermeldingen en vingerafdrukken"
+   },
+   "strictBlockingName": {
+      "message": "Streng"
+   },
+   "strictModalDescription": {
+      "message": "Om onze browser gratis te houden, zijn we afhankelijk van partners die ons financieren door middel van enkele niet-storende en gebruiksvriendelijke advertenties. Wij willen u in staat te stellen uw privacy te verbeteren en uw online identiteit te beschermen"
+   },
+   "strictModalTitle": {
+      "message": "Help onze browser gratis te houden"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Totaal __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Ga naar \u003Cb>\u003Cu>Beveiligings- en privacycentrum\u003C/u>\u003C/b>\n voor andere instellingen"
+   },
+   "whitelistModalDescription": {
+      "message": "Op welke site wilt u advertenties toestaan?"
+   },
+   "youWillBlock": {
+      "message": "U blokkeert: "
+   }
+}

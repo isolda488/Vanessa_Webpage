@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Vprašajte me kar koli …"
+   },
+   "clearChat": {
+      "message": "Izbriši klepet"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Prišlo je do napake. Poslano sporočilo je bilo predolgo. Začnite nov klepet in pošljite krajše sporočilo."
+   },
+   "example_0": {
+      "message": "“Pojasni mi postopek pridelave vina.”"
+   },
+   "example_1": {
+      "message": "“Seznam predlogov rojstnodnevnih daril za 14-letnega dečka.”"
+   },
+   "example_2": {
+      "message": "“Pomagaj mi načrtovati 7-dnevni izlet v Tokio.”"
+   },
+   "examples": {
+      "message": "Primeri:"
+   },
+   "exploreGenie": {
+      "message": "Raziščite Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Razširitev AI Chat"
+   },
+   "extTitle": {
+      "message": "Razširitev AI Chat"
+   },
+   "freshChat": {
+      "message": "Če nimate več vprašanj, bo ta klepet čez 5 minut izbrisan, da bo mogoče začeti novega."
+   },
+   "genieDescription": {
+      "message": "Genie lahko v nekaj sekundah ugotovi, ali so besedila, e-poštna sporočila, spletna mesta ali objave v družbenih omrežjih prevara. Preprosto kopirajte in prilepite sumljiva sporočila (ali naložite posnetke zaslona) v program, ta pa vam bo takoj sporočil, ali gre morda za prevaro."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Žal vam ne morem pomagati pri tej zahtevi."
+   },
+   "initialScreenSubtitle": {
+      "message": "Poiščite želene odgovore z razširitvijo AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Vas zanima? Vprašajte …"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Prišlo je do napake. Poslano sporočilo je bilo predolgo, pošljite krajšega."
+   },
+   "limitError": {
+      "message": "Dosegli ste omejitev števila sporočil za to sejo. Če želite začeti znova, poskusite izbrisati klepet."
+   },
+   "limitErrorMessage": {
+      "message": "Dosegli ste omejitev števila sporočil za to sejo. Če želite začeti znova, poskusite izbrisati klepet."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Ste še tu?\u003C/b> Že nekaj časa niste ničesar napisali."
+   },
+   "suggestedSearch": {
+      "message": "Predlagana iskanja"
+   },
+   "tooManyRequestsError": {
+      "message": "Preveliko število zahtev. Poskusite znova pozneje."
+   },
+   "tryAsking": {
+      "message": "Poskusite vprašati "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, naše orodje za sprotno zaznavanje prevar, ki temelji na tehnologiji umetne inteligence."
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Komunikasi"
+   },
+   "extShortDesc": {
+      "message": "Sambungan Panel Sisi Pelayar"
+   },
+   "extTitle": {
+      "message": "Sambungan Panel Sisi"
+   },
+   "featured": {
+      "message": "Dicirikan"
+   },
+   "music": {
+      "message": "Muzik"
+   },
+   "notes": {
+      "message": "Nota"
+   },
+   "social": {
+      "message": "Sosial"
+   }
+}

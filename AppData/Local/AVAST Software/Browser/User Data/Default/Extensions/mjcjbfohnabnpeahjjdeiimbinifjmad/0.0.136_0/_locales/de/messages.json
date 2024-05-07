@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Fragen Sie mich etwas..."
+   },
+   "clearChat": {
+      "message": "Chat löschen"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Es ist ein Fehler aufgetreten. Die übermittelte Nachricht war zu lang. Beginnen Sie einen neuen Chat und übermitteln Sie eine kürzere Nachricht."
+   },
+   "example_0": {
+      "message": "“Erkläre den Prozess der Weinherstellung.”"
+   },
+   "example_1": {
+      "message": "“Liste der Geburtstagsgeschenkideen für einen 14-jährigen Jungen.”"
+   },
+   "example_2": {
+      "message": "“Hilf mir, eine 7-tägige Reise nach Tokio zu planen.”"
+   },
+   "examples": {
+      "message": "Beispiele:"
+   },
+   "exploreGenie": {
+      "message": "Norton Genie erforschen"
+   },
+   "extShortDesc": {
+      "message": "AI Chat-Erweiterung"
+   },
+   "extTitle": {
+      "message": "AI Chat-Erweiterung"
+   },
+   "freshChat": {
+      "message": "Wenn Sie keine Fragen mehr haben, werden wir diesen Chat in 5 Minuten löschen, damit Sie einen neuen beginnen können."
+   },
+   "genieDescription": {
+      "message": "Genie kann innerhalb von Sekunden erkennen, ob es sich bei Texten, E-Mails, Websites oder Beiträgen in sozialen Medien um Betrug handelt. Kopieren Sie einfach verdächtige Nachrichten und fügen Sie sie in die App ein oder laden Sie Screenshots hoch, und Sie erfahren sofort, ob es sich um einen Betrug handeln könnte."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Es tut mir leid, aber ich kann Ihnen bei dieser Anfrage nicht helfen."
+   },
+   "initialScreenSubtitle": {
+      "message": "Mit AI Chat erhalten Sie die Antworten, nach denen Sie suchen."
+   },
+   "initialScreenTitle": {
+      "message": "Neugierig? Fragen Sie…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Es ist ein Fehler aufgetreten. Die eingegebene Nachricht war zu lang, geben Sie eine kürzere Nachricht ein."
+   },
+   "limitError": {
+      "message": "Sie haben das Nachrichtenlimit für diese Sitzung erreicht. Versuchen Sie, den Chat zu löschen und neu zu beginnen."
+   },
+   "limitErrorMessage": {
+      "message": "Sie haben das Nachrichtenlimit für diese Sitzung erreicht. Versuchen Sie, den Chat zu löschen und neu zu beginnen."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Sind Sie noch da?\u003C/b> Sie haben schon lange nichts mehr geschrieben."
+   },
+   "suggestedSearch": {
+      "message": "Vorgeschlagene Suchen"
+   },
+   "tooManyRequestsError": {
+      "message": "Zu viele Anfragen. Versuchen Sie es später erneut."
+   },
+   "tryAsking": {
+      "message": "Versuchen Sie zu fragen "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, unser KI-gestütztes Tool zur Erkennung von Betrug in Echtzeit."
+   }
+}

@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "问我任何事..."
+   },
+   "clearChat": {
+      "message": "清除聊天"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "发生错误。提交的消息太长，请开始新的聊天并提交较短的消息。"
+   },
+   "example_0": {
+      "message": "“介绍葡萄酒的酿造过程。”"
+   },
+   "example_1": {
+      "message": "“列出 14 岁男孩的生日礼物创意。”"
+   },
+   "example_2": {
+      "message": "“帮我计划一次 7 天的东京之旅。”"
+   },
+   "examples": {
+      "message": "示例："
+   },
+   "exploreGenie": {
+      "message": "了解 Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "AI 聊天扩展程序"
+   },
+   "extTitle": {
+      "message": "AI 聊天扩展程序"
+   },
+   "freshChat": {
+      "message": "如果您没有更多问题，我们将在 5 分钟内删除此聊天，以便您可以开始新的聊天。"
+   },
+   "genieDescription": {
+      "message": "Genie 可以在几秒钟内检测到短信、电子邮件、网站或社交媒体帖子是否是骗局。只需将可疑消息的屏幕截图复制粘贴或上传到应用程序，它就会让您立即知道这是否可能是骗局。"
+   },
+   "inappropriateErrorMessage": {
+      "message": "很抱歉，我不能协助处理这个请求。"
+   },
+   "initialScreenSubtitle": {
+      "message": "通过 AI 聊天获取您想要的答案。"
+   },
+   "initialScreenTitle": {
+      "message": "有兴趣？提问吧…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "发生错误。提交的消息太长，请提交较短的消息。"
+   },
+   "limitError": {
+      "message": "您已达到此会话的消息限制。尝试清除聊天以重新开始。"
+   },
+   "limitErrorMessage": {
+      "message": "您已达到此会话的消息限制。尝试清除聊天以重新开始。"
+   },
+   "stillThere": {
+      "message": "\u003Cb>还在吗？\u003C/b>您有一段时间没有输入内容了。"
+   },
+   "suggestedSearch": {
+      "message": "建议的搜索"
+   },
+   "tooManyRequestsError": {
+      "message": "请求太多。请稍后重试。"
+   },
+   "tryAsking": {
+      "message": "试着问 "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>，我们的实时 AI 驱动的诈骗检测工具。"
+   }
+}

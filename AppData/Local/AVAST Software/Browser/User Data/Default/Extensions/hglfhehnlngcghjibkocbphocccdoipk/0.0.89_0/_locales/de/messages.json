@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Kommunikation"
+   },
+   "extShortDesc": {
+      "message": "Erweiterung der Browser-Seitenleiste"
+   },
+   "extTitle": {
+      "message": "Erweiterung Seitenbereich"
+   },
+   "featured": {
+      "message": "Empfohlen"
+   },
+   "music": {
+      "message": "Musik"
+   },
+   "notes": {
+      "message": "Notizen"
+   },
+   "social": {
+      "message": "Social Media"
+   }
+}

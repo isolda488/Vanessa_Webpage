@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Video Downloader"
+    },
+    "appDesc": {
+        "message": "Scarica video per la visualizzazione offline"
+    },
+    "barMediaBtn": {
+        "message": "Media",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Scarica",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Scollega",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Impostazioni",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Non mostrare più",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Non mostrare per questo sito",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Maggiori informazioni",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Audio",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Tecnologia Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Impostazioni",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Video Downloader",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Scarica video per la visualizzazione offline.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Audio",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Scarica",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Ricollega",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "dimensioni sconosciute",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Nessun video da scaricare in questa pagina",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Per scaricare un video, accedi alla pagina dei dettagli.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Video Downloader è disabilitato per",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Abilita",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Accettando l'<div><a target='blank' href='$link$'>Accordo di licenza con l'utente finale<\/a><\/div> (EULA), l'utente si impegna e acconsente a utilizzare Video Downloader conformemente alle leggi vigenti sul copyright e ai Termini di Utilizzo di qualsiasi sito Web.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Prima di eseguire il download",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Comprendo e accetto l'Accordo di licenza con l'utente finale",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Continua",
+        "description": "EUlA continue button"
+    }
+}

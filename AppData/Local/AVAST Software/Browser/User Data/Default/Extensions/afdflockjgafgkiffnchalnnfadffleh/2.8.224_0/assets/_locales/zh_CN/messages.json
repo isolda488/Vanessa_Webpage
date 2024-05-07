@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "视频下载器"
+    },
+    "appDesc": {
+        "message": "下载视频，离线观看"
+    },
+    "barMediaBtn": {
+        "message": "媒介",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "下载",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "分离",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "设置",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "不再显示",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "在此站点上不再显示",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "更多信息",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "视频",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "音频",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "由 Secure Browser 提供支持",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "设置",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "视频下载器",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "下载视频，离线观看。",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "音频",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "视频",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "下载",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "重新添加",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "未知大小",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "该页面没有需要下载的视频",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "转至详情页面，下载视频",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "视频下载器已禁止用于",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "启用",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "接受我们的<div><a target='blank' href='$link$'>最终用户许可协议<\/a><\/div> (EULA)，即表示您承认并同意，遵照适用的版权法和任何网站的使用条款使用视频下载器。",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "下载之前",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "本人理解并接受 EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "继续",
+        "description": "EUlA continue button"
+    }
+}

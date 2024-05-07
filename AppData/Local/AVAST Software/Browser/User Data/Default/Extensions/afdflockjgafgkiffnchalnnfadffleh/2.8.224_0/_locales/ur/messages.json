@@ -1,0 +1,117 @@
+{
+   "appDesc": {
+      "message": "آف لائن طور پر دیکھنے کے لیے ویڈوز ڈاؤن لوڈ کریں"
+   },
+   "appName": {
+      "message": "ویڈیو ڈاؤن لوڈر"
+   },
+   "barDetachBtn": {
+      "description": "The Detach button text as visible on the floating bar",
+      "message": "علیحدہ کریں"
+   },
+   "barDownloadBtn": {
+      "description": "The Download button text as visible on the floating bar",
+      "message": "ڈاؤن لوڈ کریں"
+   },
+   "barMediaBtn": {
+      "description": "The Media button text as visible on the floating bar",
+      "message": "میڈیا"
+   },
+   "barQualityAudio": {
+      "description": "Audio title",
+      "message": "آڈیو"
+   },
+   "barQualityVideo": {
+      "description": "Video title",
+      "message": "ویڈیو"
+   },
+   "barSettingsAbout": {
+      "description": "About Button in settings popup",
+      "message": "مزيد معلومات"
+   },
+   "barSettingsBtn": {
+      "description": "The Settings button text as visible on the floating bar",
+      "message": "سيٹنگز"
+   },
+   "barSettingsDescription": {
+      "description": "Video download feature description in settings popup",
+      "message": "NortonSecure Browser کے ذریعے جاری کردہ"
+   },
+   "barSettingsDoNotShow": {
+      "description": "Button in settings popup disabling video-downloader",
+      "message": "دوبارہ نہ دکھائیں"
+   },
+   "barSettingsDoNotShowForSite": {
+      "description": "Button in settings popup disabling video-downloader for exact site",
+      "message": "اس سائٹ پر نہ دکھائیں"
+   },
+   "barSettingsTitle": {
+      "description": "Settings popup title in the floating bar",
+      "message": "سيٹنگز"
+   },
+   "eulaContinue": {
+      "description": "EUlA continue button",
+      "message": "جاری رکھیں"
+   },
+   "eulaText": {
+      "description": "EULA message displayed to the user",
+      "message": "ہمارے \u003Cdiv>\u003Ca target='blank' href='$link$'>انتہائی صارف لائسنس معاہدہ\u003C/a>\u003C/div> (EULA) کو قبول کرتے ہوئے، آپ تسلیم اور اتفاق کرتے ہیں کہ قابل اطلاق کاپی رائٹ قوانین اور کسی بھی ویب سائٹ کے استعمال کی شرائط کے مطابق ویڈیو ڈاؤن لوڈر کا استعمال آپ کی ذمہ داری ہے۔",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "eulaTitle": {
+      "description": "EULA popup title",
+      "message": "آپ ڈاؤن لوڈ کریں اس سے پہلے"
+   },
+   "eulaUnderstandAccept": {
+      "description": "EULA user agreement checkbox text",
+      "message": "میں EULA کو سمجھتا اور قبول کرتا ہوں"
+   },
+   "extensionName": {
+      "description": "Name shown in the extension button in SZB Control Center.",
+      "message": "ویڈیو ڈاؤن لوڈر"
+   },
+   "extensionTitle": {
+      "description": "Title shown on hover over the extension button in SZB Control Center.",
+      "message": "آف لائن طور پر دیکھنے کے لیے ویڈوز ڈاؤن لوڈ کریں۔"
+   },
+   "optionUnknownSize": {
+      "description": "Videa or audio download option of unknown size",
+      "message": "نامعلوم سائز"
+   },
+   "popupAudioHeading": {
+      "description": "The heading of the audio section in the media popup list",
+      "message": "آڈیو"
+   },
+   "popupDisabledFor": {
+      "description": "Page was disabled for video downloader",
+      "message": "ویڈیو ڈاؤن لوڈرغیر فعال شدہ برائے"
+   },
+   "popupDownloadBtn": {
+      "description": "The Download button text as visible in the media popup list",
+      "message": "ڈاؤن لوڈ کریں"
+   },
+   "popupEnable": {
+      "description": "Enable video downloader for current page",
+      "message": "فعال کریں"
+   },
+   "popupNoVideos": {
+      "description": "Page does not contain any videos",
+      "message": "اس صفحہ پر ڈاؤن لوڈ کرنے کیلئے کوئی ویڈیوز نہیں ہیں"
+   },
+   "popupNoVideos_v2": {
+      "description": "",
+      "message": "ایک ویڈیو ڈاؤن لوڈ کرنے کے لئے، اس کی تفصیل کے صفحہ پر جائیں۔"
+   },
+   "popupVideoHeading": {
+      "description": "The heading of the video section in the media popup list",
+      "message": "ویڈیو"
+   },
+   "reattachBtn": {
+      "description": "The Reattach button text as visible on the detached video page",
+      "message": "دوبارہ منسلک کریں"
+   }
+}

@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "מוריד סרטוני וידאו"
+    },
+    "appDesc": {
+        "message": "הורד סרטונים לצפייה לא מקוונת"
+    },
+    "barMediaBtn": {
+        "message": "מדיה",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "הורד",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "נתק",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "הגדרות",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "אל תציג זאת שוב",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "אל תציג זאת שוב באתר הזה",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "מידע נוסף",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "סרטון",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "שמע",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "מופעל על ידי Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "הגדרות",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "מוריד סרטוני וידאו",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "הורד סרטונים לצפייה לא מקוונת.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "שמע",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "סרטון",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "הורד",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "חבר מחדש",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "גודל לא ידוע",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "אין סרטונים להורדה בדף הזה",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "כדי להוריד סרטון, עבור אל דף הפרטים שלו.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "'מוריד סרטוני וידאו' מושבת עבור",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "הפעל",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "קבלת <div><a target='blank' href='$link$'>הסכם הרישיון למשתמשי קצה<\/a><\/div> היא אישור והסכמה לכך שבאחריותך להשתמש ב'מוריד סרטוני וידאו' בהתאם לחוקי זכויות היוצרים הרלוונטיים ולתנאי השימוש של כל אתר.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "לפני ההורדה",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "אני מבין ומקבל את הסכם הרישיון למשתמשי קצה",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "המשך",
+        "description": "EUlA continue button"
+    }
+}

@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "บล็อกโดย"
+   },
+   "LoggerList": {
+      "message": "รายการ"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "ประเภท"
+   },
+   "LoggerWhitelisting": {
+      "message": "การทำรายการที่อนุญาต"
+   },
+   "add": {
+      "message": "เพิ่ม"
+   },
+   "addSite": {
+      "message": "เพิ่มเว็บไซต์"
+   },
+   "adsTrackersAllowed": {
+      "message": "มีการอนุญาตให้แสดงโฆษณาและมีตัวติดตามบนเว็บไซต์นี้"
+   },
+   "adsTrackersBlocked": {
+      "message": "บล็อกโฆษณาและตัวติดตามแล้ว"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "อนุญาตโฆษณาในเว็บไซต์ต่อไปนี้เสมอ"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "ตรวจพบความพยายามในการใช้ __TOTAL_FINGERPRINTING__ ครั้ง"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "ตรวจพบความพยายามในการใช้ __TOTAL_FINGERPRINTING__ ครั้ง"
+   },
+   "balancedBlocking": {
+      "message": "การบล็อคแบบสมดุล"
+   },
+   "balancedBlockingDescription": {
+      "message": "บล็อกตัวติดตามที่รู้จัก หรือแม้กระทั่งโฆษณาอื่นๆ เพื่อประสบการณ์ท่องเว็บที่รวดเร็วยิ่งขึ้น"
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "ทั้งหมดในการบล็อคพื้นฐานและโฆษณาบนสื่อสังคม"
+   },
+   "balancedBlockingName": {
+      "message": "สมดุล"
+   },
+   "basicBlocking": {
+      "message": "การบล็อกขั้นพื้นฐาน"
+   },
+   "basicBlockingDescription": {
+      "message": "บล็อกตัวติดตามที่รู้จักและโฆษณาที่ทำให้ประสบการณ์ท่องเว็บของคุณติดขัด"
+   },
+   "basicBlockingExtraDescription": {
+      "message": "ตัวติดตามที่รู้จัก โฆษณาแบบป็อปอัพและแบนเนอร์ รวมถึงวิดีโอ"
+   },
+   "blockAdsSearch": {
+      "message": "บล็อกโฆษณาในผลลัพธ์การค้นหา"
+   },
+   "blockSearchAds": {
+      "message": "บล็อกโฆษณาในผลลัพธ์การค้นหา"
+   },
+   "blockSearchAdsMore": {
+      "message": " โปรดไปที่การตั้งค่าเพื่อดู\u003Cu>ข้อมูลเพิ่มเติม\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "การบล็อกปิดอยู่"
+   },
+   "blockingOptions": {
+      "message": "ตัวเลือกการบล็อค"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "cancelAddSiteOperation": {
+      "message": "ยกเลิกการดำเนินงานเพื่อเพิ่มเว็บไซต์"
+   },
+   "cancelEditSiteOperation": {
+      "message": "ยกเลิกการดำเนินงานเพื่อแก้ไขเว็บไซต์"
+   },
+   "cancelSetStrict": {
+      "message": "ยกเลิกการดำเนินงานเพื่อตั้งโหมดเข้มงวด"
+   },
+   "clearLogger": {
+      "message": "ล้างประวัติตัวบันทึก"
+   },
+   "edit": {
+      "message": "แก้ไข"
+   },
+   "editSiteFromWhitelist": {
+      "message": "แก้ไขเว็บไซต์ในบัญชีขาว"
+   },
+   "essentialBlockingName": {
+      "message": "พื้นฐาน"
+   },
+   "extShortDesc": {
+      "message": "ในที่สุดก็มีโปรแกรมบล็อคที่มีประสิทธิภาพ ที่ไม่หนัก CPU และหน่วยความจำ"
+   },
+   "fingerprintBlocked": {
+      "message": "บล็อกลายนิ้วมือบนเบราว์เซอร์แล้ว"
+   },
+   "generalSettings": {
+      "message": "การตั้งค่าทั่วไป"
+   },
+   "goToStrict": {
+      "message": "ไปที่เข้มงวด"
+   },
+   "keepFree": {
+      "message": "ใช้งานได้ฟรี"
+   },
+   "keep_balanced": {
+      "message": "ใช้สมดุลต่อไป"
+   },
+   "keep_essential": {
+      "message": "ใช้ขั้นพื้นฐานต่อไป"
+   },
+   "learnMore": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "pgLogger": {
+      "message": "ตัวบันทึกระบบป้องกันความเป็นส่วนตัว"
+   },
+   "pgSettings": {
+      "message": "เปลี่ยนแปลงการตั้งค่า"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "การตั้งค่าระบบป้องกันความเป็นส่วนตัว"
+   },
+   "privacyGuard": {
+      "message": "ระบบป้องกันความเป็นส่วนตัว"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "การป้องกันปิดอยู่"
+   },
+   "protectionOn": {
+      "message": "การป้องกันเปิดอยู่"
+   },
+   "protectionPaused": {
+      "message": "การป้องกันหยุดชั่วคราว"
+   },
+   "recommended": {
+      "message": "ขอแนะนำ"
+   },
+   "refreshWarning": {
+      "message": "เมื่อคุณเปิดหรือปิดระบบป้องกันความเป็นส่วนตัว หน้าของคุณจะรีเฟรชโดยอัตโนมัติ และการเปลี่ยนแปลงที่คุณทำอาจไม่ได้รับการบันทึก โปรดตรวจสอบให้แน่ใจว่าได้บันทึกงานต่าง ๆ แล้วก่อนเปลี่ยนระบบป้องกันความเป็นส่วนตัว"
+   },
+   "remove": {
+      "message": "ลบออก"
+   },
+   "save": {
+      "message": "บันทึก"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "บันทึกเว็บไซต์ในบัญชีขาว"
+   },
+   "setStrict": {
+      "message": "ตั้งค่าเป็นเข้มงวด"
+   },
+   "setStrictDescription_avast": {
+      "message": "โฆษณาที่ไม่รบกวนเพียงเล็กน้อยสามารถเป็นเงินทุนให้ Avast Secure Browser ได้ โฆษณาเหล่านี้จะไม่ขัดจังหวะการท่องเว็บของคุณและช่วยให้เบราว์เซอร์ของคุณไม่ถูกปิดกั้น ช่วยแสดงความรักให้เราหน่อยนะโดยอนุญาตโฆษณาเหล่านี้"
+   },
+   "setStrictDescription_avg": {
+      "message": "โฆษณาที่ไม่รบกวนเพียงเล็กน้อยสามารถเป็นเงินทุนให้ AVG Secure Browser ได้ โฆษณาเหล่านี้จะไม่ขัดจังหวะการท่องเว็บของคุณและช่วยให้เบราว์เซอร์ของคุณไม่ถูกปิดกั้น ช่วยแสดงความรักให้เราหน่อยนะโดยอนุญาตโฆษณาเหล่านี้"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "โฆษณาที่ไม่รบกวนเพียงเล็กน้อยสามารถเป็นเงินทุนให้ CCleaner Browser ได้ โฆษณาเหล่านี้จะไม่ขัดจังหวะการท่องเว็บของคุณและช่วยให้เบราว์เซอร์ของคุณไม่ถูกปิดกั้น ช่วยแสดงความรักให้เราหน่อยนะโดยอนุญาตโฆษณาเหล่านี้"
+   },
+   "setStrictMode": {
+      "message": "ตั้งโหมดเข้มงวด"
+   },
+   "setStrictTitle": {
+      "message": "ตั้งระบบป้องกันความเป็นส่วนตัวเป็นเข้มงวด"
+   },
+   "setToBalanced": {
+      "message": "คุณมีการตั้งค่าเป็นการบล็อกแบบสมดุล"
+   },
+   "setToBasic": {
+      "message": "คุณมีการตั้งค่าเป็นการบล็อกขั้นพื้นฐาน"
+   },
+   "setToStrict": {
+      "message": "คุณมีการตั้งค่าเป็นการบล็อกอย่างเข้มงวด"
+   },
+   "settingsDescription": {
+      "message": "การป้องกันความเป็นส่วนตัวที่ดียิ่งขึ้น ปกป้องตัวตนของคุณจากตัวติดตามและอื่นๆ อีกมากมาย\nบล็อคโฆษณาและตัวติดตามเพื่อการท่องเว็บที่รวดเร็วและปลอดภัยกว่าเดิม"
+   },
+   "settingsShowNumberBadge": {
+      "message": "แสดงจำนวนการโฆษณาที่ถูกบล็อคบนไอคอน"
+   },
+   "site": {
+      "message": "เว็บไซต์"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "เว็บไซต์ที่คุณอนุญาตโฆษณาจะปรากฏที่นี่"
+   },
+   "spc": {
+      "message": "ศูนย์ความปลอดภัยและความเป็นส่วนตัว"
+   },
+   "stayOn_balanced": {
+      "message": "อยู่ในโหมดสมดุลต่อไป"
+   },
+   "stayOn_essential": {
+      "message": "อยู่ในโหมดจำเป็นต่อไป"
+   },
+   "strictBlocking": {
+      "message": "การบล็อกอย่างเข้มงวด"
+   },
+   "strictBlockingDescription": {
+      "message": "บล็อกทุกสิ่งโดยอัตโนมัติ เพื่อประสบการณ์การใช้เบราว์เซอร์ที่รวดเร็วยิ่งขึ้นแบบไม่มีสะดุด"
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "การตั้งค่านี้อาจทำให้บางเว็บไซต์ไม่สามารถโหลดได้ตามปกติ (เนื้อหาบางอย่างอาจไม่แสดง หรือหากเว็บไซต์ดูเหมือนจะเสียหาย ให้คุณปิดการตั้งค่านี้)"
+   },
+   "strictBlockingExtraDescription": {
+      "message": "ทั้งหมดเป็นการบล็อคแบบสมดุล การแจ้งเตือนของเบราว์เซอร์ และการใช้ลายนิ้วมือ"
+   },
+   "strictBlockingName": {
+      "message": "เข้มงวด"
+   },
+   "strictModalDescription": {
+      "message": "เพื่อให้เบราว์เซอร์ของเราใช้งานได้ฟรี เราต้องพึ่งพาพันธมิตรที่ให้ทุนแก่เราผ่านโฆษณาที่ไม่มีการรบกวนและเป็นมิตรกับผู้ใช้ เป้าหมายของเราคือเพื่อช่วยให้คุณสามารถเพิ่มความเป็นส่วนตัวและปกป้องตัวตนทางออนไลน์ของคุณได้"
+   },
+   "strictModalTitle": {
+      "message": "ช่วยให้เบราว์เซอร์ของเราใช้งานได้ฟรี"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "รวมทั้งหมด __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "เข้าไปที่ \u003Cb>\u003Cu>ศูนย์ความปลอดภัยและความเป็นส่วนตัว\u003C/u>\u003C/b>\nสำหรับการตั้งค่าอื่น ๆ"
+   },
+   "whitelistModalDescription": {
+      "message": "เว็บไซต์ใดที่คุณต้องการอนุญาตโฆษณา"
+   },
+   "youWillBlock": {
+      "message": "คุณจะบล็อก: "
+   }
+}

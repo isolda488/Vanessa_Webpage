@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Video İndirme Aracı"
+    },
+    "appDesc": {
+        "message": "Çevrim dışı izlemek için videoları indirin"
+    },
+    "barMediaBtn": {
+        "message": "Medya",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "İndir",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Ayır",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Ayarlar",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Bir daha gösterme",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Bu sitede bir daha gösterme",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Daha fazla bilgi",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Ses",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Secure Browser altyapısını kullanmaktadır",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Ayarlar",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Video İndirme Aracı",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Çevrim dışı izlemek için videoları indirin.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Ses",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "İndir",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Yeniden iliştir",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "bilinmeyen boyut",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Bu sayfada indirilecek video yok",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Video indirmek için videonun ayrıntı sayfasına gidin.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Video indirme aracı şu sitede devre dışı bırakıldı:",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Etkinleştir",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "<div><a target='blank' href='$link$'>Son Kullanıcı Lisans Sözleşmesi<\/a><\/div> (SKLS) koşullarımızı kabul ettiğinizde Video İndirme Aracı'nı geçerli telif hakkı yasalarına ve web sitelerinin kullanım koşullarına uygun olarak kullanmanın sizin sorumluluğunuzda olduğunu onaylamış ve kabul etmiş oluyorsunuz.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "İndirmeden önce",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "SKLS'yi anladım ve kabul ediyorum",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Devam",
+        "description": "EUlA continue button"
+    }
+}

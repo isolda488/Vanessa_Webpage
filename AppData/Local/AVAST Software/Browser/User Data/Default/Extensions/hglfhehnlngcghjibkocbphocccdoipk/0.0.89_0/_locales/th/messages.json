@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "การสื่อสาร"
+   },
+   "extShortDesc": {
+      "message": "ส่วนขยายแผงด้านข้างของเบราว์เซอร์"
+   },
+   "extTitle": {
+      "message": "ส่วนขยายแผงด้านข้าง"
+   },
+   "featured": {
+      "message": "แนะนำ"
+   },
+   "music": {
+      "message": "เพลง"
+   },
+   "notes": {
+      "message": "โน้ต"
+   },
+   "social": {
+      "message": "โซเชียล"
+   }
+}

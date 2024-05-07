@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blockerat av"
+   },
+   "LoggerList": {
+      "message": "Lista"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Typ"
+   },
+   "LoggerWhitelisting": {
+      "message": "Vitlista"
+   },
+   "add": {
+      "message": "Lägg till"
+   },
+   "addSite": {
+      "message": "Lägg till webbplats"
+   },
+   "adsTrackersAllowed": {
+      "message": "Annonser och spårare är tillåtna på webbplatsen"
+   },
+   "adsTrackersBlocked": {
+      "message": "Annonser och spårare blockerade"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Tillåt alltid reklam på följande webbplatser"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ försök har upptäckts"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ försök upptäckta"
+   },
+   "balancedBlocking": {
+      "message": "Balanserad blockering"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blockera kända spårare och ännu fler annonser för en snabbare surfupplevelse."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Allt i Grundläggande blockering och annonser i sociala medier"
+   },
+   "balancedBlockingName": {
+      "message": "Balanserad"
+   },
+   "basicBlocking": {
+      "message": "Grundblockering"
+   },
+   "basicBlockingDescription": {
+      "message": "Blockera kända spårare och annonser från att störa din surfupplevelse."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Kända spårare, popup-fönster och annonsrutor, inklusive videor"
+   },
+   "blockAdsSearch": {
+      "message": "Blockera annonser i sökresultat"
+   },
+   "blockSearchAds": {
+      "message": "Blockera annonser i sökresultat"
+   },
+   "blockSearchAdsMore": {
+      "message": "Gå till inställningar för \u003Cu>mer information\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Blockering är av"
+   },
+   "blockingOptions": {
+      "message": "Blockeringsalternativ"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Avbryt att lägga till webbplats"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Avbryt att redigera webbplats"
+   },
+   "cancelSetStrict": {
+      "message": "Avbryt strikt läge"
+   },
+   "clearLogger": {
+      "message": "Rensa loggningshistorik"
+   },
+   "edit": {
+      "message": "Redigera"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Redigera webbplats från vitlista"
+   },
+   "essentialBlockingName": {
+      "message": "Grundläggande"
+   },
+   "extShortDesc": {
+      "message": "Äntligen en effektiv blockerare. Enkelt i CPU och minne."
+   },
+   "fingerprintBlocked": {
+      "message": "Webbläsarfingeravtryck blockerat"
+   },
+   "generalSettings": {
+      "message": "Allmänna inställningar"
+   },
+   "goToStrict": {
+      "message": "Gå till Strict"
+   },
+   "keepFree": {
+      "message": "Behåll kostnadsfri"
+   },
+   "keep_balanced": {
+      "message": "Behåll balanserad"
+   },
+   "keep_essential": {
+      "message": "Behåll Grundläggande"
+   },
+   "learnMore": {
+      "message": "Läs mer"
+   },
+   "pgLogger": {
+      "message": "Privacy Guard-loggning"
+   },
+   "pgSettings": {
+      "message": "Justera inställningar"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Inställningar för Integritetsskydd"
+   },
+   "privacyGuard": {
+      "message": "Integritetsskydd"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "skyddet är AV"
+   },
+   "protectionOn": {
+      "message": "skyddet är PÅ"
+   },
+   "protectionPaused": {
+      "message": "skyddet är pausat"
+   },
+   "recommended": {
+      "message": "Rekommenderas"
+   },
+   "refreshWarning": {
+      "message": "När du slår på eller stänger av Privacy Guard uppdateras sidan automatiskt och ändringar du har gjort kanske inte sparas. Se till att spara eventuellt arbete innan du ändrar Privacy Guard."
+   },
+   "remove": {
+      "message": "Ta bort"
+   },
+   "save": {
+      "message": "Spara"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Spara i vitlista"
+   },
+   "setStrict": {
+      "message": "Ange strikt"
+   },
+   "setStrictDescription_avast": {
+      "message": "Några få ej invasiva annonser hjälper oss att finansiera Avast Secure Browser. De avbryter inte din surf och håller din webbläsare fri. Vänligen låt oss tillåta dessa annonser."
+   },
+   "setStrictDescription_avg": {
+      "message": "Några få ej invasiva annonser hjälper oss att finansiera AVG Secure Browser. De avbryter inte din surf och håller din webbläsare fri. Vänligen låt oss tillåta dessa annonser."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Ett fåtal diskreta annonser hjälper oss att finansiera CCleaner Secure Browser. De avbryter inte din surfning och håller webbläsaren fri. Det vore hyggligt om du tillät dessa annonser."
+   },
+   "setStrictMode": {
+      "message": "Ange strikt läge"
+   },
+   "setStrictTitle": {
+      "message": "Ställ in strikt Integritetsskydd"
+   },
+   "setToBalanced": {
+      "message": "Du har ställt in Balanserad blockering"
+   },
+   "setToBasic": {
+      "message": "Du har ställt in Grundläggande blockering"
+   },
+   "setToStrict": {
+      "message": "Du har ställt in Strikt blockering"
+   },
+   "settingsDescription": {
+      "message": "Förstärkt integritetsskydd. Skydda din identitet från spårare och mycket mer. Blockera annonser och spårare för snabbare och säkrare surf."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Visa antalet blockerade annonser på ikonen"
+   },
+   "site": {
+      "message": "Webbplats"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Webbplatser som du tillåtit reklam på visas här"
+   },
+   "spc": {
+      "message": "Säkerhets- och integritetscenter"
+   },
+   "stayOn_balanced": {
+      "message": "Stanna kvar i balanserat läge"
+   },
+   "stayOn_essential": {
+      "message": "Stanna kvar i grundläggande läge"
+   },
+   "strictBlocking": {
+      "message": "Strikt blockering"
+   },
+   "strictBlockingDescription": {
+      "message": "Blockera allt automatiskt för en snabbare och oavbruten surfupplevelse."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Den här inställningen kan göra att vissa webbplatser inte laddas korrekt (en del innehåll kanske inte visas eller sidan kan framstå som icke-fungerande; stäng i så fall av den här inställningen)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Allt som Balanserad blockering och webbläsarmeddelanden och fingeravtryck"
+   },
+   "strictBlockingName": {
+      "message": "Strikt"
+   },
+   "strictModalDescription": {
+      "message": "För att hålla vår webbläsare kostnadsfri är vi beroende av partners som finansierar oss genom icke-störande och användarvänliga annonser. Vårt mål är att göra det möjligt för dig att förbättra din integritet och skydda din identitet på nätet"
+   },
+   "strictModalTitle": {
+      "message": "Hjälp till att hålla vår webbläsare kostnadsfri"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Totalt __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Gå till \u003Cb>\u003Cu>Säkerhets- och integritetscenter\u003C/u>\u003C/b>\n för andra inställningar"
+   },
+   "whitelistModalDescription": {
+      "message": "Vilken webbplats vill du tillåta reklam på?"
+   },
+   "youWillBlock": {
+      "message": "Följande blockeras: "
+   }
+}

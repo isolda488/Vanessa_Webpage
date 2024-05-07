@@ -1,0 +1,42 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "img/common/toolbar/icon_16.png",
+         "32": "img/common/toolbar/icon_32.png"
+      },
+      "default_popup": "app.html",
+      "default_title": "Privacy Guard"
+   },
+   "author": "Gen Digital",
+   "background": {
+      "service_worker": "js/background.bundle.js"
+   },
+   "content_scripts": [  ],
+   "content_security_policy": {
+      "extension_pages": "default-src 'self'; font-src *; script-src 'self'; connect-src *; style-src * 'unsafe-inline' 'self' blob:; img-src * data:; object-src 'self'"
+   },
+   "dataKeys": [ "PrivacyGuardData" ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "differential_fingerprint": "",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "*://*.avastbrowser.com/*", "*://*.avgbrowser.com/*", "*://*.ccleanerbrowser.com/*", "*://*.avast.com/*", "*://*.securebrowser.com/*" ]
+   },
+   "host_permissions": [ "https://*/", "\u003Call_urls>" ],
+   "icons": {
+      "128": "img/common/extensions_page/icon_128.png",
+      "16": "img/common/extensions_page/icon_16.png",
+      "32": "img/common/extensions_page/icon_32.png",
+      "48": "img/common/extensions_page/icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA14RHg4l9n1B+M05+Yr0yReuopm5/y9uPhHXLs5oFFFhvfIIZsHhRhLcdPK47begS/7UCOEvz5kVlBBipX0tYj5FeFUaLgeTrnaiZx3ovBdJb83aRx09XdemHe16tHydF8Vu2JJ3e/gggwA+j5UuT+xl+FJQLmq92CRt62+CqnfqhFUujGKM27CaY3pYvoYdOXoU8xlXiFGNupANhEmJhj3lXJB+w2KGBxrt2Rg+TZnOtu9jg/+4/vyU9pIrrjtRMxgD81cOB4/6dKUaeqxuYsbRtbONmTOKstyGN/IXDUiJKsaP7+NteXs1wMwdkLqEfdjZW9DxTDlz5fBpLtrDzLQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "55.0",
+   "name": "Privacy Guard",
+   "options_page": "options.html",
+   "permissions": [ "privacy", "storage", "tabs", "unlimitedStorage" ],
+   "short_name": "Privacy Guard",
+   "version": "5.0.555"
+}

@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Bloccato da"
+   },
+   "LoggerList": {
+      "message": "Elenco"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Tipo"
+   },
+   "LoggerWhitelisting": {
+      "message": "Lista bianca"
+   },
+   "add": {
+      "message": "Aggiungi"
+   },
+   "addSite": {
+      "message": "Aggiungi sito"
+   },
+   "adsTrackersAllowed": {
+      "message": "Annunci e tracker sono consentiti in questo sito"
+   },
+   "adsTrackersBlocked": {
+      "message": "Annunci e tracker bloccati"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Consenti sempre le pubblicità nei seguenti siti"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ tentativo rilevato"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ tentativi rilevati"
+   },
+   "balancedBlocking": {
+      "message": "Blocco bilanciato"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blocca i tracker noti e una quantità superiore di annunci per un'esperienza di navigazione più veloce."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Tutto in Blocco di base e Annunci su social media"
+   },
+   "balancedBlockingName": {
+      "message": "Bilanciato"
+   },
+   "basicBlocking": {
+      "message": "Blocco di base"
+   },
+   "basicBlockingDescription": {
+      "message": "Blocca gli annunci e i tracker noti che interrompono la tua esperienza di navigazione."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Tracker noti, pop-up e banner pubblicitari, inclusi i video"
+   },
+   "blockAdsSearch": {
+      "message": "Blocca annunci nei risultati di ricerca"
+   },
+   "blockSearchAds": {
+      "message": "Blocca annunci nei risultati di ricerca"
+   },
+   "blockSearchAdsMore": {
+      "message": "Accedi alle impostazioni per \u003Cu>ulteriori informazioni\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Il blocco è disattivato"
+   },
+   "blockingOptions": {
+      "message": "Opzioni di blocco"
+   },
+   "cancel": {
+      "message": "Annulla"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Annulla operazione di aggiunta del sito"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Annulla operazione di modifica del sito"
+   },
+   "cancelSetStrict": {
+      "message": "Annulla operazione di impostazione della modalità Rigorosa"
+   },
+   "clearLogger": {
+      "message": "Cancella cronologia logger"
+   },
+   "edit": {
+      "message": "Modifica"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Modifica sito nella lista bianca"
+   },
+   "essentialBlockingName": {
+      "message": "Base"
+   },
+   "extShortDesc": {
+      "message": "Finalmente un blocco efficace che non sovraccarica né la CPU né la memoria."
+   },
+   "fingerprintBlocked": {
+      "message": "Fingerprint del browser bloccata"
+   },
+   "generalSettings": {
+      "message": "Impostazioni generali"
+   },
+   "goToStrict": {
+      "message": "Passa al livello rigoroso"
+   },
+   "keepFree": {
+      "message": "Mantieni gratuito"
+   },
+   "keep_balanced": {
+      "message": "Mantieni bilanciato"
+   },
+   "keep_essential": {
+      "message": "Mantieni livello base"
+   },
+   "learnMore": {
+      "message": "Ulteriori informazioni"
+   },
+   "pgLogger": {
+      "message": "Logger di Protezione privacy"
+   },
+   "pgSettings": {
+      "message": "Cambia impostazioni"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Impostazioni di Protezione privacy"
+   },
+   "privacyGuard": {
+      "message": "Protezione privacy"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "la protezione è disattivata"
+   },
+   "protectionOn": {
+      "message": "la protezione è attivata"
+   },
+   "protectionPaused": {
+      "message": "la protezione è in pausa"
+   },
+   "recommended": {
+      "message": "Consigliato"
+   },
+   "refreshWarning": {
+      "message": "Quando attivi o disattivi Protezione privacy, la pagina si aggiorna automaticamente e le modifiche apportate potrebbero non essere salvate. Assicurati di salvare il tuo lavoro prima di modificare Protezione privacy."
+   },
+   "remove": {
+      "message": "Rimuovi"
+   },
+   "save": {
+      "message": "Salva"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Salva sito nella lista bianca"
+   },
+   "setStrict": {
+      "message": "Imposta livello rigoroso"
+   },
+   "setStrictDescription_avast": {
+      "message": "Grazie a qualche pubblicità non invasiva è possibile supportare finanziariamente Avast Secure Browser. Queste pubblicità non interrompono la navigazione e consentono di mantenere gratuito il browser. Contribuisci consentendo le pubblicità."
+   },
+   "setStrictDescription_avg": {
+      "message": "Grazie a qualche pubblicità non invasiva è possibile supportare finanziariamente AVG Secure Browser. Queste pubblicità non interrompono la navigazione e consentono di mantenere gratuito il browser. Contribuisci consentendo le pubblicità."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Grazie a qualche pubblicità non invasiva è possibile supportare finanziariamente CCleaner Browser. Queste pubblicità non interrompono la navigazione e consentono di mantenere gratuito il browser. Contribuisci consentendo le pubblicità."
+   },
+   "setStrictMode": {
+      "message": "Imposta modalità Rigorosa"
+   },
+   "setStrictTitle": {
+      "message": "Imposta il livello rigoroso per Protezione privacy"
+   },
+   "setToBalanced": {
+      "message": "La tua impostazione è Blocco bilanciato"
+   },
+   "setToBasic": {
+      "message": "La tua impostazione è Blocco di base"
+   },
+   "setToStrict": {
+      "message": "Impostato su Blocco rigoroso"
+   },
+   "settingsDescription": {
+      "message": "Protezione avanzata della privacy. Proteggi la tua identità da tracker e non solo.\nBlocca annunci e tracker per una navigazione più rapida e sicura."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Mostra sull'icona il numero delle pubblicità bloccate"
+   },
+   "site": {
+      "message": "Sito"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "I siti in cui hai consentito le pubblicità verranno visualizzati qui"
+   },
+   "spc": {
+      "message": "Centro sicurezza e privacy"
+   },
+   "stayOn_balanced": {
+      "message": "Rimani in modalità Bilanciata"
+   },
+   "stayOn_essential": {
+      "message": "Rimani in modalità Essenziale"
+   },
+   "strictBlocking": {
+      "message": "Blocco rigoroso"
+   },
+   "strictBlockingDescription": {
+      "message": "Blocca tutto automaticamente per un'esperienza del browser più veloce e senza interruzioni."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Questa impostazione potrebbe causare il caricamento errato di alcuni siti (se alcuni contenuti non vengono visualizzati o il sito sembra danneggiato, disattiva questa impostazione)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Tutto in Blocco bilanciato e notifiche browser e fingerprint"
+   },
+   "strictBlockingName": {
+      "message": "Rigoroso"
+   },
+   "strictModalDescription": {
+      "message": "Per mantenere gratuito il nostro browser dipendiamo da partner che ci finanziano attraverso annunci pubblicitari non fastidiosi e semplici. Il nostro obiettivo è quello di migliorare la tua privacy e di proteggere la tua identità online"
+   },
+   "strictModalTitle": {
+      "message": "Contribuisci a mantenere gratuito il nostro browser"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Totale __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Vai al \u003Cb>\u003Cu>Centro sicurezza e privacy\u003C/u>\u003C/b>\n per altre impostazioni"
+   },
+   "whitelistModalDescription": {
+      "message": "Per quale sito vuoi consentire le pubblicità?"
+   },
+   "youWillBlock": {
+      "message": "Verranno bloccati: "
+   }
+}

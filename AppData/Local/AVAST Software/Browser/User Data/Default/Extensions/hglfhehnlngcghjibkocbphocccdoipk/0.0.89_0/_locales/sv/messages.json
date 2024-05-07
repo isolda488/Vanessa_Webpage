@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Kommunikation"
+   },
+   "extShortDesc": {
+      "message": "Tillägg för webbläsarens sidopanel"
+   },
+   "extTitle": {
+      "message": "Tillägg för sidopanelen"
+   },
+   "featured": {
+      "message": "Utvalt"
+   },
+   "music": {
+      "message": "Musik"
+   },
+   "notes": {
+      "message": "Anteckningar"
+   },
+   "social": {
+      "message": "Sociala medier"
+   }
+}

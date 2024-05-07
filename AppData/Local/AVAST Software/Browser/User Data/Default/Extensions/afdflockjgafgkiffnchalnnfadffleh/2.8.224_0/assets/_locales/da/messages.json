@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Videodownloader"
+    },
+    "appDesc": {
+        "message": "Download videoer til offlinevisning"
+    },
+    "barMediaBtn": {
+        "message": "Medie",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Download",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Pop ud",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Indstillinger",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Vis ikke igen",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Vis ikke på dette websted",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Flere oplysninger",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Lyd",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Drevet af Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Indstillinger",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Videodownloader",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Download videoer til offlinevisning.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Lyd",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Download",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Sæt i",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "ukendt størrelse",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Der er ingen videoer at downloade på denne side",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "For at downloade en video skal du gå til dens detaljeside.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Videodownloader er deaktiveret for",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Aktivér",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Ved at acceptere vores <div><a target='blank' href='$link$'>slutbrugerlicensaftale<\/a><\/div> (EULA) erkender og accepterer du, at det er dit ansvar at bruge Videodownloader i henhold til gældende copyright-love og brugsvilkårende på et givent websted.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Før du downloader",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Jeg forstår og accepterer EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Fortsæt",
+        "description": "EUlA continue button"
+    }
+}

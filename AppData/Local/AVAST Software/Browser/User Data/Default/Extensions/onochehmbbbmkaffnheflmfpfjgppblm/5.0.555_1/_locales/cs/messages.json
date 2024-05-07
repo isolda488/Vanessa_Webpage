@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blokováno"
+   },
+   "LoggerList": {
+      "message": "Seznam"
+   },
+   "LoggerRegex": {
+      "message": "Regulární výraz"
+   },
+   "LoggerType": {
+      "message": "Typ"
+   },
+   "LoggerWhitelisting": {
+      "message": "Povolené položky"
+   },
+   "add": {
+      "message": "Přidat"
+   },
+   "addSite": {
+      "message": "Přidat web"
+   },
+   "adsTrackersAllowed": {
+      "message": "Reklamy a sledovací nástroje jsou na tomto webu povoleny"
+   },
+   "adsTrackersBlocked": {
+      "message": "Reklamy a sledovací nástroje jsou blokovány"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Vždy povolit reklamy na následujících webech"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "Zjištěné pokusy: __TOTAL_FINGERPRINTING__"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "Zjištěné pokusy: __TOTAL_FINGERPRINTING__"
+   },
+   "balancedBlocking": {
+      "message": "Vyvážené blokování"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blokujte známé sledovací nástroje a ještě více reklam, abyste mohli prohlížet web rychleji."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Vše jako Základní blokování a dále reklamy na sociálních sítích"
+   },
+   "balancedBlockingName": {
+      "message": "Vyvážené"
+   },
+   "basicBlocking": {
+      "message": "Základní blokování"
+   },
+   "basicBlockingDescription": {
+      "message": "Blokujte známé sledovací nástroje a reklamy, které ruší při prohlížení webu."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Známé sledovací nástroje, vyskakovací a bannerové reklamy včetně videí"
+   },
+   "blockAdsSearch": {
+      "message": "Blokovat reklamy ve výsledcích hledání"
+   },
+   "blockSearchAds": {
+      "message": "Blokovat reklamy ve výsledcích hledání"
+   },
+   "blockSearchAdsMore": {
+      "message": "Další informace najdete v \u003Cu>nastaveních\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Blokování je vypnuté"
+   },
+   "blockingOptions": {
+      "message": "Možnosti blokování"
+   },
+   "cancel": {
+      "message": "Storno"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Zrušit přidávání webu"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Zrušit úpravu webu"
+   },
+   "cancelSetStrict": {
+      "message": "Zrušit nastavování přísného režimu"
+   },
+   "clearLogger": {
+      "message": "Vymazat historii loggeru"
+   },
+   "edit": {
+      "message": "Upravit"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Upravit web na seznamu povolených"
+   },
+   "essentialBlockingName": {
+      "message": "Základní"
+   },
+   "extShortDesc": {
+      "message": "Konečně účinný blokovací nástroj, který nezatěžuje procesor a paměť."
+   },
+   "fingerprintBlocked": {
+      "message": "Vytváření digitální stopy prohlížeče je blokováno"
+   },
+   "generalSettings": {
+      "message": "Obecná nastavení"
+   },
+   "goToStrict": {
+      "message": "Přejít do striktního režimu"
+   },
+   "keepFree": {
+      "message": "Pokračovat bezplatně"
+   },
+   "keep_balanced": {
+      "message": "Ponechat vyvážené"
+   },
+   "keep_essential": {
+      "message": "Ponechat základní"
+   },
+   "learnMore": {
+      "message": "Další informace"
+   },
+   "pgLogger": {
+      "message": "Logger Ochrany soukromí"
+   },
+   "pgSettings": {
+      "message": "Změnit nastavení"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Nastavení Ochrany soukromí"
+   },
+   "privacyGuard": {
+      "message": "Ochrana soukromí"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "ochrana je VYPNUTA"
+   },
+   "protectionOn": {
+      "message": "ochrana je ZAPNUTA"
+   },
+   "protectionPaused": {
+      "message": "ochrana je pozastavena"
+   },
+   "recommended": {
+      "message": "Doporučeno"
+   },
+   "refreshWarning": {
+      "message": "Když zapnete nebo vypnete Ochranu soukromí, stránka se automaticky obnoví a provedené změny se nemusí uložit. Než změníte nastavení Ochrany soukromí, uložte si rozpracovanou práci."
+   },
+   "remove": {
+      "message": "Odebrat"
+   },
+   "save": {
+      "message": "Uložit"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Uložit web na seznam povolených"
+   },
+   "setStrict": {
+      "message": "Nastavit přísné"
+   },
+   "setStrictDescription_avast": {
+      "message": "Vývoj aplikace Avast Secure Browser financujeme z několika málo reklam. Tyto reklamy vás při prohlížení Internetu nijak neruší a díky nim je náš prohlížeč zdarma. Prosíme, povolte je."
+   },
+   "setStrictDescription_avg": {
+      "message": "Vývoj aplikace AVG Secure Browser financujeme z několika málo reklam. Tyto reklamy vás při prohlížení Internetu nijak neruší a díky nim je náš prohlížeč zdarma. Prosíme, povolte je."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Vývoj aplikace CCleaner Browser financujeme z několika málo reklam. Tyto reklamy vás při prohlížení Internetu nijak neruší a díky nim je náš prohlížeč zdarma. Prosíme, povolte je."
+   },
+   "setStrictMode": {
+      "message": "Nastavit přísný režim"
+   },
+   "setStrictTitle": {
+      "message": "Nastavit Ochranu soukromí na přísný režim"
+   },
+   "setToBalanced": {
+      "message": "Máte nastaveno vyvážené blokování"
+   },
+   "setToBasic": {
+      "message": "Máte nastaveno základní blokování"
+   },
+   "setToStrict": {
+      "message": "Máte nastaveno přísné blokování"
+   },
+   "settingsDescription": {
+      "message": "Vylepšená ochrana soukromí. Chraňte svou identitu před sledovacími nástroji a jinými hrozbami.\nBlokujte reklamy a sledovací nástroje, abyste si mohli rychleji a bezpečněji prohlížet web."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Zobrazit počet zablokovaných reklam na ikoně"
+   },
+   "site": {
+      "message": "Web"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Tady budou weby, na kterých jste povolili reklamy"
+   },
+   "spc": {
+      "message": "Centrum zabezpečení a ochrany soukromí"
+   },
+   "stayOn_balanced": {
+      "message": "Zůstat ve vyváženém režimu"
+   },
+   "stayOn_essential": {
+      "message": "Zůstat v základním režimu"
+   },
+   "strictBlocking": {
+      "message": "Přísné blokování"
+   },
+   "strictBlockingDescription": {
+      "message": "Automaticky blokujte vše, abyste mohli prohlížet web rychleji a bez rozptylování."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Toto nastavení může způsobit, že se některé weby nenačtou správně (pokud určitý obsah není vidět nebo pokud je narušený vzhled webu, toto nastavení vypněte)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Vše jako Vyvážené blokování a dále oznámení prohlížeče a sledování digitální stopy"
+   },
+   "strictBlockingName": {
+      "message": "Přísné"
+   },
+   "strictModalDescription": {
+      "message": "Aby náš prohlížeč mohl dál fungovat bezplatně, jsme závislí na partnerech, kteří nám pomáhají s financováním pomocí nerušivých a uživatelsky přívětivých reklam. Naším cílem je zajistit lepší ochranu soukromí a chránit vaši online identitu"
+   },
+   "strictModalTitle": {
+      "message": "Pomozte nám s bezplatným fungováním našeho prohlížeče"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Celkem: __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Další nastavení můžete upravovat v \u003Cb>\u003Cu>Centru zabezpečení a ochrany soukromí\u003C/u>\u003C/b>\n"
+   },
+   "whitelistModalDescription": {
+      "message": "Na kterém webu chcete povolit reklamy?"
+   },
+   "youWillBlock": {
+      "message": "Budete blokovat: "
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Communication"
+   },
+   "extShortDesc": {
+      "message": "Extension de volet latéral du navigateur"
+   },
+   "extTitle": {
+      "message": "Extension de volet latéral"
+   },
+   "featured": {
+      "message": "En vedette"
+   },
+   "music": {
+      "message": "Musique"
+   },
+   "notes": {
+      "message": "Notes"
+   },
+   "social": {
+      "message": "Réseaux sociaux"
+   }
+}

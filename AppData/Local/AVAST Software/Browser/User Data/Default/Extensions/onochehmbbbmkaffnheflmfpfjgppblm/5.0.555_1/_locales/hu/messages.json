@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blokkolja:"
+   },
+   "LoggerList": {
+      "message": "Lista"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Típus"
+   },
+   "LoggerWhitelisting": {
+      "message": "Engedélyezőlistára helyezés"
+   },
+   "add": {
+      "message": "Hozzáadás"
+   },
+   "addSite": {
+      "message": "Webhely hozzáadása"
+   },
+   "adsTrackersAllowed": {
+      "message": "A reklámok és nyomkövetők engedélyezve vannak ezen az oldalon"
+   },
+   "adsTrackersBlocked": {
+      "message": "A reklámok és nyomkövetők le vannak tiltva"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Reklámok engedélyezése mindig a következő webhelyeken"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ kísérletet észleltünk"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ kísérletet észleltünk"
+   },
+   "balancedBlocking": {
+      "message": "Kiegyensúlyozott blokkolás"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blokkolja az ismert nyomkövetőket és további reklámokat a gyorsabb böngészési élmény érdekében."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Minden, amit az alapvető blokkolással blokkol, valamint közösségi oldalakon lévő hirdetések"
+   },
+   "balancedBlockingName": {
+      "message": "Kiegyensúlyozott"
+   },
+   "basicBlocking": {
+      "message": "Alapszintű blokkolás"
+   },
+   "basicBlockingDescription": {
+      "message": "Blokkolja az ismert nyomkövetőket, amelyek megzavarják a böngészés élményét."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Ismert nyomkövetők, felugró hirdetések és szalaghirdetések, a videókat is beleértve"
+   },
+   "blockAdsSearch": {
+      "message": "Reklámok blokkolása a keresési eredményekben"
+   },
+   "blockSearchAds": {
+      "message": "Keresési eredmény reklámok blokkolása"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>További információkért\u003C/u> lépjen a beállításokhoz"
+   },
+   "blockingOff": {
+      "message": "A blokkolás ki van kapcsolva"
+   },
+   "blockingOptions": {
+      "message": "Blokkolási beállítások"
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Webhely hozzáadása művelet megszakítása"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Webhely szerkesztése művelet megszakítása"
+   },
+   "cancelSetStrict": {
+      "message": "Szigorú üzemmód beállítása művelet megszakítása"
+   },
+   "clearLogger": {
+      "message": "Naplózási előzmények törlése"
+   },
+   "edit": {
+      "message": "Szerkesztés"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Webhely szerkesztése az engedélyezési listán"
+   },
+   "essentialBlockingName": {
+      "message": "Alapszintű"
+   },
+   "extShortDesc": {
+      "message": "Végre egy hatékony blokkoló. A processzort és a memóriát sem terheli túl."
+   },
+   "fingerprintBlocked": {
+      "message": "A böngésző ujjlenyomatvétele le van tiltva"
+   },
+   "generalSettings": {
+      "message": "Általános beállítások"
+   },
+   "goToStrict": {
+      "message": "Szigorú mód bekapcsolása"
+   },
+   "keepFree": {
+      "message": "Megtartom ingyenesen"
+   },
+   "keep_balanced": {
+      "message": "Kiegyensúlyozott"
+   },
+   "keep_essential": {
+      "message": "Alapszintű megtartása"
+   },
+   "learnMore": {
+      "message": "További információ"
+   },
+   "pgLogger": {
+      "message": "Privacy Guard Logger"
+   },
+   "pgSettings": {
+      "message": "Beállítások módosítása"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "A Privacy Guard beállításai"
+   },
+   "privacyGuard": {
+      "message": "Privacy Guard"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "védelem KI van kapcsolva"
+   },
+   "protectionOn": {
+      "message": "védelem BE van kapcsolva"
+   },
+   "protectionPaused": {
+      "message": "védelem szünetel"
+   },
+   "recommended": {
+      "message": "Ajánlott"
+   },
+   "refreshWarning": {
+      "message": "Amikor a Privacy Guard funkciót be- vagy kikapcsolja, az oldal automatikusan frissül, és előfordulhat, hogy az elvégzett módosítások mentésére nem kerül sor. A Privacy Guard módosítása előtt mindenképpen mentse el a munkáját."
+   },
+   "remove": {
+      "message": "Eltávolítás"
+   },
+   "save": {
+      "message": "Mentés"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Webhely mentése az engedélyezési listára"
+   },
+   "setStrict": {
+      "message": "Szigorú beállítás"
+   },
+   "setStrictDescription_avast": {
+      "message": "Néhány nem zavaró reklám segít az Avast Secure Browser finanszírozásában. Ezek nem zavarják a böngészést, és segítenek a böngésző ingyenességének fenntartásában. Segítsen nekünk azzal, hogy engedélyezi ezeket a reklámokat."
+   },
+   "setStrictDescription_avg": {
+      "message": "Néhány nem zavaró reklám segít az AVG Secure Browser finanszírozásában. Ezek nem zavarják a böngészést, és segítenek a böngésző ingyenességének fenntartásában. Segítsen nekünk azzal, hogy engedélyezi ezeket a reklámokat."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Néhány nem zavaró reklám segít a CCleaner Secure Browser finanszírozásában. Ezek nem zavarják a böngészést, és segítenek a böngésző ingyenességének fenntartásában. Segítsen nekünk azzal, hogy engedélyezi ezeket a reklámokat."
+   },
+   "setStrictMode": {
+      "message": "Szigorú üzemmód beállítása"
+   },
+   "setStrictTitle": {
+      "message": "Az Adatvédelmi őr beállítása szigorú szűrésre"
+   },
+   "setToBalanced": {
+      "message": "Kiegyensúlyozott blokkolás van beállítva"
+   },
+   "setToBasic": {
+      "message": "Alapszintű blokkolás van beállítva"
+   },
+   "setToStrict": {
+      "message": "Szigorú blokkolás van beállítva"
+   },
+   "settingsDescription": {
+      "message": "Továbbfejlesztett adatvédelem. Védje meg a személyazonosságát a nyomkövetőktől és más fenyegetésektől. Blokkolja a reklámokat és a nyomkövetőket a gyorsabb és biztonságosabb böngészésért."
+   },
+   "settingsShowNumberBadge": {
+      "message": "A blokkolt hirdetések számának megjelenítése az ikonon"
+   },
+   "site": {
+      "message": "Webhely"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Itt fognak megjelenni azok a webhelyek, amelyeken engedélyezte a reklámokat"
+   },
+   "spc": {
+      "message": "Biztonsági és adatvédelmi központ"
+   },
+   "stayOn_balanced": {
+      "message": "Maradás Kiegyensúlyozott üzemmódban"
+   },
+   "stayOn_essential": {
+      "message": "Maradás Alapvető üzemmódban"
+   },
+   "strictBlocking": {
+      "message": "Szigorú blokkolás"
+   },
+   "strictBlockingDescription": {
+      "message": "Mindent automatikusan blokkol a gyorsabb, zavartalan böngészési élmény érdekében."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "A beállítás miatt előfordulhat, hogy néhány webhely nem töltődik be megfelelően (ha bizonyos tartalmak nem jelennek meg vagy a webhely hibásnak tűnik, kapcsolja ki a beállítást)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Minden, amit a kiegyensúlyozott blokkolással blokkol, valamint böngészőértesítések és ujjlenyomat-készítés"
+   },
+   "strictBlockingName": {
+      "message": "Szigorú"
+   },
+   "strictModalDescription": {
+      "message": "Ahhoz, hogy a böngészőnk ingyenes maradhasson, olyan partnerek támogatására van szükségünk, akik néhány nem zavaró és felhasználóbarát hirdetéssel finanszíroznak minket. Célunk, hogy lehetővé tegyük az Ön számára az adatvédelmet és személyazonosságának online védelmét"
+   },
+   "strictModalTitle": {
+      "message": "Segítsen, hogy böngészőnk továbbra is ingyenes maradjon"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Összesen __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "További beállításokért látogasson el a \u003Cb>\u003Cu>Biztonsági és adatvédelmi központba\u003C/u>\u003C/b>\n"
+   },
+   "whitelistModalDescription": {
+      "message": "Melyik webhelyen szeretné engedélyezni a hirdetéseket?"
+   },
+   "youWillBlock": {
+      "message": "A következőket blokkolja: "
+   }
+}

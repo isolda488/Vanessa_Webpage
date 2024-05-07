@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Demandez-moi n’importe quoi..."
+   },
+   "clearChat": {
+      "message": "Effacer le chat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Une erreur s’est produite. Le message envoyé était trop long. Commencez un nouveau chat et envoyez un message plus court."
+   },
+   "example_0": {
+      "message": "“Explique le processus de vinification.”"
+   },
+   "example_1": {
+      "message": "“Donne-moi des idées de cadeaux d’anniversaire pour un garçon de 14 ans.”"
+   },
+   "example_2": {
+      "message": "“Aide-moi à planifier un voyage de 7 jours à Tokyo.”"
+   },
+   "examples": {
+      "message": "Exemples :"
+   },
+   "exploreGenie": {
+      "message": "Explorer Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Extension Chat IA"
+   },
+   "extTitle": {
+      "message": "Extension Chat IA"
+   },
+   "freshChat": {
+      "message": "Si vous n’avez plus de questions, nous effacerons ce chat dans 5 minutes afin que vous puissiez en commencer un nouveau."
+   },
+   "genieDescription": {
+      "message": "Genie peut détecter en quelques secondes si des SMS, des e-mails, des sites web ou des publications de médias sociaux sont des escroqueries. Il vous suffit de copier-coller ou de télécharger des captures d’écran des messages suspects dans l’application pour savoir immédiatement s’il s’agit d’une escroquerie."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Je suis désolé, mais je ne peux pas répondre à cette demande."
+   },
+   "initialScreenSubtitle": {
+      "message": "Obtenez les réponses que vous cherchez avec le Chat IA."
+   },
+   "initialScreenTitle": {
+      "message": "Vous êtes curieux ? Demandez-nous…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Une erreur s’est produite. Le message envoyé était trop long. Envoyez un message plus court."
+   },
+   "limitError": {
+      "message": "Vous avez atteint la limite de nombre de messages pour cette session. Essayez de vider le chat pour recommencer."
+   },
+   "limitErrorMessage": {
+      "message": "Vous avez atteint la limite de nombre de messages pour cette session. Essayez de vider le chat pour recommencer."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Toujours là ?\u003C/b> Vous n’avez rien écrit depuis un certain temps."
+   },
+   "suggestedSearch": {
+      "message": "Recherches suggérées"
+   },
+   "tooManyRequestsError": {
+      "message": "Requêtes trop nombreuses. Réessayez ultérieurement."
+   },
+   "tryAsking": {
+      "message": "Essayez de demander "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, notre outil de détection des escroqueries en temps réel alimenté par l’IA."
+   }
+}

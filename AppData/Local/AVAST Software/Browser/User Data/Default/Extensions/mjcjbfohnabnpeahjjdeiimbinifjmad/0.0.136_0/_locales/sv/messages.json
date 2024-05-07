@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Fråga mig vad som helst …"
+   },
+   "clearChat": {
+      "message": "Rensa chatten"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Ett fel har uppstått. Meddelandet som skickades var för långt. Starta en ny chatt och skicka ett kortare meddelande."
+   },
+   "example_0": {
+      "message": "“Förklara hur vin framställs.”"
+   },
+   "example_1": {
+      "message": "“Ge exempel på födelsedagspresenter till en 14-årig pojke.”"
+   },
+   "example_2": {
+      "message": "“Hjälp mig att planera en 7-dagarsresa till Tokyo.”"
+   },
+   "examples": {
+      "message": "Exempel:"
+   },
+   "exploreGenie": {
+      "message": "Utforska Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "AI Chat-tillägg"
+   },
+   "extTitle": {
+      "message": "AI Chat-tillägg"
+   },
+   "freshChat": {
+      "message": "Om du inte har några fler frågor raderar vi den här chatten om 5 minuter så att du kan starta en ny chatt."
+   },
+   "genieDescription": {
+      "message": "Genie kan upptäcka om SMS, e-postmeddelanden, webbplatser eller inlägg på sociala medier är bedrägerier på några sekunder. Kopiera och klistra in eller ladda upp skärmdumpar av misstänkta meddelanden till appen, så får du omedelbart veta om det kan röra sig om bedrägerier."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Tyvärr kan jag inte hjälpa till med den här förfrågan."
+   },
+   "initialScreenSubtitle": {
+      "message": "Få svaren du söker med AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Är du nyfiken? Fråga på…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Ett fel har uppstått. Det skickade meddelandet var för långt. Skicka ett kortare meddelande."
+   },
+   "limitError": {
+      "message": "Du har nått meddelandegränsen för denna session. Försök att rensa chatten för att börja om."
+   },
+   "limitErrorMessage": {
+      "message": "Du har nått meddelandegränsen för denna session. Försök att rensa chatten för att börja om."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Fortfarande här?\u003C/b> Du har inte skrivit något på ett tag."
+   },
+   "suggestedSearch": {
+      "message": "Föreslagna sökningar"
+   },
+   "tooManyRequestsError": {
+      "message": "För många förfrågningar. Försök igen senare."
+   },
+   "tryAsking": {
+      "message": "Testa att fråga "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, vårt AI-drivna verktyg för detektering av bedrägerier i realtid."
+   }
+}

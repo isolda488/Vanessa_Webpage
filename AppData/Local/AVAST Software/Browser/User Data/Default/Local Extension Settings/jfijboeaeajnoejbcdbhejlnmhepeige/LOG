@@ -1,0 +1,17 @@
+2024/04/11-23:47:27.109 488c Reusing MANIFEST C:\Users\Vanessa\AppData\Local\AVAST Software\Browser\User Data\Default\Local Extension Settings\jfijboeaeajnoejbcdbhejlnmhepeige/MANIFEST-000001
+2024/04/11-23:47:27.110 488c Recovering log #237
+2024/04/11-23:47:27.126 488c Reusing old log C:\Users\Vanessa\AppData\Local\AVAST Software\Browser\User Data\Default\Local Extension Settings\jfijboeaeajnoejbcdbhejlnmhepeige/000237.log 
+2024/04/12-15:54:40.551 485c Level-0 table #241: started
+2024/04/12-15:54:40.570 485c Level-0 table #241: 3198330 bytes OK
+2024/04/12-15:54:40.575 485c Delete type=0 #237
+2024/04/12-15:54:40.576 485c Compacting 4@0 + 2@1 files
+2024/04/12-15:54:40.596 485c Generated table #242@0: 18 keys, 2284388 bytes
+2024/04/12-15:54:40.617 485c Generated table #243@0: 12 keys, 1426511 bytes
+2024/04/12-15:54:40.618 485c Compacted 4@0 + 2@1 files => 3710899 bytes
+2024/04/12-15:54:40.622 485c compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/04/12-15:54:40.623 485c Delete type=2 #229
+2024/04/12-15:54:40.623 485c Delete type=2 #230
+2024/04/12-15:54:40.623 485c Delete type=2 #233
+2024/04/12-15:54:40.623 485c Delete type=2 #235
+2024/04/12-15:54:40.623 485c Delete type=2 #238
+2024/04/12-15:54:40.623 485c Delete type=2 #241

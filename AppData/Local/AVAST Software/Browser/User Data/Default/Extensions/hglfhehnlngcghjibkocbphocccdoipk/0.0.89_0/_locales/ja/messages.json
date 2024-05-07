@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "コミュニケーション"
+   },
+   "extShortDesc": {
+      "message": "ブラウザのサイドパネル拡張"
+   },
+   "extTitle": {
+      "message": "サイドパネル拡張"
+   },
+   "featured": {
+      "message": "特集"
+   },
+   "music": {
+      "message": "音楽"
+   },
+   "notes": {
+      "message": "メモ"
+   },
+   "social": {
+      "message": "ソーシャル"
+   }
+}

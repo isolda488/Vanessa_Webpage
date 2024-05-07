@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "مواصلات"
+   },
+   "extShortDesc": {
+      "message": "براؤزر کی سائیڈ پینل ایکسٹینشن"
+   },
+   "extTitle": {
+      "message": "سائیڈ پینل ایکسٹینشن"
+   },
+   "featured": {
+      "message": "فیچر کردہ"
+   },
+   "music": {
+      "message": "موسیقی"
+   },
+   "notes": {
+      "message": "نوٹس"
+   },
+   "social": {
+      "message": "سماجی"
+   }
+}

@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Bloqueado por"
+   },
+   "LoggerList": {
+      "message": "Lista"
+   },
+   "LoggerRegex": {
+      "message": "Expresión regular"
+   },
+   "LoggerType": {
+      "message": "Tipo"
+   },
+   "LoggerWhitelisting": {
+      "message": "Lista autorizada"
+   },
+   "add": {
+      "message": "Añadir"
+   },
+   "addSite": {
+      "message": "Añadir sitio"
+   },
+   "adsTrackersAllowed": {
+      "message": "Los anuncios y los rastreadores están permitidos en este sitio"
+   },
+   "adsTrackersBlocked": {
+      "message": "Anuncios y rastreadores bloqueados"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Permitir siempre los anuncios en estos sitios"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "Se ha detectado __TOTAL_FINGERPRINTING__ intento"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "Se han detectado __TOTAL_FINGERPRINTING__ intentos"
+   },
+   "balancedBlocking": {
+      "message": "Bloqueo moderado"
+   },
+   "balancedBlockingDescription": {
+      "message": "Bloquee los rastreadores conocidos y aún más anuncios para navegar más rápidamente."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Todo en Bloqueo básico y anuncios en redes sociales"
+   },
+   "balancedBlockingName": {
+      "message": "Moderado"
+   },
+   "basicBlocking": {
+      "message": "Bloqueo básico"
+   },
+   "basicBlockingDescription": {
+      "message": "Bloquee los rastreadores y los anuncios conocidos que alteran su experiencia de navegación."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Rastreadores conocidos, anuncios en ventanas emergentes y banners, incluidos los vídeos"
+   },
+   "blockAdsSearch": {
+      "message": "Bloquear los anuncios en los resultados de búsqueda"
+   },
+   "blockSearchAds": {
+      "message": "Bloquear los anuncios de los resultados de la búsqueda"
+   },
+   "blockSearchAdsMore": {
+      "message": "Vaya a la configuración para obtener \u003Cu>más información\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "El bloqueo está desactivado"
+   },
+   "blockingOptions": {
+      "message": "Opciones de bloqueo"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Cancelar la operación de adición del sitio"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Cancelar la operación de modificación del sitio"
+   },
+   "cancelSetStrict": {
+      "message": "Cancelar la operación de establecimiento del modo estricto"
+   },
+   "clearLogger": {
+      "message": "Borrar el historial del registrador"
+   },
+   "edit": {
+      "message": "Editar"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Modificar el sitio en la lista blanca"
+   },
+   "essentialBlockingName": {
+      "message": "Básico"
+   },
+   "extShortDesc": {
+      "message": "Por fin, un bloqueador eficaz con un consumo mínimo de CPU y memoria."
+   },
+   "fingerprintBlocked": {
+      "message": "Se ha bloqueado la huella digital del navegador"
+   },
+   "generalSettings": {
+      "message": "Configuración general"
+   },
+   "goToStrict": {
+      "message": "Ir a modo estricto"
+   },
+   "keepFree": {
+      "message": "Mantener libre"
+   },
+   "keep_balanced": {
+      "message": "Mantener moderado"
+   },
+   "keep_essential": {
+      "message": "Mantener el nivel básico"
+   },
+   "learnMore": {
+      "message": "Más información"
+   },
+   "pgLogger": {
+      "message": "Registrador de Privacy Guard"
+   },
+   "pgSettings": {
+      "message": "Cambiar configuración"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Configuración de Guardián de privacidad"
+   },
+   "privacyGuard": {
+      "message": "Guardián de privacidad"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "la protección está desactivada"
+   },
+   "protectionOn": {
+      "message": "la protección está activada"
+   },
+   "protectionPaused": {
+      "message": "la protección está en pausa"
+   },
+   "recommended": {
+      "message": "Recomendado"
+   },
+   "refreshWarning": {
+      "message": "Al activar o desactivar Privacy Guard, tu página se actualizará automáticamente y es posible que los cambios que hayas realizado no se guarden. Asegúrate de guardar cualquier trabajo antes de cambiar Privacy Guard."
+   },
+   "remove": {
+      "message": "Eliminar"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Guardar el sitio en la lista blanca"
+   },
+   "setStrict": {
+      "message": "Configurar como estricto"
+   },
+   "setStrictDescription_avast": {
+      "message": "Avast Secure Browser se financia mediante unos pocos anuncios no invasivos. No interferirán en su navegación y ayudarán a mantener su navegador gratuito. Por favor, permita esos anuncios."
+   },
+   "setStrictDescription_avg": {
+      "message": "AVG Secure Browser se financia mediante unos pocos anuncios no invasivos. No interferirán en su navegación y ayudarán a mantener su navegador gratuito. Por favor, permita esos anuncios."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "CCleaner Browser se financia mediante unos pocos anuncios no invasivos. No interferirán en su navegación y ayudarán a mantener su navegador gratuito. Por favor, permita esos anuncios."
+   },
+   "setStrictMode": {
+      "message": "Establecer en modo estricto"
+   },
+   "setStrictTitle": {
+      "message": "Configurar el Guardián de privacidad en modo estricto"
+   },
+   "setToBalanced": {
+      "message": "Ha establecido un bloqueo moderado"
+   },
+   "setToBasic": {
+      "message": "Ha establecido un bloqueo básico"
+   },
+   "setToStrict": {
+      "message": "Ha establecido un bloqueo estricto"
+   },
+   "settingsDescription": {
+      "message": "Protección de la privacidad mejorada. Proteja su identidad frente a los rastreadores y otros elementos.\nBloquee los anuncios y los rastreadores para navegar de forma más rápida y segura."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Mostrar el número de anuncios bloqueados en el icono"
+   },
+   "site": {
+      "message": "Sitio"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Aquí aparecerán los sitios en los que ha permitido anuncios"
+   },
+   "spc": {
+      "message": "Centro de seguridad y privacidad"
+   },
+   "stayOn_balanced": {
+      "message": "Permanecer en el modo moderado"
+   },
+   "stayOn_essential": {
+      "message": "Permanecer en el modo básico"
+   },
+   "strictBlocking": {
+      "message": "Bloqueo estricto"
+   },
+   "strictBlockingDescription": {
+      "message": "Bloquee todo automáticamente para disfrutar de una navegación más rápida y sin interrupciones."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Esta opción puede hacer que algunos sitios no se carguen correctamente (desactive esta opción si algunos contenidos no se muestran o si el sitio parece dañado)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Todo como Bloqueo equilibrado y notificaciones del navegador y huellas digitales"
+   },
+   "strictBlockingName": {
+      "message": "Estricto"
+   },
+   "strictModalDescription": {
+      "message": "Para mantener nuestro navegador libre, dependemos de partners que nos financian a través de algunos anuncios no disruptivos. Nuestro objetivo es permitirte mejorar tu privacidad y proteger tu identidad en línea"
+   },
+   "strictModalTitle": {
+      "message": "Mantengamos la libertad de nuestro navegador"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Total __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Visita \u003Cb>\u003Cu>Centro de seguridad y privacidad\u003C/u>\u003C/b>\n para ver más opciones de configuración"
+   },
+   "whitelistModalDescription": {
+      "message": "¿En qué sitio desea permitir los anuncios?"
+   },
+   "youWillBlock": {
+      "message": "Va a bloquear: "
+   }
+}

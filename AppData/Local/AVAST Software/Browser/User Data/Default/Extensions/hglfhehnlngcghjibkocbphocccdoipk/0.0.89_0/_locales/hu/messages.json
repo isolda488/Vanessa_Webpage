@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Kommunikáció"
+   },
+   "extShortDesc": {
+      "message": "Böngésző oldalsó panelének kiterjesztése"
+   },
+   "extTitle": {
+      "message": "Oldalsó panel kiterjesztése"
+   },
+   "featured": {
+      "message": "Kiemelt"
+   },
+   "music": {
+      "message": "Zene"
+   },
+   "notes": {
+      "message": "Megjegyzések"
+   },
+   "social": {
+      "message": "Közösségi"
+   }
+}

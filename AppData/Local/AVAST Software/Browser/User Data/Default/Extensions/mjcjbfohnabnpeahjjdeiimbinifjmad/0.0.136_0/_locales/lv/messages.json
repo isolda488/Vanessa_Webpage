@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Pajautājiet man jebko..."
+   },
+   "clearChat": {
+      "message": "Notīrīt saraksti"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Ir notikusi kļūda. Iesniegtais ziņojums bija pārāk garš, sāciet jaunu saraksti un nosūtiet īsāku ziņojumu."
+   },
+   "example_0": {
+      "message": "“Paskaidro vīna darīšanas procesu.”"
+   },
+   "example_1": {
+      "message": "“Uzskaiti dzimšanas dienas dāvanas 14 gadus vecam zēnam.”"
+   },
+   "example_2": {
+      "message": "“Palīdzi man izplānot 7 dienu ceļojumu uz Tokiju.”"
+   },
+   "examples": {
+      "message": "Piemēri:"
+   },
+   "exploreGenie": {
+      "message": "Izpētīt Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "AI tērzēšanas paplašinājums"
+   },
+   "extTitle": {
+      "message": "AI tērzēšanas paplašinājums"
+   },
+   "freshChat": {
+      "message": "Ja jums vairs nav jautājumu, mēs pēc 5 minūtēm izdzēsīsim šo saraksti, lai jūs varētu sākt jaunu."
+   },
+   "genieDescription": {
+      "message": "Genie dažu sekunžu laikā var noteikt, vai īsziņas, e-pasta ziņojumi, tīmekļa vietnes vai publikācijas sociālajos tīklos ir krāpnieciskas. Vienkārši nokopējiet un ielīmējiet vai augšupielādējiet aizdomīgu ziņojumu ekrānšāviņus, un lietotne uzreiz jums paziņos, vai ziņojumi varētu būt krāpnieciski."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Atvainojiet, bet es nevaru atbildēt uz šo pieprasījumu."
+   },
+   "initialScreenSubtitle": {
+      "message": "Saņemiet meklētās atbildes AI tērzēšanā."
+   },
+   "initialScreenTitle": {
+      "message": "Ir jautājumi? Droši jautājiet…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Ir notikusi kļūda. Iesniegtais ziņojums bija pārāk garš, nosūtiet īsāku ziņojumu."
+   },
+   "limitError": {
+      "message": "Jūs sasniedzāt šīs sesijas ziņojumu skaita ierobežojumu. Pamēģiniet notīrīt saraksti, lai sāktu no jauna."
+   },
+   "limitErrorMessage": {
+      "message": "Jūs sasniedzāt šīs sesijas ziņojumu skaita ierobežojumu. Pamēģiniet notīrīt saraksti, lai sāktu no jauna."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Vai vēl esat šeit?\u003C/b> Jūs jau kādu laiku neko nerakstāt."
+   },
+   "suggestedSearch": {
+      "message": "Ieteicamie meklējumi"
+   },
+   "tooManyRequestsError": {
+      "message": "Pārāk daudz pieprasījumu. Mēģiniet vēlreiz vēlāk."
+   },
+   "tryAsking": {
+      "message": "Mēģiniet pajautāt "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, mūsu reāllaika krāpšanas atklāšanas rīks, kas darbojas ar mākslīgo intelektu."
+   }
+}

@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Videote allalaadija"
+    },
+    "appDesc": {
+        "message": "Videote allalaadimine ilma ühenduseta vaatamiseks"
+    },
+    "barMediaBtn": {
+        "message": "Andmekandjad",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Laadi alla",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Eralda",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Seaded",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Ära enam kuva",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Ära näita sellel lehel",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Lisateave",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Heli",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Secure Browseri toel",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Seaded",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Videote allalaadija",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Videote allalaadimine ilma ühenduseta vaatamiseks.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Heli",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Laadi alla",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Taasühenda",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "teadmata suurus",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Sellel lehel ei ole videosid allalaadimiseks",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Video allalaadimiseks mine selle üksikasjade lehele.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Videote allalaadija on keelatud",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Lülita sisse",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Nõustudes meie <div><a target='blank' href='$link$'>Lõppkasutaja litsentsilepinguga<\/a><\/div> (EULA) tunnistad ja nõustud, et sinu kohustus on kasutada videote allalaadijat vastavalt kohalduvatele autoriõigusseadustele ja vastavate veebilehtede kasutustingimustele.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Enne allalaadimist",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Mõistan EULA sisu ja nõustun sellega",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Jätka",
+        "description": "EUlA continue button"
+    }
+}

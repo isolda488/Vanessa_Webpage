@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Klauskite manęs bet ko..."
+   },
+   "clearChat": {
+      "message": "Išvalyti pokalbį"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Įvyko klaida. Pateikta per ilga žinutė, pradėkite naują pokalbį ir pateikite trumpesnę žinutę."
+   },
+   "example_0": {
+      "message": "“Paaiškink vyno gamybos procesą.”"
+   },
+   "example_1": {
+      "message": "“Ką padovanoti 14 metų berniukui.”"
+   },
+   "example_2": {
+      "message": "“Padėk suplanuoti 7 dienų kelionę į Tokiją.”"
+   },
+   "examples": {
+      "message": "Pavyzdžiai:"
+   },
+   "exploreGenie": {
+      "message": "Susipažinkite su „Norton Genie“"
+   },
+   "extShortDesc": {
+      "message": "DI pokalbių plėtinys"
+   },
+   "extTitle": {
+      "message": "DI pokalbių plėtinys"
+   },
+   "freshChat": {
+      "message": "Jei nebeturite klausimų, po 5 minučių ištrinsime šį pokalbį, kad galėtumėte pradėti naują."
+   },
+   "genieDescription": {
+      "message": "„Genie“ gali per kelias sekundes gali nustatyti, ar žinutės, el. laiškai, svetainės arba socialinių tinklų įrašai yra sukurti sukčių. Tiesiog nukopijuokite ir įklijuokite įtartinas žinutes arba įkelkite jų ekrano nuotraukas į programą ir ji iš karto praneš, ar tai gali būti sukčiavimas."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Apgailestauju, bet negaliu padėti su šia užklausa."
+   },
+   "initialScreenSubtitle": {
+      "message": "Gaukite atsakymus į kilusius klausimus kalbėdamiesi su DI."
+   },
+   "initialScreenTitle": {
+      "message": "Įdomu? Paklauskite…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Įvyko klaida. Pateikta per ilga žinutė, pateikite trumpesnę."
+   },
+   "limitError": {
+      "message": "Pasiekėte žinučių limitą šioje sesijoje. Pabandykite išvalyti pokalbį ir pradėti iš naujo."
+   },
+   "limitErrorMessage": {
+      "message": "Pasiekėte žinučių limitą šioje sesijoje. Pabandykite išvalyti pokalbį ir pradėti iš naujo."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Jūs dar čia?\u003C/b> Jau kurį laiką nieko neparašėte."
+   },
+   "suggestedSearch": {
+      "message": "Siūlomos paieškos"
+   },
+   "tooManyRequestsError": {
+      "message": "Per daug užklausų. Bandykite dar kartą vėliau."
+   },
+   "tryAsking": {
+      "message": "Pabandykite paklausti "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>„Norton Genie“\u003C/b> – sukčiavimo aptikimo realiuoju įrankio su DI."
+   }
+}

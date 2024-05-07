@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Videonedlasting"
+    },
+    "appDesc": {
+        "message": "Last ned videoer for å se på dem frakoblet"
+    },
+    "barMediaBtn": {
+        "message": "Medier",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Last ned",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Løsne",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Innstillinger",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Ikke vis igjen",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Ikke vis på dette nettstedet",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Mer informasjon",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Lyd",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Basert på Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Innstillinger",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Videonedlasting",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Last ned videoer for å se på dem frakoblet.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Lyd",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Last ned",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Fest på nytt",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "ukjent størrelse",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Det er ingen videoer som kan lastes ned på denne siden",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Gå til detaljsiden for videoen hvis du vil laste den ned.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Videonedlasting er deaktivert for",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Aktiver",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Ved å godta <div><a target='blank' href='$link$'>lisensavtalen for sluttbrukere<\/a><\/div> (EULA), godtar og samtykker du til at du har ansvar for å bruke Videonedlasting i samsvar med gjeldende lover om opphavsrett og nettstedenes vilkår for bruk.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Før du laster ned",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Jeg forstår og godtar lisensavtalen for sluttbrukere",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Fortsett",
+        "description": "EUlA continue button"
+    }
+}

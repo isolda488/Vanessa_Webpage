@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Pitajte me bilo što..."
+   },
+   "clearChat": {
+      "message": "Obrišite chat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Došlo je do pogreške. Poslana poruka je predugačka, započnite novi chat te pošaljite kraću poruku."
+   },
+   "example_0": {
+      "message": "“Objasnite postupak spravljanja vina.”"
+   },
+   "example_1": {
+      "message": "“Navedite ideje za rođendanski dar za 14-godišnjeg dječaka.”"
+   },
+   "example_2": {
+      "message": "“Pomozite mi isplanirati 7-dnevno putovanje u Tokio.”"
+   },
+   "examples": {
+      "message": "Primjeri:"
+   },
+   "exploreGenie": {
+      "message": "Istražite Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Proširenje za AI Chat aplikaciju"
+   },
+   "extTitle": {
+      "message": "Proširenje za AI Chat aplikaciju"
+   },
+   "freshChat": {
+      "message": "Ako nemate više pitanja, izbri’sat ćemo ovaj chat za 5 minuta kako biste mogli započeti novi."
+   },
+   "genieDescription": {
+      "message": "Genie može otkriti jesu li poruke, e-pošta, web stranice ili objave na društvenim mrežama prijevara za nekoliko sekundi. Jednostavno kopirajte i zalijepite ili otpremite snimke zaslona sumnjivih poruka u aplikaciju, a ona će vas odmah obavijestiti može li se raditi o prijevari.  "
+   },
+   "inappropriateErrorMessage": {
+      "message": "Žao mi je, ali ne mogu vam pomoći s ovim zahtjevom."
+   },
+   "initialScreenSubtitle": {
+      "message": "Dobijte odgovore koje’tražite uz AI Chat aplikaciju."
+   },
+   "initialScreenTitle": {
+      "message": "Zainteresirani ste? Pitajte…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Došlo je do pogreške. Poslana poruka je predugačka, pošaljite kraću poruku."
+   },
+   "limitError": {
+      "message": "Dose’gnuli ste maksimalni broj poruka za ovu sesiju. Pokušajte obrisati chat da biste ga ponovno započeli."
+   },
+   "limitErrorMessage": {
+      "message": "Dose’gnuli ste maksimalni broj poruka za ovu sesiju. Pokušajte obrisati chat da biste ga ponovno započeli."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Još uvijek ste ovdje?\u003C/b> Već dulje vrijeme ni’ste ništa napisali."
+   },
+   "suggestedSearch": {
+      "message": "Predložene pretrage"
+   },
+   "tooManyRequestsError": {
+      "message": "Previše zahtjeva. Pokušajte ponovno kasnije."
+   },
+   "tryAsking": {
+      "message": "Pokušajte pitati "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, naš alat sa umjetnom inteligencijom za otkrivanje prijevara u stvarnom vremenu."
+   }
+}

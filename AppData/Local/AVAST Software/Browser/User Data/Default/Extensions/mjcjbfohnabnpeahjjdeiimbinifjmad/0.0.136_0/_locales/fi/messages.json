@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Kysy mitä vain..."
+   },
+   "clearChat": {
+      "message": "Tyhjennä keskustelu"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Tapahtui virhe. Lähettämäsi viesti oli liian pitkä. Aloita uusi keskustelu ja lähetä lyhyempi viesti."
+   },
+   "example_0": {
+      "message": "“Selitä viininvalmistusprosessi.”"
+   },
+   "example_1": {
+      "message": "“Ehdota syntymäpäivälahjaideoita 14-vuotiaalle pojalle.”"
+   },
+   "example_2": {
+      "message": "“Auta minua suunnittelemaan 7 päivän matka Tokioon.”"
+   },
+   "examples": {
+      "message": "Esimerkkejä:"
+   },
+   "exploreGenie": {
+      "message": "Tutustu Norton Genieen"
+   },
+   "extShortDesc": {
+      "message": "Tekoälychat-laajennus"
+   },
+   "extTitle": {
+      "message": "Tekoälychat-laajennus"
+   },
+   "freshChat": {
+      "message": "Jos sinulla ei ole enää kysyttävää, tyhjennämme tämän keskustelun viiden minuutin kuluttua, jotta voit aloittaa uuden."
+   },
+   "genieDescription": {
+      "message": "Genie tunnistaa sekunneissa, ovatko tekstiviestit, sähköpostit, verkkosivustot tai sosiaalisen median viestit huijauksia. Voit kopioida ja liittää epäilyttävät viestit tai ladata niistä kuvakaappauksia sovellukseen, ja se ilmoittaa heti, jos kyseessä saattaa olla huijaus."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Valitettavasti en voi auttaa tämän pyynnön kanssa."
+   },
+   "initialScreenSubtitle": {
+      "message": "Tekoälychatin avulla saat etsimäsi vastaukset."
+   },
+   "initialScreenTitle": {
+      "message": "Utelias? Kysy ihmeessä…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Tapahtui virhe. Lähettämäsi viesti oli liian pitkä. Lähetä lyhyempi viesti."
+   },
+   "limitError": {
+      "message": "Olet saavuttanut tämän istunnon viestirajan. Kokeile tyhjentää keskustelu ja aloita alusta."
+   },
+   "limitErrorMessage": {
+      "message": "Olet saavuttanut tämän istunnon viestirajan. Kokeile tyhjentää keskustelu ja aloita alusta."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Oletko vielä siellä?\u003C/b> Et ole kirjoittanut mitään vähään aikaan."
+   },
+   "suggestedSearch": {
+      "message": "Hakuehdotuksia"
+   },
+   "tooManyRequestsError": {
+      "message": "Liian monta pyyntöä. Yritä myöhemmin uudelleen."
+   },
+   "tryAsking": {
+      "message": "Kokeile kysyä "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genieltä\u003C/b>, joka on reaaliaikainen tekoälyyn perustuva työkalumme huijausten tunnistamiseen."
+   }
+}

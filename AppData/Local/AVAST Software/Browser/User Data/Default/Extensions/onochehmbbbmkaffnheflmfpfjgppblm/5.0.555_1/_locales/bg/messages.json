@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Блокиран от"
+   },
+   "LoggerList": {
+      "message": "Списък"
+   },
+   "LoggerRegex": {
+      "message": "Регекс"
+   },
+   "LoggerType": {
+      "message": "Тип"
+   },
+   "LoggerWhitelisting": {
+      "message": "Включване в бял списък"
+   },
+   "add": {
+      "message": "Добавяне"
+   },
+   "addSite": {
+      "message": "Добавяне на сайт"
+   },
+   "adsTrackersAllowed": {
+      "message": "Рекламите и системите за проследяване са позволени в този сайт"
+   },
+   "adsTrackersBlocked": {
+      "message": "Блокирани реклами и системи за проследяване"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Винаги позволява реклами за следните сайтове"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "Установен е __TOTAL_FINGERPRINTING__ опит"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "Установени са __TOTAL_FINGERPRINTING__ опита"
+   },
+   "balancedBlocking": {
+      "message": "Балансирано блокиране"
+   },
+   "balancedBlockingDescription": {
+      "message": "Блокирайте познати системи за проследяване и дори още повече реклами за по-бързо сърфиране."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Всичко в Основно блокиране и Реклами в социалните медии"
+   },
+   "balancedBlockingName": {
+      "message": "Балансирано"
+   },
+   "basicBlocking": {
+      "message": "Базово блокиране"
+   },
+   "basicBlockingDescription": {
+      "message": "Блокирайте познати системи за проследяване и реклами, които ви пречат да сърфирате."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Познати системи за проследяване, изскачащи и банерни реклами, включително видеоклипове"
+   },
+   "blockAdsSearch": {
+      "message": "Блокирайте рекламите в резултатите от търсене"
+   },
+   "blockSearchAds": {
+      "message": "Блокирайте рекламите в резултатите от търсене"
+   },
+   "blockSearchAdsMore": {
+      "message": "Влезте в настройките за \u003Cu>Повече информация\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Блокирането е изключено"
+   },
+   "blockingOptions": {
+      "message": "Блокиране на опциите"
+   },
+   "cancel": {
+      "message": "Отказ"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Отмяна на операцията за добавяне на сайт"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Отмяна на операцията за редакция на сайт"
+   },
+   "cancelSetStrict": {
+      "message": "Отмяна на операцията за задаване на строг режим"
+   },
+   "clearLogger": {
+      "message": "Изчистване на историята на регистъра"
+   },
+   "edit": {
+      "message": "Редактиране"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Редактиране на сайт от белия списък"
+   },
+   "essentialBlockingName": {
+      "message": "Базово"
+   },
+   "extShortDesc": {
+      "message": "Най-сетне ефективна блокираща програма. Щадяща процесора и паметта."
+   },
+   "fingerprintBlocked": {
+      "message": "Блокирани отпечатъци на браузъра"
+   },
+   "generalSettings": {
+      "message": "Общи настройки"
+   },
+   "goToStrict": {
+      "message": "Отидете на Strict"
+   },
+   "keepFree": {
+      "message": "Запазете безплатен"
+   },
+   "keep_balanced": {
+      "message": "Запазване на баланс"
+   },
+   "keep_essential": {
+      "message": "Оставане на базово"
+   },
+   "learnMore": {
+      "message": "Научете повече"
+   },
+   "pgLogger": {
+      "message": "Регистър за Защита на поверителността"
+   },
+   "pgSettings": {
+      "message": "Промяна на настройките"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Настройки за Защита на поверителността"
+   },
+   "privacyGuard": {
+      "message": "Защита на поверителността"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "защитата е ИЗКЛЮЧЕНА"
+   },
+   "protectionOn": {
+      "message": "защитата е ВКЛЮЧЕНА"
+   },
+   "protectionPaused": {
+      "message": "защитата е спряна"
+   },
+   "recommended": {
+      "message": "Препоръчително"
+   },
+   "refreshWarning": {
+      "message": "Когато включите или изключите функцията за Защита на поверителността, страницата ви автоматично ще се опресни и направените промени може да не бъдат запазени. Моля, уверете се, че сте запазили работата си, преди да промените Защитата на поверителността."
+   },
+   "remove": {
+      "message": "Премахване"
+   },
+   "save": {
+      "message": "Запазване"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Запазете сайтове в белия списък"
+   },
+   "setStrict": {
+      "message": "Задаване на стриктно"
+   },
+   "setStrictDescription_avast": {
+      "message": "Много малко ненастъпателни реклами ни помагат да финансираме Avast Secure Browser. Те не прекъсват търсенето ви и помагат браузърът да бъде безплатен. Покажете ни, че ни харесвате, като позволите тези реклами."
+   },
+   "setStrictDescription_avg": {
+      "message": "Много малко ненастъпателни реклами ни помагат да финансираме AVG Secure Browser. Те не прекъсват търсенето ви и помагат браузърът да бъде безплатен. Покажете ни, че ни харесвате, като позволите тези реклами."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Много малко ненастъпателни реклами ни помагат да финансираме CCleaner Browser. Те не прекъсват търсенето ви и помагат браузърът да бъде безплатен. Покажете ни, че ни харесвате, като позволите тези реклами."
+   },
+   "setStrictMode": {
+      "message": "Задаване на строг режим"
+   },
+   "setStrictTitle": {
+      "message": "Задаване на стриктен режим на Защитата на поверителността"
+   },
+   "setToBalanced": {
+      "message": "Зададено е балансирано блокиране"
+   },
+   "setToBasic": {
+      "message": "Зададено е базово блокиране"
+   },
+   "setToStrict": {
+      "message": "Зададено е стриктно блокиране"
+   },
+   "settingsDescription": {
+      "message": "Подобрена защита на поверителността. Защитете самоличността си от системи за проследяване и други. Блокирайте рекламите и системите за проследяване за по-бързо и безопасно сърфиране."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Показва броя блокирани реклами на иконата"
+   },
+   "site": {
+      "message": "Сайт"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Сайтовете, на които сте позволили рекламите, ще се показват тук"
+   },
+   "spc": {
+      "message": "Център за сигурност и поверителност"
+   },
+   "stayOn_balanced": {
+      "message": "Остани в балансиран режим"
+   },
+   "stayOn_essential": {
+      "message": "Остани в основен режим"
+   },
+   "strictBlocking": {
+      "message": "Стриктно блокиране"
+   },
+   "strictBlockingDescription": {
+      "message": "Блокирайте всичко автоматично за по-бързо сърфиране без прекъсвания."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Тази настройка може да доведе до неправилно зареждане на някои сайтове (дадено съдържание може да не се показва, така че, ако сайтът изглежда повреден, изключете тази настройка)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Всичко като Балансирано блокиране и известия за браузъра и пръстови отпечатъци"
+   },
+   "strictBlockingName": {
+      "message": "Стриктно"
+   },
+   "strictModalDescription": {
+      "message": "За да поддържаме браузъра си безплатен, зависим от партньори, които ни финансират чрез някои неангажиращи и удобни за потребителя реклами. Нашата цел е да ви дадем възможност да подобрите поверителността си и да защитите самоличността си онлайн"
+   },
+   "strictModalTitle": {
+      "message": "Помогнете ни да поддържаме браузъра си безплатен"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Общо __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Посетете \u003Cb>\u003Cu>Центъра за сигурност и поверителност\u003C/u>\u003C/b>\n за други настройки"
+   },
+   "whitelistModalDescription": {
+      "message": "На кой сайт искате да позволите рекламите?"
+   },
+   "youWillBlock": {
+      "message": "Ще блокирате: "
+   }
+}

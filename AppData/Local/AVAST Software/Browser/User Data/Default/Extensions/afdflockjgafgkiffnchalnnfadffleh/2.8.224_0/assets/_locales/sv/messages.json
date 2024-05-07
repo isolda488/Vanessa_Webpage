@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Videonedladdning"
+    },
+    "appDesc": {
+        "message": "Ladda ned videor för att titta på offline"
+    },
+    "barMediaBtn": {
+        "message": "Media",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Ladda ned",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Frigör",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Inställningar",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Visa inte igen",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Visa inte på den här webbplatsen",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Mer information",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Ljud",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Med Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Inställningar",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Videonedladdning",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Ladda ned videor för att titta på offline.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Ljud",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Ladda ned",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Återgå",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "okänd storlek",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Det finns inga videor att ladda ned på den här sidan",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Gå till detaljsidan för videon om du vill ladda ned den.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Videonedladdning har inaktiverats för",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Aktivera",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Genom att godkänna vårt <div><a target='blank' href='$link$'>Slutanvändaravtal<\/a><\/div> (EULA) accepterar du att det är ditt ansvar att använda Videonedladdning i enlighet med gällande copyrightlagar och användarvillkoren för den aktuella webbplatsen.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Innan du laddar ned",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Jag förstår och accepterar EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Fortsätt",
+        "description": "EUlA continue button"
+    }
+}

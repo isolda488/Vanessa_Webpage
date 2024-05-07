@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Comunicare"
+   },
+   "extShortDesc": {
+      "message": "Extensie pentru panoul lateral al browserului"
+   },
+   "extTitle": {
+      "message": "Extinderea panoului lateral"
+   },
+   "featured": {
+      "message": "Recomandate"
+   },
+   "music": {
+      "message": "Muzică"
+   },
+   "notes": {
+      "message": "Note"
+   },
+   "social": {
+      "message": "Social"
+   }
+}

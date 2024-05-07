@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "أداة تنزيل الفيديو"
+    },
+    "appDesc": {
+        "message": "تنزيل مقاطع الفيديو للعرض دون اتصال بالإنترنت"
+    },
+    "barMediaBtn": {
+        "message": "وسائط",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "تنزيل",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "فصل",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "الإعدادات",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "عدم الإظهار مرة أخرى",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "عدم الإظهار على هذا الموقع",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "المزيد من المعلومات",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "فيديو",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "صوت",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "يدعمه Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "الإعدادات",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "أداة تنزيل الفيديو",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "نزِّل مقاطع الفيديو للعرض دون اتصال بالإنترنت.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "صوت",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "فيديو",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "تنزيل",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "إعادة الإرفاق",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "حجم غير معروف",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "لا توجد مقاطع فيديو على هذه الصفحة لتنزيلها",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "لتنزيل أحد مقاطع الفيديو، انتقل إلى صفحة التفاصيل الخاصة به.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "تم تعطيل أداة تنزيل الفيديو لـ",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "تمكين",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "بقبول <div><a target='blank' href='$link$'>اتفاقية ترخيص المستخدم النهائي<\/a><\/div>(EULA)، فأنت تقر وتوافق على أنه من مسؤوليتك استخدام أداة تنزيل الفيديو وفقًا لقوانين حقوق النشر المعمول بها وكذلك شروط الاستخدام الخاصة بأي موقع ويب.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "قبل التنزيل",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "أنا أفهم اتفاقية ترخيص المستخدم النهائي وأوافق عليها",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "متابعة",
+        "description": "EUlA continue button"
+    }
+}

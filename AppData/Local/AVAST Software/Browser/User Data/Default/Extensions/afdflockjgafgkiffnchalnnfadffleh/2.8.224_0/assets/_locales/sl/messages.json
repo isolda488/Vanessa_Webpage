@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Orodje za prenos videoposnetkov"
+    },
+    "appDesc": {
+        "message": "Prenesite videoposnetke za ogled v načinu brez povezave"
+    },
+    "barMediaBtn": {
+        "message": "Predstavnost",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Prenesi",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Odstrani povezavo",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Nastavitve",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Tega ne kaži več",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Tega ne kaži več na tem spletnem mestu",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Več informacij",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Videoposnetek",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Zvok",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Uporablja tehnologijo Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Nastavitve",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Orodje za prenos videoposnetkov",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Prenesite videoposnetke za ogled v načinu brez povezave.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Zvok",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Videoposnetek",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Prenesi",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Znova poveži",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "neznana velikost",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Na tej strani ni nobenega videoposnetka za prenos",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Če želite prenesti videoposnetek, obiščite stran s podrobnostmi o njem.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Orodje za prenos videoposnetkov je onemogočeno za",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Omogoči",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Če sprejmete našo <div><a target='blank' href='$link$'>licenčno pogodbo za končnega uporabnika<\/a><\/div> (EULA), potrjujete in soglašate, da ste sami odgovorni za uporabo orodja za prenos videoposnetkov v skladu z veljavnimi zakoni o avtorskih pravicah in pogoji uporabe vseh spletnih mest.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Pred prenosom",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Seznanjen(-a) sem s pogoji EULA in soglašam z njimi",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Nadaljuj",
+        "description": "EUlA continue button"
+    }
+}

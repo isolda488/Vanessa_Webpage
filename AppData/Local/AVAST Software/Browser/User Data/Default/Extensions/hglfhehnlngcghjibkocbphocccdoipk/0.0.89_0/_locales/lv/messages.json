@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Saziņa"
+   },
+   "extShortDesc": {
+      "message": "Pārlūkprogrammas sānu paneļa paplašinājums"
+   },
+   "extTitle": {
+      "message": "Sāna paneļa paplašinājums"
+   },
+   "featured": {
+      "message": "Ieteicamie"
+   },
+   "music": {
+      "message": "Mūzika"
+   },
+   "notes": {
+      "message": "Piezīmes"
+   },
+   "social": {
+      "message": "Sociālās platformas"
+   }
+}

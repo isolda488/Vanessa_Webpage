@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Video lejupielādētājs"
+    },
+    "appDesc": {
+        "message": "Lejupielādēt video, lai skatītos tos bezsaistē"
+    },
+    "barMediaBtn": {
+        "message": "Multivide",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Lejupielādēt",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Atdalīt",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Iestatījumi",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Vairs nerādīt",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Vairs nerādīt šajā vietnē",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Papildinformācija",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Audio",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Nodrošina Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Iestatījumi",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Video lejupielādētājs",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Lejupielādēt video, lai skatītos tos bezsaistē.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Audio",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Lejupielādēt",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Pievienot atkārtoti",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "nezināms izmērs",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Šajā lapā nav lejupielādējamu video",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Lai lejupielādētu video, dodieties uz tā informācijas lapu.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Video lejupielādētājs ir atspējots",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Iespējot",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Pieņemot mūsu <div><a target='blank' href='$link$'>Lietotāja licences līgumam<\/a><\/div> (EULA), jūs atzīstat un piekrītat, ka jūsu pienākums ir izmantot video lejupielādētāju atbilstoši piemērojamiem autortiesību likumiem un jebkuras tīmekļa vietnes lietošanas noteikumiem.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Pirms lejupielādējat",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Es saprotu EULA un piekrītu tiem",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Turpināt",
+        "description": "EUlA continue button"
+    }
+}

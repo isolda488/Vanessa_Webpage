@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "İletişim"
+   },
+   "extShortDesc": {
+      "message": "Tarayıcının Yan Panel uzantısı"
+   },
+   "extTitle": {
+      "message": "Yan Panel uzantısı"
+   },
+   "featured": {
+      "message": "Öne Çıkanlar"
+   },
+   "music": {
+      "message": "Müzik"
+   },
+   "notes": {
+      "message": "Notlar"
+   },
+   "social": {
+      "message": "Sosyal"
+   }
+}

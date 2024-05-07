@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "ارتباطی"
+   },
+   "extShortDesc": {
+      "message": "باز کردن پانل جانبی مرورگر"
+   },
+   "extTitle": {
+      "message": "باز کردن پانل جانبی"
+   },
+   "featured": {
+      "message": "ویژه"
+   },
+   "music": {
+      "message": "موسیقی"
+   },
+   "notes": {
+      "message": "یادداشت"
+   },
+   "social": {
+      "message": "اجتماعی"
+   }
+}

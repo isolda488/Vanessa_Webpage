@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Vraag maar raak..."
+   },
+   "clearChat": {
+      "message": "Chat wissen"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Er is een fout opgetreden. Het verzonden bericht was te lang. Start een nieuwe chat en verzend een korter bericht."
+   },
+   "example_0": {
+      "message": "“Leg uit hoe men wijn maakt.”"
+   },
+   "example_1": {
+      "message": "“Geef me cadeau-ideeën voor een jongen van 14 jaar.”"
+   },
+   "example_2": {
+      "message": "“Help me een 7-daagse reis naar Tokio te plannen.”"
+   },
+   "examples": {
+      "message": "Voorbeelden:"
+   },
+   "exploreGenie": {
+      "message": "Norton Genie bekijken"
+   },
+   "extShortDesc": {
+      "message": "AI Chat-extensie"
+   },
+   "extTitle": {
+      "message": "AI Chat-extensie"
+   },
+   "freshChat": {
+      "message": "Als u geen vragen meer hebt, wissen we deze chat over 5 minuten zodat u een nieuwe kunt beginnen."
+   },
+   "genieDescription": {
+      "message": "Genie kan binnen enkele seconden bepalen of sms'jes, e-mails, websites of berichten op sociale media scams zijn. Kopieer en plak of upload screenshots van verdachte berichten naar de app. Deze laat u dan meteen weten of het een scam zou kunnen zijn."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Ik kan helaas niet helpen met dit verzoek."
+   },
+   "initialScreenSubtitle": {
+      "message": "Krijg de antwoorden waar u naar zoekt’met AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Nieuwsgierig? Vraagt u maar…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Er is een fout opgetreden. Het verzonden bericht was te lang. Verzend een korter bericht."
+   },
+   "limitError": {
+      "message": "U hebt de berichtenlimiet voor deze sessie bereikt. Wis de chat om overnieuw te beginnen."
+   },
+   "limitErrorMessage": {
+      "message": "U hebt de berichtenlimiet voor deze sessie bereikt. Wis de chat om overnieuw te beginnen."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Bent u er nog?\u003C/b> U hebt al een tijdje niets meer geschreven."
+   },
+   "suggestedSearch": {
+      "message": "Voorgestelde zoekopdrachten"
+   },
+   "tooManyRequestsError": {
+      "message": "Te veel verzoeken. Probeer het later opnieuw."
+   },
+   "tryAsking": {
+      "message": "Probeer uw vraag anders te verwoorden "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, onze AI-tool voor scamdetectie in real-time."
+   }
+}

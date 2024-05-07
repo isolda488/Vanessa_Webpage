@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blocked By"
+   },
+   "LoggerList": {
+      "message": "List"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Type"
+   },
+   "LoggerWhitelisting": {
+      "message": "Whitelisting"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "addSite": {
+      "message": "Add site"
+   },
+   "adsTrackersAllowed": {
+      "message": "Ads & trackers are allowed on this site"
+   },
+   "adsTrackersBlocked": {
+      "message": "Ads & trackers blocked"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Always allow ads on the following sites"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ attempt detected"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ attempts detected"
+   },
+   "balancedBlocking": {
+      "message": "Balanced Blocking"
+   },
+   "balancedBlockingDescription": {
+      "message": "Block known trackers, even more ads for a faster browsing experience."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "All in Basic Blocking and Social media ads"
+   },
+   "balancedBlockingName": {
+      "message": "Balanced"
+   },
+   "basicBlocking": {
+      "message": "Basic Blocking"
+   },
+   "basicBlockingDescription": {
+      "message": "Block known trackers and ads that disrupt your browsing experience."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Known trackers, Pop-up and banner ads, including videos"
+   },
+   "blockAdsSearch": {
+      "message": "Block ads in search results"
+   },
+   "blockSearchAds": {
+      "message": "Block search results ads"
+   },
+   "blockSearchAdsMore": {
+      "message": "Visit settings for \u003Cu>More information\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Blocking is off"
+   },
+   "blockingOptions": {
+      "message": "Blocking options"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Cancel add site operation"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Cancel edit site operation"
+   },
+   "cancelSetStrict": {
+      "message": "Cancel set Strict mode operation"
+   },
+   "clearLogger": {
+      "message": "Clear logger history"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Edit site from whitelist"
+   },
+   "essentialBlockingName": {
+      "message": "Basic"
+   },
+   "extShortDesc": {
+      "message": "Finally, an efficient blocker. Easy on CPU and memory."
+   },
+   "fingerprintBlocked": {
+      "message": "Browser fingerprinting blocked"
+   },
+   "generalSettings": {
+      "message": "General settings"
+   },
+   "goToStrict": {
+      "message": "Go to Strict"
+   },
+   "keepFree": {
+      "message": "Keep free"
+   },
+   "keep_balanced": {
+      "message": "Keep balanced"
+   },
+   "keep_essential": {
+      "message": "Keep basic"
+   },
+   "learnMore": {
+      "message": "Learn more"
+   },
+   "pgLogger": {
+      "message": "Privacy Guard Logger"
+   },
+   "pgSettings": {
+      "message": "Change settings"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Privacy Guard Settings"
+   },
+   "privacyGuard": {
+      "message": "Privacy Guard"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "protection is OFF"
+   },
+   "protectionOn": {
+      "message": "protection is ON"
+   },
+   "protectionPaused": {
+      "message": "protection is paused"
+   },
+   "recommended": {
+      "message": "Recommended"
+   },
+   "refreshWarning": {
+      "message": "When you turn Privacy Guard ON or OFF, your page will automatically refresh, and changes you made might not be saved. Please make sure to save any work before changing Privacy Guard."
+   },
+   "remove": {
+      "message": "Remove"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Save site into whitelist"
+   },
+   "setStrict": {
+      "message": "Set strict"
+   },
+   "setStrictDescription_avast": {
+      "message": "A very few non-invasive ads help us fund Avast Secure Browser. They don’t interrupt your browsing and help keep your browser free. Please show us some love by allowing these ads."
+   },
+   "setStrictDescription_avg": {
+      "message": "A very few non-invasive ads help us fund AVG Secure Browser. They don’t interrupt your browsing and help keep your browser free. Please show us some love by allowing these ads."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "A very few non-invasive ads help us fund CCleaner Secure Browser. They don’t interrupt your browsing and help keep your browser free. Please show us some love by allowing these ads."
+   },
+   "setStrictMode": {
+      "message": "Set Strict mode"
+   },
+   "setStrictTitle": {
+      "message": "Set Privacy Guard to strict"
+   },
+   "setToBalanced": {
+      "message": "You are set to \u003Cb>\u003Cu>Balanced Blocking\u003C/u>\u003Cb>"
+   },
+   "setToBasic": {
+      "message": "You are set to \u003Cb>\u003Cu>Basic Blocking\u003C/u>\u003Cb>"
+   },
+   "setToStrict": {
+      "message": "You are set to \u003Cb>\u003Cu>Strict Blocking\u003C/u>\u003Cb>"
+   },
+   "settingsDescription": {
+      "message": "Enhanced privacy protection. Safeguard your identity from trackers and more.\nBlock ads & trackers for faster, safer browsing."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Show the number of blocked ads on the icon"
+   },
+   "site": {
+      "message": "Site"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Sites you've allowed ads on will appear here"
+   },
+   "spc": {
+      "message": "Security & Privacy center"
+   },
+   "stayOn_balanced": {
+      "message": "Stay on balanced mode"
+   },
+   "stayOn_essential": {
+      "message": "Stay on essential mode"
+   },
+   "strictBlocking": {
+      "message": "Strict Blocking"
+   },
+   "strictBlockingDescription": {
+      "message": "Block everything automatically for a faster, uninterrupted browser experience."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "This setting might cause some sites to not load properly (some content might not be displayed or if the site looks broken turn this setting off)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "All as Balanced Blocking and browser notifications and fingerprinting"
+   },
+   "strictBlockingName": {
+      "message": "Strict"
+   },
+   "strictModalDescription": {
+      "message": "To keep our browser free, we depend on partners that fund us through some non-disruptive and user-friendly ads. Our goal is to enable you to enhance your privacy and safeguard your online identity"
+   },
+   "strictModalTitle": {
+      "message": "Help keep our browser free"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Total __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Visit \u003Cb>\u003Cu>Security & Privacy Center\u003C/u>\u003C/b>\n for other settings"
+   },
+   "whitelistModalDescription": {
+      "message": "What site do you want to allow ads on?"
+   },
+   "youWillBlock": {
+      "message": "You will block: "
+   }
+}

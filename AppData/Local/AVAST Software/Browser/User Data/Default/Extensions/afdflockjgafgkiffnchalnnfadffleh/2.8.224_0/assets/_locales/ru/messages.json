@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Скачивание видео"
+    },
+    "appDesc": {
+        "message": "Скачивание видео для автономного просмотра"
+    },
+    "barMediaBtn": {
+        "message": "Мультимедиа",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Скачать",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Отсоединить",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Настройки",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Больше не показывать",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Не показывать на этом сайте",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Подробнее",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Видео",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Аудио",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "На платформе Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Настройки",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Скачивание видео",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Скачивание видео для автономного просмотра.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Аудио",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Видео",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Скачать",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Присоединить",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "неизвестный размер",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "На этой странице нет видео для скачивания",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Чтобы скачать видео, откройте страницу с данными о нем.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Скачивание видео отключено для",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Включить",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Принимая условия нашего <div><a target='blank' href='$link$'>Лицензионного соглашения с пользователем<\/a><\/div> (EULA), вы признаете и соглашаетесь, что несете ответственность за использование функции «Скачивание видео» в соответствии с применимыми законами об авторском праве и условиями использования любого веб-сайта.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Перед скачиванием",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Я понимаю и принимаю условия Лицензионного соглашения с пользователем",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Продолжить",
+        "description": "EUlA continue button"
+    }
+}

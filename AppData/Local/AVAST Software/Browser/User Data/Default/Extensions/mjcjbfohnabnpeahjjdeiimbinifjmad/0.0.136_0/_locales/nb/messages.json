@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Spør meg om hva som helst ..."
+   },
+   "clearChat": {
+      "message": "Tøm chatten"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Det oppsto en feil. Meldingen var for lang. Start en ny chat og send en kortere melding."
+   },
+   "example_0": {
+      "message": "“Forklar prosessen med å lage vin.”"
+   },
+   "example_1": {
+      "message": "“Ideer til bursdagsgave for en 14 år gammel gutt.”"
+   },
+   "example_2": {
+      "message": "“Hjelp meg med å planlegge en 7-dagers tur til Tokyo.”"
+   },
+   "examples": {
+      "message": "Eksempler:"
+   },
+   "exploreGenie": {
+      "message": "Utforsk Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "AI Chat-utvidelse"
+   },
+   "extTitle": {
+      "message": "AI Chat-utvidelse"
+   },
+   "freshChat": {
+      "message": "Hvis du ikke har flere spørsmål, sletter vi denne chatten om 5 minutter, slik at du kan starte en ny."
+   },
+   "genieDescription": {
+      "message": "Genie kan oppdage om tekstmeldinger, e-poster, nettsteder eller innlegg i sosiale medier er svindel i løpet av sekunder. Det er bare å kopiere og lime inn eller laste opp skjermbilder av mistenkelige meldinger i appen, så får du umiddelbart vite om det kan være svindel."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Beklager, jeg kan ikke hjelpe deg med denne forespørselen."
+   },
+   "initialScreenSubtitle": {
+      "message": "Få svarene du leter etter med AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Nysgjerrig? Spør i vei…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Det oppsto en feil. Meldingen var for lang, send en kortere melding."
+   },
+   "limitError": {
+      "message": "Du har nådd meldingsgrensen for denne økten. Prøv å tømme chatten for å starte på nytt."
+   },
+   "limitErrorMessage": {
+      "message": "Du har nådd meldingsgrensen for denne økten. Prøv å tømme chatten for å starte på nytt."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Er du der ennå?\u003C/b> Du har ikke skrevet noe på en stund."
+   },
+   "suggestedSearch": {
+      "message": "Forslag til søk"
+   },
+   "tooManyRequestsError": {
+      "message": "For mange forespørsler. Prøv igjen senere."
+   },
+   "tryAsking": {
+      "message": "Prøv er spørsmål "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, vårt AI-drevne verktøy for avdekking av svindel i sanntid."
+   }
+}

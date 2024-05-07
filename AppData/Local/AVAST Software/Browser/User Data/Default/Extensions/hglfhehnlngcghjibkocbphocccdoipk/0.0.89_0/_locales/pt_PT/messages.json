@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Comunicação"
+   },
+   "extShortDesc": {
+      "message": "Extensão de Browser Painel Lateral"
+   },
+   "extTitle": {
+      "message": "Extensão Painel Lateral"
+   },
+   "featured": {
+      "message": "Em destaque"
+   },
+   "music": {
+      "message": "Música"
+   },
+   "notes": {
+      "message": "Notas"
+   },
+   "social": {
+      "message": "Redes Sociais"
+   }
+}

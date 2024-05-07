@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "차단자"
+   },
+   "LoggerList": {
+      "message": "목록"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "유형"
+   },
+   "LoggerWhitelisting": {
+      "message": "허용 목록"
+   },
+   "add": {
+      "message": "추가"
+   },
+   "addSite": {
+      "message": "사이트 추가"
+   },
+   "adsTrackersAllowed": {
+      "message": "이 사이트에서 광고와 트래커가 허용됨"
+   },
+   "adsTrackersBlocked": {
+      "message": "광고와 트래커가 차단됨"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "다음 사이트에서 항상 광고 허용"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__건의 시도가 발견됨"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__건의 시도가 발견됨"
+   },
+   "balancedBlocking": {
+      "message": "일반 차단"
+   },
+   "balancedBlockingDescription": {
+      "message": "알려진 트래커와 더 많은 광고를 차단하여 빠르게 검색할 수 있습니다."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "기본 차단 및 소셜 미디어 광고의 모두"
+   },
+   "balancedBlockingName": {
+      "message": "일반 차단"
+   },
+   "basicBlocking": {
+      "message": "기본 차단"
+   },
+   "basicBlockingDescription": {
+      "message": "검색 환경에 방해가 되는 알려진 트래커와 광고를 차단합니다."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "알려진 트래커, 팝업과 배너 광고(동영상 포함)"
+   },
+   "blockAdsSearch": {
+      "message": "검색 결과에서 광고 차단"
+   },
+   "blockSearchAds": {
+      "message": "검색 결과 광고 차단"
+   },
+   "blockSearchAdsMore": {
+      "message": "설정에서 \u003Cu>자세한 정보\u003C/u> 알아보기"
+   },
+   "blockingOff": {
+      "message": "차단이 꺼짐"
+   },
+   "blockingOptions": {
+      "message": "차단 옵션"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cancelAddSiteOperation": {
+      "message": "사이트 추가 작업 취소"
+   },
+   "cancelEditSiteOperation": {
+      "message": "사이트 편집 작업 취소"
+   },
+   "cancelSetStrict": {
+      "message": "엄격 모드 설정 작업 취소"
+   },
+   "clearLogger": {
+      "message": "로거 기록 초기화"
+   },
+   "edit": {
+      "message": "편집"
+   },
+   "editSiteFromWhitelist": {
+      "message": "화이트리스트에서 사이트 편집"
+   },
+   "essentialBlockingName": {
+      "message": "기본"
+   },
+   "extShortDesc": {
+      "message": "효율적인 차단기로, CPU와 메모리를 적게 사용합니다."
+   },
+   "fingerprintBlocked": {
+      "message": "브라우저 지문 차단됨"
+   },
+   "generalSettings": {
+      "message": "일반 설정"
+   },
+   "goToStrict": {
+      "message": "엄격 차단으로 이동"
+   },
+   "keepFree": {
+      "message": "무료로 유지"
+   },
+   "keep_balanced": {
+      "message": "일반 차단 유지"
+   },
+   "keep_essential": {
+      "message": "기본으로 유지"
+   },
+   "learnMore": {
+      "message": "자세히 알아보기"
+   },
+   "pgLogger": {
+      "message": "Privacy Guard 로거"
+   },
+   "pgSettings": {
+      "message": "설정 변경"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Privacy Guard 설정"
+   },
+   "privacyGuard": {
+      "message": "Privacy Guard"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "보호가 꺼짐"
+   },
+   "protectionOn": {
+      "message": "보호가 켜짐"
+   },
+   "protectionPaused": {
+      "message": "보호가 일시 중지됨"
+   },
+   "recommended": {
+      "message": "권장됨"
+   },
+   "refreshWarning": {
+      "message": "Privacy Guard를 켜거나 끄면 페이지가 자동으로 새로 고침되고 변경 사항이 저장되지 않을 수 있습니다. Privacy Guard를 변경하기 전에 모든 작업을 저장하십시오."
+   },
+   "remove": {
+      "message": "제거"
+   },
+   "save": {
+      "message": "저장"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "사이트를 화이트리스트에 저장"
+   },
+   "setStrict": {
+      "message": "엄격 차단 설정"
+   },
+   "setStrictDescription_avast": {
+      "message": "공격적이지 않은 몇 개의 광고는 Avast Secure Browser에 도움이 됩니다. 이러한 광고는 검색에 방해가 되지 않으며 이 브라우저를 무료로 사용할 수 있도록 도와줍니다. 해당 광고를 허용하여 제품을 지원해 주시기 바랍니다."
+   },
+   "setStrictDescription_avg": {
+      "message": "공격적이지 않은 몇 개의 광고는 AVG Secure Browser에 도움이 됩니다. 이러한 광고는 검색에 방해가 되지 않으며 이 브라우저를 무료로 사용할 수 있도록 도와줍니다. 해당 광고를 허용하여 제품을 지원해 주시기 바랍니다."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "공격적이지 않은 몇 개의 광고는 CCleaner Browser에 도움이 됩니다. 이러한 광고는 검색에 방해가 되지 않으며 이 브라우저를 무료로 사용할 수 있도록 도와줍니다. 해당 광고를 허용하여 제품을 지원해 주시기 바랍니다."
+   },
+   "setStrictMode": {
+      "message": "엄격 모드 설정"
+   },
+   "setStrictTitle": {
+      "message": "Privacy Guard를 엄격 차단으로 설정"
+   },
+   "setToBalanced": {
+      "message": "일반 차단으로 설정됨"
+   },
+   "setToBasic": {
+      "message": "기본 차단으로 설정됨"
+   },
+   "setToStrict": {
+      "message": "엄격 차단으로 설정됨"
+   },
+   "settingsDescription": {
+      "message": "고급 개인정보 보호 기능입니다. 트래커 등으로부터 신원을 보호해 드립니다. 광고와 트래커를 차단하여 빠르고 안전하게 검색하십시오."
+   },
+   "settingsShowNumberBadge": {
+      "message": "차단된 광고 개수를 아이콘에 표시"
+   },
+   "site": {
+      "message": "사이트"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "광고가 허용된 사이트가 여기에 나타납니다"
+   },
+   "spc": {
+      "message": "보안 및 개인정보 보호 센터"
+   },
+   "stayOn_balanced": {
+      "message": "균형 모드 유지"
+   },
+   "stayOn_essential": {
+      "message": "기본 모드 유지"
+   },
+   "strictBlocking": {
+      "message": "엄격 차단"
+   },
+   "strictBlockingDescription": {
+      "message": "빠르고 방해받지 않는 검색 환경을 위해 모든 대상을 자동으로 차단합니다."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "이 설정을 사용하면 일부 사이트가 올바르게 표시되지 않을 수 있습니다(콘텐츠나 사이트가 올바르게 표시되지 않으면 이 설정을 끄십시오)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "균형 차단 및 브라우저 알림 및 핑거프린팅으로서의 모두"
+   },
+   "strictBlockingName": {
+      "message": "엄격 차단"
+   },
+   "strictModalDescription": {
+      "message": "브라우저를 무료로 유지하기 위해 우리는 비방해적이고 사용자 친화적인 광고를 통해 자금을 지원하는 파트너에 의존합니다. 우리의 목표는 귀하가 본인의 개인 정보를 강화하고 귀하의 온라인 신원을 보호할 수 있도록 하는 것입니다"
+   },
+   "strictModalTitle": {
+      "message": "브라우저를 무료로 유지하도록 도와주세요"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "총 __TOTAL_ADS__개"
+   },
+   "visitSPC": {
+      "message": "다른 설정을 보려면 \u003Cb>\u003Cu>보안 및 개인정보 보호 센터\u003C/u>\u003C/b> \n를 방문하십시오"
+   },
+   "whitelistModalDescription": {
+      "message": "광고를 허용할 사이트를 선택하십시오."
+   },
+   "youWillBlock": {
+      "message": "차단 대상: "
+   }
+}

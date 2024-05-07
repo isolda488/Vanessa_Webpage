@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Κατέβασμα Βίντεο"
+    },
+    "appDesc": {
+        "message": "Κατεβάστε βίντεο για προβολή εκτός σύνδεσης"
+    },
+    "barMediaBtn": {
+        "message": "Μέσα",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Λήψη",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Απόσπαση",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Ρυθμίσεις",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Να μην εμφανιστεί ξανά",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Να μην εμφανιστεί σε αυτόν τον ιστότοπο",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Περισσότερες πληροφορίες",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Βίντεο",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Ήχος",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Από το Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Ρυθμίσεις",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Κατέβασμα Βίντεο",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Κατεβάστε βίντεο για προβολή εκτός σύνδεσης.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Ήχος",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Βίντεο",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Λήψη",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Επανατοποθέτηση",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "άγνωστο μέγεθος",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Δεν υπάρχουν βίντεο για λήψη σε αυτήν τη σελίδα",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Για να κατεβάσετε κάποιο βίντεο, μεταβείτε στη σελίδα με τα στοιχεία του.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Το Κατέβασμα Βίντεο είναι απενεργοποιημένο για",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Ενεργοποίηση",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Εφόσον αποδεχτείτε την <div><a target='blank' href='$link$'>Άδεια Χρήσης Τελικού Χρήστη<\/a><\/div> (EULA), αναγνωρίζετε και συμφωνείτε ότι χρησιμοποιείτε το Κατέβασμα Βίντεο με δική σας ευθύνη, σύμφωνα με τους ισχύοντες νόμους περί πνευματικών δικαιωμάτων και τους όρους χρήσης των ιστοσελίδων.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Πριν κατεβάσετε",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Κατανοώ και αποδέχομαι την Άδεια Χρήσης Τελικού Χρήστη",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Συνέχεια",
+        "description": "EUlA continue button"
+    }
+}

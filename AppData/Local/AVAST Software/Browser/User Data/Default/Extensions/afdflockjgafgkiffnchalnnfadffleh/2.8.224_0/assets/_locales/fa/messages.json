@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "دانلودکننده ویدیو"
+    },
+    "appDesc": {
+        "message": "دانلود ویدیوها برای تماشای آفلاین"
+    },
+    "barMediaBtn": {
+        "message": "رسانه",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "دانلود",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "جدا کردن",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "تنظیمات",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "مجدداً نشان داده نشود",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "دیگر برای این سایت نشان داده نشود",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "اطلاعات بیشتر",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "ویدیو",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "صدا",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "تحت پشتیبانی Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "تنظیمات",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "دانلودکننده ویدیو",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "ویدیوها را برای تماشای آفلاین دانلود کنید.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "صدا",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "ویدیو",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "دانلود",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "پیوست مجدد",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "اندازه نامشخص",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "هیچ ویدیویی برای دانلود در این صفحه وجود دارد",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "برای دانلود یک ویدیو، به صفحه جزئیات بروید.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "دانلودکننده ویدیو غیرفعال است برای",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "فعال کردن",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "در صورت موافقت با <div><a target='blank' href='$link$'>توافق‌نامه مجوز کاربر نهایی<\/a><\/div> (EULA)، تأیید و موافقت می‌کنید که مسئولیت استفاده از دانلودکننده ویدیو مطابق با قوانین کپی‌رایت مربوطه و شرایط استفاده هر وب‌سایت بر عهده شما می‌باشد.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "قبل از اینکه دانلود کنید",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "من EULA را درک می‌کنم و با آن موافقم",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "ادامه",
+        "description": "EUlA continue button"
+    }
+}

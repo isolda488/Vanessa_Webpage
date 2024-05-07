@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "נחסם על-ידי"
+   },
+   "LoggerList": {
+      "message": "רשימה"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "סוג"
+   },
+   "LoggerWhitelisting": {
+      "message": "Whitelisting"
+   },
+   "add": {
+      "message": "הוסף"
+   },
+   "addSite": {
+      "message": "הוסף אתר"
+   },
+   "adsTrackersAllowed": {
+      "message": "באתר הזה הפרסומות ואמצעי המעקב מותרים"
+   },
+   "adsTrackersBlocked": {
+      "message": "פרסומות ואמצעי מעקב שנחסמו"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "תמיד אפשר פרסומות באתרים הבאים"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "זוהה __TOTAL_FINGERPRINTING__ ניסיון"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "זוהו __TOTAL_FINGERPRINTING__ ניסיונות"
+   },
+   "balancedBlocking": {
+      "message": "חסימה מאוזנת"
+   },
+   "balancedBlockingDescription": {
+      "message": "חסום אמצעי מעקב מוכרים ועוד יותר פרסומות, ותיהנה מגלישה מהירה יותר."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "כל החסימות כמו ב'חסימה בסיסית' וכן פרסומות במדיה חברתית"
+   },
+   "balancedBlockingName": {
+      "message": "מאוזן"
+   },
+   "basicBlocking": {
+      "message": "חסימה בסיסית"
+   },
+   "basicBlockingDescription": {
+      "message": "חסום אמצעי מעקב מוכרים ופרסומות שמפריעות לך בגלישה."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "אמצעי מעקב מוכרים, פרסומות בחלונות קופצים ובבאנרים, כולל סרטונים"
+   },
+   "blockAdsSearch": {
+      "message": "חסום פרסומות בתוצאות חיפוש"
+   },
+   "blockSearchAds": {
+      "message": "חסום פרסומות בתוצאות החיפוש"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>למידע נוסף\u003C/u>, עבור להגדרות"
+   },
+   "blockingOff": {
+      "message": "החסימה כבויה"
+   },
+   "blockingOptions": {
+      "message": "אפשרויות החסימה"
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "cancelAddSiteOperation": {
+      "message": "בטל את פעולת הוספת האתר"
+   },
+   "cancelEditSiteOperation": {
+      "message": "בטל את פעולת עריכת האתר"
+   },
+   "cancelSetStrict": {
+      "message": "בטל את פעולת המעבר למצב 'מחמיר'"
+   },
+   "clearLogger": {
+      "message": "ניקוי היסטוריית מתעד"
+   },
+   "edit": {
+      "message": "עריכה"
+   },
+   "editSiteFromWhitelist": {
+      "message": "ערוך אתר ברשימה הלבנה"
+   },
+   "essentialBlockingName": {
+      "message": "בסיסית"
+   },
+   "extShortDesc": {
+      "message": "סוף סוף חוסם יעיל שלא צריך המון CPU וזיכרון."
+   },
+   "fingerprintBlocked": {
+      "message": "זיהוי טביעת אצבע דרך הדפדפן נחסם"
+   },
+   "generalSettings": {
+      "message": "הגדרות כלליות"
+   },
+   "goToStrict": {
+      "message": "מעבר למצב 'מחמיר'"
+   },
+   "keepFree": {
+      "message": "השאירו אותו חינמי"
+   },
+   "keep_balanced": {
+      "message": "להישאר עם 'מאוזן'"
+   },
+   "keep_essential": {
+      "message": "הישאר בבסיסית"
+   },
+   "learnMore": {
+      "message": "מידע נוסף"
+   },
+   "pgLogger": {
+      "message": "המתעד של Privacy Guard"
+   },
+   "pgSettings": {
+      "message": "שינוי הגדרות"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "הגדרות 'שומר הפרטיות'"
+   },
+   "privacyGuard": {
+      "message": "שומר הפרטיות"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "ההגנה כבויה"
+   },
+   "protectionOn": {
+      "message": "ההגנה מופעלת"
+   },
+   "protectionPaused": {
+      "message": "ההגנה מושהית"
+   },
+   "recommended": {
+      "message": "מומלץ"
+   },
+   "refreshWarning": {
+      "message": "לאחר הפעלה או כיבוי של Privacy Guard, הדף יתרענן באופן אוטומטי והשינויים שביצעת עשויים לא להישמר. יש לשמור את כל העבודה שלך לפני שינוי של Privacy Guard."
+   },
+   "remove": {
+      "message": "הסרה"
+   },
+   "save": {
+      "message": "שמירה"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "שמור את האתר ברשימה הלבנה"
+   },
+   "setStrict": {
+      "message": "הגדר 'מחמיר'"
+   },
+   "setStrictDescription_avast": {
+      "message": "מעט מאוד פרסומות לא פולשניות עוזרות לנו לממן את Avast Secure Browser. הן לא יפריעו לך בגלישה ויעזרו לך להמשיך להשתמש בדפדפן בחינם. תמוך בנו ואפשר את הפרסומות האלה."
+   },
+   "setStrictDescription_avg": {
+      "message": "מעט מאוד פרסומות לא פולשניות עוזרות לנו לממן את AVG Secure Browser. הן לא יפריעו לך בגלישה ויעזרו לך להמשיך להשתמש בדפדפן בחינם. תמוך בנו ואפשר את הפרסומות האלה."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "מעט מאוד פרסומות לא פולשניות עוזרות לנו לממן את CCleaner Browser. הן לא יפריעו לך בגלישה ויעזרו לך להמשיך להשתמש בדפדפן בחינם. תמוך בנו ואפשר את הפרסומות האלה."
+   },
+   "setStrictMode": {
+      "message": "עבור למצב 'מחמיר'"
+   },
+   "setStrictTitle": {
+      "message": "כוון את 'שומר הפרטיות' ל'מחמיר'"
+   },
+   "setToBalanced": {
+      "message": "מוגדרת אצלך 'חסימה מאוזנת'"
+   },
+   "setToBasic": {
+      "message": "מוגדרת אצלך 'חסימה בסיסית'"
+   },
+   "setToStrict": {
+      "message": "מוגדרת אצלך 'חסימה מחמירה'"
+   },
+   "settingsDescription": {
+      "message": "הגנה משופרת על הפרטיות. אבטח את הזהות שלך נגד אמצעי מעקב ועוד.\nחסום פרסומות ואמצעי מעקב ותיהנה מגלישה מהירה ובטוחה יותר."
+   },
+   "settingsShowNumberBadge": {
+      "message": "הראה את מספר הפרסומות החסומות על האייקון"
+   },
+   "site": {
+      "message": "אתר"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "אתרים שבהם אפשרת פרסומות יוצגו כאן"
+   },
+   "spc": {
+      "message": "מרכז האבטחה והפרטיות"
+   },
+   "stayOn_balanced": {
+      "message": "הישאר במצב המאוזן"
+   },
+   "stayOn_essential": {
+      "message": "הישאר במצב הבסיסי"
+   },
+   "strictBlocking": {
+      "message": "חסימה מחמירה"
+   },
+   "strictBlockingDescription": {
+      "message": "חסום הכול אוטומטית ותיהנה מגלישה מהירה יותר, בלי הפרעות."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "בגלל ההגדרה הזאת ייתכן שאתרים מסוימים לא ייטענו כמו שצריך (אם חלק מהתוכן לא יוצג או שהאתר נראה לא תקין, כבה את ההגדרה הזאת)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "כל החסימות כמו ב'חסימה מאוזנת' וכן התראות דפדפן וטביעות אצבע"
+   },
+   "strictBlockingName": {
+      "message": "מחמיר"
+   },
+   "strictModalDescription": {
+      "message": "כדי להשאיר את הדפדפן שלנו חינמי, אנחנו מסתמכים על שותפים שמממנים אותנו באמצעות פרסומות ידידותיות ולא פולשניות. מטרתנו היא לאפשר לך להגביר את האבטחה ולהגן על הזהות שלך באינטרנט"
+   },
+   "strictModalTitle": {
+      "message": "עזרה להשאיר את הדפדפן שלנו חינמי"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "סך הכול __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "להגדרות נוספות יש לעבור אל \u003Cb>\u003Cu>מרכז האבטחה והפרטיות\u003C/u>\u003C/b>\n"
+   },
+   "whitelistModalDescription": {
+      "message": "באיזה אתר ברצונך להתיר פרסומות?"
+   },
+   "youWillBlock": {
+      "message": "תחסום: "
+   }
+}

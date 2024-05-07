@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Bloquejat per"
+   },
+   "LoggerList": {
+      "message": "Llista"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Tipus"
+   },
+   "LoggerWhitelisting": {
+      "message": "Llista blanca"
+   },
+   "add": {
+      "message": "Afegeix"
+   },
+   "addSite": {
+      "message": "Afegeix un lloc web"
+   },
+   "adsTrackersAllowed": {
+      "message": "Els rastrejadors i els anuncis estan permesos en aquest lloc"
+   },
+   "adsTrackersBlocked": {
+      "message": "Anuncis i rastrejadors bloquejats"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Permet sempre els anuncis als llocs web següents"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "S'ha detectat __TOTAL_FINGERPRINTING__ attempt"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "S'han detectat __TOTAL_FINGERPRINTING__ intents"
+   },
+   "balancedBlocking": {
+      "message": "Bloqueig equilibrat"
+   },
+   "balancedBlockingDescription": {
+      "message": "Bloquegeu rastrejadors coneguts i encara més anuncis per gaudir d'una experiència de navegació més ràpida."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Tot a Bloqueig bàsic i Anuncis de xarxes socials"
+   },
+   "balancedBlockingName": {
+      "message": "Equilibrat"
+   },
+   "basicBlocking": {
+      "message": "Bloqueig bàsic"
+   },
+   "basicBlockingDescription": {
+      "message": "Bloquegeu els rastrejadors coneguts i els anuncis que alterin la vostra experiència de navegació."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Rastrejadors coneguts, anuncis emergents i bàners (incloent-hi els vídeos)"
+   },
+   "blockAdsSearch": {
+      "message": "Bloqueja els anuncis als resultats de cerca"
+   },
+   "blockSearchAds": {
+      "message": "Bloqueja els anuncis dels resultats de cerca"
+   },
+   "blockSearchAdsMore": {
+      "message": "Visiteu la configuració per obtenir \u003Cu>Més informació\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "El bloqueig està desactivat"
+   },
+   "blockingOptions": {
+      "message": "Opcions de bloqueig"
+   },
+   "cancel": {
+      "message": "Cancel·la"
+   },
+   "cancelAddSiteOperation": {
+      "message": "No afegeixis el lloc"
+   },
+   "cancelEditSiteOperation": {
+      "message": "No editis el lloc"
+   },
+   "cancelSetStrict": {
+      "message": "No configuris el mode estricte"
+   },
+   "clearLogger": {
+      "message": "Neteja l‘historial d‘informes"
+   },
+   "edit": {
+      "message": "Edita"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Edita el lloc de la llista blanca"
+   },
+   "essentialBlockingName": {
+      "message": "Bàsic"
+   },
+   "extShortDesc": {
+      "message": "A la fi un bloquejador eficient i lleuger per al processador i per a la memòria."
+   },
+   "fingerprintBlocked": {
+      "message": "S'ha bloquejat l'empremta digital del navegador"
+   },
+   "generalSettings": {
+      "message": "Configuració general"
+   },
+   "goToStrict": {
+      "message": "Anar a Estricte"
+   },
+   "keepFree": {
+      "message": "Mantenir la gratuïtat"
+   },
+   "keep_balanced": {
+      "message": "Mantén equilibrat"
+   },
+   "keep_essential": {
+      "message": "Mantén el bàsic"
+   },
+   "learnMore": {
+      "message": "Més informació"
+   },
+   "pgLogger": {
+      "message": "Informe de Protecció de privacitat"
+   },
+   "pgSettings": {
+      "message": "Canvia la configuració"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Configuració de Protecció de privacitat"
+   },
+   "privacyGuard": {
+      "message": "Protecció de privacitat"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "protecció desactivada"
+   },
+   "protectionOn": {
+      "message": "protecció activada"
+   },
+   "protectionPaused": {
+      "message": "protecció en pausa"
+   },
+   "recommended": {
+      "message": "Recomanat"
+   },
+   "refreshWarning": {
+      "message": "Quan activeu o desactiveu la Protecció de privacitat, la vostra pàgina s‘actualitzarà automàticament i és possible que els canvis que hàgiu fet no es desin. Abans de canviar la Protecció de privacitat, deseu qualsevol treball."
+   },
+   "remove": {
+      "message": "Suprimeix"
+   },
+   "save": {
+      "message": "Desa"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Desa el lloc a la llista blanca"
+   },
+   "setStrict": {
+      "message": "Defineix com a estricte"
+   },
+   "setStrictDescription_avast": {
+      "message": "Un conjunt molt reduït d'anuncis no invasius ens ajuda a finançar l'Avast Secure Browser. No interrompen la navegació ni carreguen el navegador. En cas que us agradi l'aplicació, us demanem que els permeteu."
+   },
+   "setStrictDescription_avg": {
+      "message": "Un conjunt molt reduït d'anuncis no invasius ens ajuda a finançar l'AVG Secure Browser. No interrompen la navegació ni carreguen el navegador. En cas que us agradi l'aplicació, us demanem que els permeteu."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Un conjunt molt reduït d'anuncis no invasius ens ajuda a finançar el CCleaner Browser. No interrompen la navegació ni carreguen el navegador. En cas que us agradi l'aplicació, us demanem que els permeteu."
+   },
+   "setStrictMode": {
+      "message": "Configura el mode estricte"
+   },
+   "setStrictTitle": {
+      "message": "Establir la Protecció de privacitat com a estricta"
+   },
+   "setToBalanced": {
+      "message": "Heu establert el bloqueig equilibrat"
+   },
+   "setToBasic": {
+      "message": "Heu establert el bloqueig bàsic"
+   },
+   "setToStrict": {
+      "message": "Heu establert el bloqueig estricte"
+   },
+   "settingsDescription": {
+      "message": "Protecció de la privacitat millorada. Protegiu la vostra identitat dels rastrejadors i altres agents.\nBloquejeu els anuncis i els rastrejadors per gaudir d'una experiència de navegació més ràpida i segura."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Mostra el número de anuncis bloquejats a l'icona"
+   },
+   "site": {
+      "message": "Lloc web"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Es mostraran aquí els llocs web en què hàgiu permès els anuncis"
+   },
+   "spc": {
+      "message": "Centre de seguretat i privacitat"
+   },
+   "stayOn_balanced": {
+      "message": "Queda't al mode equilibrat"
+   },
+   "stayOn_essential": {
+      "message": "Queda't al mode essencial"
+   },
+   "strictBlocking": {
+      "message": "Bloqueig estricte"
+   },
+   "strictBlockingDescription": {
+      "message": "Bloquegeu-ho tot automàticament per gaudir d'una experiència de navegació ininterrompuda i més ràpida."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Aquesta configuració pot fer que alguns llocs web no es carreguin correctament (si algun contingut no es mostra o sembla que el lloc web estigui espatllat desactiveu aquesta configuració)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Tot com a Bloqueig equilibrat i notificacions del navegador i empremtes digitals"
+   },
+   "strictBlockingName": {
+      "message": "Estricte"
+   },
+   "strictModalDescription": {
+      "message": "Per tal que el nostre navegador segueixi essent gratuït, depenem dels socis que ens financien mitjançant anuncis fàcils senzills i no perjudicials. El nostre objectiu és permetre-vos millorar la vostra privadesa i protegir la vostra identitat en línia"
+   },
+   "strictModalTitle": {
+      "message": "Ajudeu a mantenir la gratuïtat del nostre navegador"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Total __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Visiteu el \u003Cb>\u003Cu>Centre de seguretat i privacitat\u003C/u>\u003C/b>\n per accedir a altres opcions de configuració"
+   },
+   "whitelistModalDescription": {
+      "message": "A quin lloc voleu permetre els anuncis?"
+   },
+   "youWillBlock": {
+      "message": "Bloquejareu:"
+   }
+}

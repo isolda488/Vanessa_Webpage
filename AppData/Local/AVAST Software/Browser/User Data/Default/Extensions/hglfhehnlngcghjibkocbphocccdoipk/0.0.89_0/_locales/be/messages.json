@@ -1,0 +1,23 @@
+{
+  "extTitle": {
+    "message": "Пашырэнне «Бакавая панэль»"
+  },
+  "extShortDesc": {
+    "message": "Пашырэнне браўзера «Бакавая панэль»"
+  },
+  "featured": {
+    "message": "Вартае ўвагі"
+  },
+  "communication": {
+    "message": "Камунікацыя"
+  },
+  "social": {
+    "message": "Сацсеткі"
+  },
+  "music": {
+    "message": "Музыка"
+  },
+  "notes": {
+    "message": "Нататкі"
+  }
+}

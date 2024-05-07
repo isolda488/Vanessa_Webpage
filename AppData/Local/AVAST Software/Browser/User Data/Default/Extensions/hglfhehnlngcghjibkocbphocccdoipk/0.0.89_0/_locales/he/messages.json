@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "תקשורת"
+   },
+   "extShortDesc": {
+      "message": "הרחבת 'לוח צד' בדפדפן"
+   },
+   "extTitle": {
+      "message": "הרחבת 'לוח צד'"
+   },
+   "featured": {
+      "message": "נבחרים"
+   },
+   "music": {
+      "message": "מוזיקה"
+   },
+   "notes": {
+      "message": "פתקים"
+   },
+   "social": {
+      "message": "מדיה חברתית"
+   }
+}

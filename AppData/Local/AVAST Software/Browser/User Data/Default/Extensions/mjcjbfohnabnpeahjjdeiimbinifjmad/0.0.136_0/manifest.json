@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "img/common/toolbar/icon_128.png",
+         "16": "img/common/toolbar/icon_16.png",
+         "24": "img/common/toolbar/icon_24.png",
+         "32": "img/common/toolbar/icon_32.png",
+         "48": "img/common/toolbar/icon_48.png",
+         "64": "img/common/toolbar/icon_64.png"
+      },
+      "default_popup": "app.html",
+      "default_title": "AI Chat"
+   },
+   "author": "Gen Digital",
+   "background": {
+      "service_worker": "js/background.bundle.js"
+   },
+   "content_scripts": [  ],
+   "content_security_policy": {
+      "extension_pages": "default-src 'self'; font-src *; script-src 'self'; connect-src *; style-src * 'unsafe-inline' 'self' blob:; img-src * data:; object-src 'self'"
+   },
+   "dataKeys": [ "AIChatData" ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "host_permissions": [ "https://*/", "\u003Call_urls>" ],
+   "icons": {
+      "128": "img/common/extensions_page/icon_128.png",
+      "16": "img/common/extensions_page/icon_16.png",
+      "32": "img/common/extensions_page/icon_32.png",
+      "48": "img/common/extensions_page/icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAwKTC1PNVErWd7Fjh/oCK47Wf2pxryNcgJDhXlTB4HD4N1ohkHshMeRQfCYFW3ZfBcozZKxtjAfqsvvp6eJ3Y4SkM/Qh/PbYZCnb4go0oT8qqFRkvNhVa1My0dsz4RfUv4vnM4vq4K17RfFKKiWqucDLh5Fy9rN7lvLHa91qIaDpk3XFF+os85vQ7da6t9QnTxsplttqk0LuY3WLXELlA0wxBMydgb7IlhiyF73A0hof8HbWI7BlbF+vSVukKo5JgkbW33NI/KZVSLCbBiB4wYDnhZjX9gXwafUT7rhZ4vHLupYjjx6OH5PC+PfPlBlieN7TstOsss7Rni7yx6oRZ7qXI/3TjJGFd1rZ3hC8kAbfyry6r1lJpJYWHrDmp6yeVN+UOkER6u58JVfyQHfy5DjvKgjUojHTVUTCzz3d3zc/nfhEH6GP46Hr1/waYAlI7L4ypaEOIzqsgEcegxm1E9Y3xtXf7u1VsYw6aEBq2xujQpJ+v+nxARU5JWrymZU6iRml1K6DxNlPNVd40ZOUtfyM0lYCdBXhaA9OcOJXgmXcvxGHW3cETFRdRiTljFJXysUqeCJorHjewzltGDmPBLZkVG8zFO7oWk49DVbGNT2ORjUJ/ZPqrpXygQM8NEgNdn8DdwT6p8KBEVtoJQ7kkwFZMDojLTifrkfkpyBLEUtMCAwEAAQ==",
+   "manifest_version": 3,
+   "minimum_chrome_version": "55.0",
+   "name": "AI Chat",
+   "permissions": [ "storage", "tabs", "unlimitedStorage", "sidePanel" ],
+   "short_name": "AI Chat",
+   "side_panel": {
+      "default_path": "ai_chat.html"
+   },
+   "version": "0.0.136"
+}

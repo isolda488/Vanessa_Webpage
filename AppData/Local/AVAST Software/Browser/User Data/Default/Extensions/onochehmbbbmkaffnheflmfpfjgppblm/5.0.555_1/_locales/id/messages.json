@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Diblokir Oleh"
+   },
+   "LoggerList": {
+      "message": "Daftar"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Jenis"
+   },
+   "LoggerWhitelisting": {
+      "message": "Daftar Putih"
+   },
+   "add": {
+      "message": "Tambahkan"
+   },
+   "addSite": {
+      "message": "Tambahkan situs"
+   },
+   "adsTrackersAllowed": {
+      "message": "Iklan & pelacak diizinkan di situs ini"
+   },
+   "adsTrackersBlocked": {
+      "message": "Iklan & pelacak diblokir"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Selalu izinkan iklan di situs berikut"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ percobaan terdeteksi"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ percobaan terdeteksi"
+   },
+   "balancedBlocking": {
+      "message": "Pemblokiran Seimbang"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blokir pelacak yang diketahui dan lebih banyak iklan agar pengalaman menjelajah jadi lebih cepat dan lebih aman."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Semua dalam Pemblokiran Dasar dan Iklan media sosial"
+   },
+   "balancedBlockingName": {
+      "message": "Seimbang"
+   },
+   "basicBlocking": {
+      "message": "Pemblokiran Dasar"
+   },
+   "basicBlockingDescription": {
+      "message": "Memblokir pelacak dan iklan yang diketahui dapat mengganggu pengalaman menjelajah Anda."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Pelacak yang dikenal, iklan Pop-up dan banner, termasuk video"
+   },
+   "blockAdsSearch": {
+      "message": "Blokir iklan di hasil pencarian"
+   },
+   "blockSearchAds": {
+      "message": "Memblokir iklan hasil pencarian"
+   },
+   "blockSearchAdsMore": {
+      "message": "Kunjungi pengaturan untuk \u003Cu>Informasi selengkapnya\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Pemblokiran nonaktif"
+   },
+   "blockingOptions": {
+      "message": "Opsi pemblokiran"
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Batalkan penambahan situs"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Batalkan pengeditan situs"
+   },
+   "cancelSetStrict": {
+      "message": "Batalkan pengaturan ke mode Ketat"
+   },
+   "clearLogger": {
+      "message": "Kosongkan riwayat pencatat log"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Edit situs dari daftar putih"
+   },
+   "essentialBlockingName": {
+      "message": "Dasar"
+   },
+   "extShortDesc": {
+      "message": "Akhirnya, ada pemblokir yang efisien. Ramah CPU dan memori."
+   },
+   "fingerprintBlocked": {
+      "message": "Sidik jari browser diblokir"
+   },
+   "generalSettings": {
+      "message": "Pengaturan umum"
+   },
+   "goToStrict": {
+      "message": "Buka Strict"
+   },
+   "keepFree": {
+      "message": "Tetap gratis"
+   },
+   "keep_balanced": {
+      "message": "Pertahankan Seimbang"
+   },
+   "keep_essential": {
+      "message": "Pertahankan pemblokiran dasar"
+   },
+   "learnMore": {
+      "message": "Pelajari lebih lanjut"
+   },
+   "pgLogger": {
+      "message": "Pencatat Log Pelindung Privasi"
+   },
+   "pgSettings": {
+      "message": "Ubah pengaturan"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Pengaturan Pelindung Privasi"
+   },
+   "privacyGuard": {
+      "message": "Pelindung Privasi"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "perlindungan MATI"
+   },
+   "protectionOn": {
+      "message": "perlindungan MENYALA"
+   },
+   "protectionPaused": {
+      "message": "perlindungan dijeda"
+   },
+   "recommended": {
+      "message": "Direkomendasikan"
+   },
+   "refreshWarning": {
+      "message": "Saat Anda mengatur Pelindung Privasi NYALA atau MATI, halaman Anda akan secara otomatis disegarkan, dan perubahan yang Anda buat mungkin tidak tersimpan. Pastikan untuk menyimpan semua pekerjaan sebelum mengubah Pelindung Privasi."
+   },
+   "remove": {
+      "message": "Hapus"
+   },
+   "save": {
+      "message": "Simpan"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Simpan situs ke dalam daftar putih"
+   },
+   "setStrict": {
+      "message": "Atur ke ketat"
+   },
+   "setStrictDescription_avast": {
+      "message": "Beberapa iklan tidak berbahaya membantu mendanai Avast Secure Browser. Iklan semacam ini tidak mengganggu aktivitas browsing dan melindungi browser. Dukung kami dengan tidak memblokir iklan ini."
+   },
+   "setStrictDescription_avg": {
+      "message": "Beberapa iklan tidak berbahaya membantu mendanai AVG Secure Browser. Iklan semacam ini tidak mengganggu aktivitas browsing dan melindungi browser. Dukung kami dengan tidak memblokir iklan ini."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Beberapa iklan tidak berbahaya membantu mendanai CCleaner Secure Browser. Iklan semacam ini tidak mengganggu aktivitas browsing dan melindungi browser. Dukung kami dengan tidak memblokir iklan ini."
+   },
+   "setStrictMode": {
+      "message": "Atur ke mode Ketat"
+   },
+   "setStrictTitle": {
+      "message": "Atur Pelindung Privasi menjadi ketat"
+   },
+   "setToBalanced": {
+      "message": "Anda diatur ke Pemblokiran Seimbang"
+   },
+   "setToBasic": {
+      "message": "Anda diatur ke Pemblokiran Dasar"
+   },
+   "setToStrict": {
+      "message": "Anda diatur ke Pemblokiran Ketat"
+   },
+   "settingsDescription": {
+      "message": "Peningkatan perlindungan privasi. Melindungi identitas Anda dari pelacak dan lainnya.\nMemblokir iklan & pelacak untuk penjelajahan yang lebih cepat dan aman."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Tampilkan jumlah iklan diblokir di ikon"
+   },
+   "site": {
+      "message": "Situs"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Situs yang Anda izinkan menampilkan iklan akan muncul di sini"
+   },
+   "spc": {
+      "message": "Pusat Keamanan & Privasi"
+   },
+   "stayOn_balanced": {
+      "message": "Tetap gunakan mode seimbang"
+   },
+   "stayOn_essential": {
+      "message": "Tetap gunakan mode dasar"
+   },
+   "strictBlocking": {
+      "message": "Pemblokiran Ketat"
+   },
+   "strictBlockingDescription": {
+      "message": "Memblokir semuanya secara otomatis agar pengalaman browser lebih cepat dan bebas gangguan."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Pengaturan ini dapat menyebabkan beberapa situs tidak dimuat dengan benar (beberapa konten mungkin tidak muncul atau jika situs tampak rusak, nonaktifkan pengaturan ini)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Semua sebagai Pemblokiran Seimbang, notifikasi browser, dan perekaman sidik jari"
+   },
+   "strictBlockingName": {
+      "message": "Ketat"
+   },
+   "strictModalDescription": {
+      "message": "Agar browser kami tetap gratis, kami mengandalkan mitra-mitra yang mendanai kami melalui iklan yang tidak mengganggu dan ramah pengguna. Tujuan kami adalah membuat Anda dapat meningkatkan privasi dan melindungi identitas online Anda"
+   },
+   "strictModalTitle": {
+      "message": "Bantu kami agar browser tetap gratis"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Total __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Kunjungi \u003Cb>\u003Cu>Pusat Keamanan & Privasi\u003C/u>\u003C/b>\nuntuk pengaturan lainnya"
+   },
+   "whitelistModalDescription": {
+      "message": "Situs apa yang boleh menampilkan iklan?"
+   },
+   "youWillBlock": {
+      "message": "Anda akan memblokir: "
+   }
+}

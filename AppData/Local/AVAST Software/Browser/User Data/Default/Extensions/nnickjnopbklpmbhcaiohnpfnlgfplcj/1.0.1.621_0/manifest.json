@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon48.png",
+      "default_popup": "html/popup.html",
+      "default_title": "Browser Phishing Protection"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "styles/content.css" ],
+      "js": [ "js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "This extension proactively detects Phishing webpages.",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxFNuhFt4CB9kXOfAW5jKZjPwbphwjnFZwNsSl1TWMBg2zvL7/PD8GjIIdkG4WUqgNxGUATcRihZsNNE7PQ0YcWP/+eCnB+3dai289DmcorQyQg/OzxnMPU5zINWUzkl3wC8R2DG20RX40ru1dxRCwskKN7rc9BvJCgKHnDh8/JA7NwC9Si5ebC5+aTU8ZpKiUHNPCywFVWhoaH5s7W6J0ZhuybovinLIXHl3GEJNnWbBze75dNXwTWAA9JVVPoyFPzSY+x5u5KsFFnBH/6FlxJU4IsR4tdiHBSN02+KvbLH4r5ngkvQXYCcmq6iXHHKRcZEn7C9k/VTUsppPU3sCiw4usUenGxTAXaJM2VOWassQ7iMTr2oh+mt9Sg54PTRXZun7RxTCXe67jv3rVe2zJkkJErvgXl70LcaRggkODT/CDudpuHetTytzybwFs6KwSH3MD4AwqxIYajr8Rq9E+N6DEP3Xpkwv9Tg7AhRNF1xBOt3JGAJRCnENmC+OybpjySGckBmgqMagYJKjP2yknWUwIfJnd0e+d/2AiQ+rmU6ZNqT5Jv0Ai/pnAWqrna7E2KlV6X6iqCJNnEPHrLMZReEU/2BZQzIRm4Ih+mehmaZxs1WQ4hAmj1PqYTnr0EbfgIUHQow6FfBNrViAKFNIqvc5Nmg8nWjxAr1qgxG2dAECAwEAAQ==",
+   "manifest_version": 2,
+   "name": "Browser Phishing Protection",
+   "permissions": [ "tabs", "webNavigation", "webRequest", "http://*/*", "https://*/*", "storage", "\u003Call_urls>", "activeTab", "system.memory" ],
+   "version": "1.0.1.621",
+   "web_accessible_resources": [ "images/*", "js/popup.js", "model/*", "database/dataset.json" ]
+}

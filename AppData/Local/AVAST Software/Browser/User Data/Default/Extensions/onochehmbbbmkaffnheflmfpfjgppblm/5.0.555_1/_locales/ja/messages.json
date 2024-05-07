@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "次によりブロック："
+   },
+   "LoggerList": {
+      "message": "列表示"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "種類"
+   },
+   "LoggerWhitelisting": {
+      "message": "ホワイトリスト"
+   },
+   "add": {
+      "message": "追加"
+   },
+   "addSite": {
+      "message": "サイトを追加"
+   },
+   "adsTrackersAllowed": {
+      "message": "このサイトでは広告とトラッカーが許可されています"
+   },
+   "adsTrackersBlocked": {
+      "message": "ブロックされた広告とトラッカー"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "以下のサイトでは常に広告を許可します"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ 回の試行が検出されました"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ 試行が検出されました"
+   },
+   "balancedBlocking": {
+      "message": "バランス ブロック"
+   },
+   "balancedBlockingDescription": {
+      "message": "より高速なブラウジングのため、既知のトラッカーやさらに多くの広告をブロックします。"
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "［基本ブロック］のすべてに加えて、ソーシャル メディアの広告"
+   },
+   "balancedBlockingName": {
+      "message": "バランス"
+   },
+   "basicBlocking": {
+      "message": "基本ブロック"
+   },
+   "basicBlockingDescription": {
+      "message": "ブラウジングを妨げる既知のトラッカーや広告をブロックします。"
+   },
+   "basicBlockingExtraDescription": {
+      "message": "動画を含む既知のトラッカー、ポップアップおよびバナー広告"
+   },
+   "blockAdsSearch": {
+      "message": "検索結果の広告をブロック"
+   },
+   "blockSearchAds": {
+      "message": "検索結果広告をブロック"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>詳細は\u003C/u>設定でご確認ください"
+   },
+   "blockingOff": {
+      "message": "ブロックはオフです"
+   },
+   "blockingOptions": {
+      "message": "ブロックのオプション"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cancelAddSiteOperation": {
+      "message": "サイトの追加操作をキャンセル"
+   },
+   "cancelEditSiteOperation": {
+      "message": "サイトの編集操作をキャンセル"
+   },
+   "cancelSetStrict": {
+      "message": "厳密モードの設定操作をキャンセル"
+   },
+   "clearLogger": {
+      "message": "ログ履歴を消去する"
+   },
+   "edit": {
+      "message": "編集"
+   },
+   "editSiteFromWhitelist": {
+      "message": "ホワイトリストのサイトを編集"
+   },
+   "essentialBlockingName": {
+      "message": "基本"
+   },
+   "extShortDesc": {
+      "message": "効率的なブロッカーがついに登場しました。CPU やメモリをほとんど消費しません。"
+   },
+   "fingerprintBlocked": {
+      "message": "ブラウザ指紋はブロックされています"
+   },
+   "generalSettings": {
+      "message": "全般設定"
+   },
+   "goToStrict": {
+      "message": "厳格に変更"
+   },
+   "keepFree": {
+      "message": "無料使用を継続"
+   },
+   "keep_balanced": {
+      "message": "バランスで継続"
+   },
+   "keep_essential": {
+      "message": "基本で継続"
+   },
+   "learnMore": {
+      "message": "詳細を見る"
+   },
+   "pgLogger": {
+      "message": "プライバシー ガード ロガー"
+   },
+   "pgSettings": {
+      "message": "設定の変更"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "プライバシー ガードの設定"
+   },
+   "privacyGuard": {
+      "message": "プライバシー ガード"
+   },
+   "pro": {
+      "message": "プロ版"
+   },
+   "protectionOff": {
+      "message": "プロテクションはオフです"
+   },
+   "protectionOn": {
+      "message": "プロテクションはオンです"
+   },
+   "protectionPaused": {
+      "message": "プロテクションは一時停止されています"
+   },
+   "recommended": {
+      "message": "おすすめ"
+   },
+   "refreshWarning": {
+      "message": "プライバシー ガードをオンまたはオフにすると、ページが自動的に更新され、変更が保存されない場合があります。プライバシー ガードを変更する前に作業を保存してください。"
+   },
+   "remove": {
+      "message": "削除"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "サイトをホワイトリストに保存"
+   },
+   "setStrict": {
+      "message": "厳格に設定"
+   },
+   "setStrictDescription_avast": {
+      "message": "アバスト セキュア ブラウザの運営費用を賄う非侵略的な広告です。これらの広告は閲覧を妨害せず、お客様がブラウザーを無料で使用し続けるうえで役立っています。これらの広告を許可することで、アバストを応援していただければ幸いです。"
+   },
+   "setStrictDescription_avg": {
+      "message": "AVG セキュア ブラウザの運営費用を賄う非侵略的な広告です。これらの広告は閲覧を妨害せず、お客様がブラウザーを無料で使用し続けるうえで役立っています。これらの広告を許可することで、AVG を応援していただければ幸いです。"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "CCleaner セキュア ブラウザを支える非侵略的な広告です。これらの広告は閲覧を妨害せず、お客様がブラウザを無料で使用し続ける上で役立っています。これらの広告を許可することで、CCleaner を応援していただければ幸いです。"
+   },
+   "setStrictMode": {
+      "message": "厳密モードを設定"
+   },
+   "setStrictTitle": {
+      "message": "プライバシー ガードを厳格に設定する"
+   },
+   "setToBalanced": {
+      "message": "バランス ブロックに設定されています"
+   },
+   "setToBasic": {
+      "message": "基本ブロックに設定されています"
+   },
+   "setToStrict": {
+      "message": "厳格ブロックに設定されています"
+   },
+   "settingsDescription": {
+      "message": "強化されたプライバシー プロテクション。トラッカーなどからアイデンティティを守ります。\nより速く、より安全なブラウジングのため、広告やトラッカーをブロックします。"
+   },
+   "settingsShowNumberBadge": {
+      "message": "ブロックされた広告数をアイコンに表示する"
+   },
+   "site": {
+      "message": "サイト"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "広告を許可したサイトがここに表示されます"
+   },
+   "spc": {
+      "message": "セキュリティ＆プライバシー センター"
+   },
+   "stayOn_balanced": {
+      "message": "バランス モードを維持"
+   },
+   "stayOn_essential": {
+      "message": "最小限モードを維持"
+   },
+   "strictBlocking": {
+      "message": "厳格ブロック"
+   },
+   "strictBlockingDescription": {
+      "message": "より速く、途切れることのないブラウジングのため、すべてを自動的にブロックします。"
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "この設定により、一部のサイトが正しく読み込まれない場合があります（一部のコンテンツが表示されない、またはサイトが壊れているように見える場合は、この設定をオフにしてください）。"
+   },
+   "strictBlockingExtraDescription": {
+      "message": "［バランス ブロック］のすべてに加えて、ブラウザ通知と指紋採取"
+   },
+   "strictBlockingName": {
+      "message": "厳格"
+   },
+   "strictModalDescription": {
+      "message": "ブラウザの無料使用を継続するため、運営費用を支援するパートナー様の非侵略的でユーザーの邪魔をしない広告を表示しています。当社の目標は、お客様のプライバシーを強化し、オンラインの個人情報を保護することです。"
+   },
+   "strictModalTitle": {
+      "message": "ブラウザの無料使用の継続にご協力ください"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "合計 __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "その他の設定については\u003Cb>\u003Cu>セキュリティ＆プライバシー センター\u003C/u>\u003C/b>に\nアクセスしてください"
+   },
+   "whitelistModalDescription": {
+      "message": "どのサイトに広告を許可しますか？"
+   },
+   "youWillBlock": {
+      "message": "ブロックするもの："
+   }
+}

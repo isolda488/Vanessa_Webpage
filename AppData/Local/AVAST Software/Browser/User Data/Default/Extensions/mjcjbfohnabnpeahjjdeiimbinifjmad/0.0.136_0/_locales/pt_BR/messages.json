@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Pergunte-me algo..."
+   },
+   "clearChat": {
+      "message": "Limpar chat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Ocorreu um erro. A mensagem enviada era muito longa. Inicie um novo chat e envie uma mensagem mais curta."
+   },
+   "example_0": {
+      "message": "“EExplique o processo de vinificação.”"
+   },
+   "example_1": {
+      "message": "“Dê ideias de presentes de aniversário para um menino de 14 anos.”"
+   },
+   "example_2": {
+      "message": "“Ajude-me a planejar uma viagem de 7 dias para Tóquio.”"
+   },
+   "examples": {
+      "message": "Exemplos:"
+   },
+   "exploreGenie": {
+      "message": "Explorar o Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Extensão do AI Chat"
+   },
+   "extTitle": {
+      "message": "Extensão do AI Chat"
+   },
+   "freshChat": {
+      "message": "Se você não tiver mais perguntas, apagaremos este chat em 5 minutos para que você possa começar um novo."
+   },
+   "genieDescription": {
+      "message": "O Genie pode detectar se textos, e-mails, sites ou publicações em mídias sociais são uma fraude em segundos. Basta copiar e colar ou carregar capturas de tela de mensagens suspeitas no aplicativo e, em caso de fraude, ele o avisará imediatamente."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Não posso ajudar nesta solicitação."
+   },
+   "initialScreenSubtitle": {
+      "message": "Receba as respostas que você está procurando com o AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Está curioso? Pergunte…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Ocorreu um erro. A mensagem enviada era muito longa. Envie uma mensagem mais curta."
+   },
+   "limitError": {
+      "message": "Você atingiu o limite de mensagens para esta sessão. Tente limpar o chat para recomeçar."
+   },
+   "limitErrorMessage": {
+      "message": "Você atingiu o limite de mensagens para esta sessão. Tente limpar o chat para recomeçar."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Ainda está por aí?\u003C/b>Já faz um tempo que você não escreve algo."
+   },
+   "suggestedSearch": {
+      "message": "Pesquisas sugeridas"
+   },
+   "tooManyRequestsError": {
+      "message": "Solicitações em excesso. Tente novamente mais tarde."
+   },
+   "tryAsking": {
+      "message": "Tente perguntar "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, nossa ferramenta de detecção de fraudes em tempo real com tecnologia de IA."
+   }
+}

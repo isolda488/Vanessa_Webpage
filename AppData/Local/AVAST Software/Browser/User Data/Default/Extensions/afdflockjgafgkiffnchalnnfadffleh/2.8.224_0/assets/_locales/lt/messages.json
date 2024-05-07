@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Vaizdo failų atsisiuntimo programa"
+    },
+    "appDesc": {
+        "message": "Atsisiųsti vaizdo medžiagą, kad galėtumėte žiūrėti neprisijungę prie interneto"
+    },
+    "barMediaBtn": {
+        "message": "Medija",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Atsisiųsti",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Atkabinti",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Nuostatos",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Daugiau nerodyti",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Daugiau nerodyti šioje svetainėje",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Daugiau informacijos",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Vaizdo medžiaga",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Garso medžiaga",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Valdymą atlieka saugi naršyklė",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Nuostatos",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Vaizdo failų atsisiuntimo programa",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Atsisiųsti vaizdo medžiagą, kad galėtumėte žiūrėti neprisijungę prie interneto.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Garsas",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Vaizdo medžiaga",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Atsisiųsti",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Iš naujo prijungti",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "nežinomas dydis",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Šiame puslapyje nėra vaizdo medžiagos, kurią galėtumėte atsisiųsti",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Norint atsisiųsti vaizdo medžiagą, eikite į jos informacijos puslapį.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Vaizdo failų atsisiuntimo programa išjungta",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Įjungti",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Sutikdami su mūsų <div><a target='blank' href='$link$'>Galutinio naudotojo licencijos sutartimi<\/a><\/div> (EULA) patvirtinate ir sutinkate, jog esate atsakingi už vaizdo failų atsisiuntimo programos naudojimą laikantis galiojančių autorių teisių įstatymų ir svetainių naudojimo sąlygų.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Prieš atsisiunčiant",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Suprantu ir priimu EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Tęsti",
+        "description": "EUlA continue button"
+    }
+}

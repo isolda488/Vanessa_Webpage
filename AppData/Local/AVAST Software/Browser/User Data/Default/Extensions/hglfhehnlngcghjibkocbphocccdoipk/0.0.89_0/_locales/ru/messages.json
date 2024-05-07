@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Коммуникация"
+   },
+   "extShortDesc": {
+      "message": "Расширение боковой панели браузера"
+   },
+   "extTitle": {
+      "message": "Удлинение боковой панели"
+   },
+   "featured": {
+      "message": "Рекомендуемое"
+   },
+   "music": {
+      "message": "Музыка"
+   },
+   "notes": {
+      "message": "Заметки"
+   },
+   "social": {
+      "message": "Социальные сети"
+   }
+}

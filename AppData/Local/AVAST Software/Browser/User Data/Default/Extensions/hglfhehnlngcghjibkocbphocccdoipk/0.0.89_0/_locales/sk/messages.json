@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Komunikácia"
+   },
+   "extShortDesc": {
+      "message": "Rozšírenie bočného panela prehliadača"
+   },
+   "extTitle": {
+      "message": "Rozšírenie bočného panela"
+   },
+   "featured": {
+      "message": "Odporúčané"
+   },
+   "music": {
+      "message": "Hudba"
+   },
+   "notes": {
+      "message": "Poznámky"
+   },
+   "social": {
+      "message": "Sociálne"
+   }
+}

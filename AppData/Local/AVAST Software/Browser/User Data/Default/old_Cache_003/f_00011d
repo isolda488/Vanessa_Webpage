@@ -1,0 +1,287 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Proven Winners - Australia
+</title><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="localcontent/scripts/normalize.css" /><link rel="stylesheet" href="localcontent/scripts/style.css" />
+	<style>
+		.plantType {font-family: Arial, Helvetica, sans-serif;font-size: 20px;color: #772661;font-weight: bold;text-align:center;}
+		.plantAttribute {margin-top:30px;margin-bottom:30px;font-size:smaller;font-weight: bold;text-align:center;}
+		.icon{float:left;margin-right:15px;width:45px;height:80px;}
+		.icon:last-child{margin-right:0px;}
+		p.icon {color: #772661;font-size: 10px;font-family: Arial, Helvetica, sans-serif;font-weight: bold;}
+		.variety{float:left;width:100px;}
+		.variety:last-child{margin-right:0px;}
+		.varietytext {color: black;font-size: 13px;font-family: Arial, Helvetica, sans-serif;margin-top:3px;height:40px;}
+		.varietytext > a{color:black;text-decoration:none;}
+		.LabelActive {background-color: #c0acbf;padding: 5px;margin-left: 5px;border: solid 1px #883474;float: left;}
+		.LabelActive > a{color:#883474;text-decoration:none;}
+		.LabelInactive {background-color: #efeaef;padding: 5px;margin-left: 5px;border: solid 1px #c0acbf;float: left;}
+		.LabelInactive > a{color:#883474;text-decoration:none;}
+		.InfoNoteContent {line-height: 24px;font-size:14px;}
+		.varietyName{font-family: Arial, Helvetica, sans-serif;font-size: 20px;font-weight: bold;margin-bottom:8px;text-align:center;}
+	</style>
+	<script type="text/javascript">
+		function showInfo(id) {
+			var element;
+			element = document.getElementById('TabDesc');
+			element.className = 'LabelInactive';
+			element = document.getElementById('TabUses');
+			element.className = 'LabelInactive';
+			element = document.getElementById('TabCare');
+			element.className = 'LabelInactive';
+			element = document.getElementById('TabStory');
+			element.className = 'LabelInactive';
+			element = document.getElementById('DescContent');
+			element.style.display = "none";
+			element = document.getElementById('UsesContent');
+			element.style.display = "none";
+			element = document.getElementById('CareContent');
+			element.style.display = "none";
+			element = document.getElementById('StoryContent');
+			element.style.display = "none";
+			switch (id) {
+				case 1:
+					element = document.getElementById('TabUses');
+					element.className = 'LabelActive';
+					element = document.getElementById('UsesContent');
+					element.style.display = "block";
+					break;
+				case 2:
+					element = document.getElementById('TabCare');
+					element.className = 'LabelActive';
+					element = document.getElementById('CareContent');
+					element.style.display = "block";
+					break;
+				case 3:
+					element = document.getElementById('TabStory');
+					element.className = 'LabelActive';
+					element = document.getElementById('StoryContent');
+					element.style.display = "block";
+					break;
+				default:
+					element = document.getElementById('TabDesc');
+					element.className = 'LabelActive';
+					element = document.getElementById('DescContent');
+					element.style.display = "block";
+					break;
+			}
+		}
+	</script>
+</head>
+<body>
+	<form method="post" action="./PlantDetail.aspx?gid=3113" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ebJlI5D8NYcTe08cxhbVpUKlOO4eqgcwMLkH/gK9FvaUNLO0moX9E4D0gVXyzj/ikMioCKwLX0EUsQCSjllGYYQ9OgujgkxTQ56SILS/EYr9969YwSrqtHU2PjqM57/NYyw2rn9bCT5fg290tXDxehgyBRrQvrFvQVuDkrZc79iU/j+5WZSXnEox2pd5CuAIrFuNipClTRY+SmFKyhQlR52I5i0Re7sg/hKSoh5lyo4dPp7XGcg97Xbh5e/PnklM+y+vT36PCgJGChIL8kGscsAOqGFaLNcNfwvvZiE5dsrrRz28CUxsw81U/hwbOUgvfDQ4KuoDvdasIph2WhFSuuMDorsiDecLNDMChVsIJGfFyQRyxKzL6KYrUOpYsDADNjPJOQYWVb/rRcC6m3A1jqVAZRjkdkAB4RqTnab944/vz9qaxqBMdPxVb39J88OpSTKSMjZdMsK5u8QIoZJwJtQvcw72QeId3LhQe1TIgIfZztPZeTlcvoO5H+4qJS44fAl6DsGhVDrz5bdAkCEH65lLulPjNhDkbFonZ21eeUVtb9/B0Ft2htQyuUEDZfSNU12NMewyplspKz2gLSLpuWddZRVfRGzX2LY0FZORvB9sr8aRVWrRaduNm08vIeznN7hhrsuYhu74aGfN6Ty0WEJuvA91JpGa53sjdRZQAoegzFE7aeL6vsbwx3pZ6CCeDeSHB5Nqkaj5U0UH2dlwLt2Lm50FJaQUMO99Bv+oaVLWy0Juat5bqlgneIObpfDn66sxflhtl1lmtdSyXqTiM4dfUA0IYPUH1o6lqPPU/iGDBMXtjaR8bemzf8/pc3jR7j4WD/MqjFCfZJRtGpYHvDwveCwEwpub1DrqEg1Ndr539X4Yo5tqsPfhrkLbu6y4L6Qp6hQDpy4QgYKEA8rxvDxT0UB5glZbfPzJmpBHFrJhFvIKklEzRRKRLmzFxfb32NLpVtLHJGDyufOd8QKYpHZz+aiiMnvw5APhB6flIjQx2pLAIAcrjnp+x9SerbuaZuDBhXQSozKkN3hm7J25crDOiU1KaWX0ovGTtKptkxd9D1sjD0pmcGcwj3hISFVSTvGdmiWf0g2g7JdzzDNa5Q==" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+function showVariety(id) {
+	document.getElementById("var3404Pics").style.display = "none"
+	document.getElementById("var3404Detail").style.display = "none"
+	document.getElementById("var3405Pics").style.display = "none"
+	document.getElementById("var3405Detail").style.display = "none"
+	document.getElementById("var3406Pics").style.display = "none"
+	document.getElementById("var3406Detail").style.display = "none"
+	document.getElementById("var3407Pics").style.display = "none"
+	document.getElementById("var3407Detail").style.display = "none"
+	document.getElementById("var3408Pics").style.display = "none"
+	document.getElementById("var3408Detail").style.display = "none"
+	document.getElementById("var3409Pics").style.display = "none"
+	document.getElementById("var3409Detail").style.display = "none"
+	switch (id) {
+		case 3404:
+			document.getElementById("varietyName").innerHTML = "'Autumn Frost'";
+			document.getElementById("varietyImage").src = "Content/plants/Hosta/ImgVariety/AutumnFrost.jpg";
+			document.getElementById("var3404Pics").style.display = "block";
+			document.getElementById("var3404Detail").style.display = "block";
+			document.getElementById("var3404LabelImage").style.display = "none"
+			break;
+		case 3405:
+			document.getElementById("varietyName").innerHTML = "'Coast To Coast'";
+			document.getElementById("varietyImage").src = "Content/plants/Hosta/ImgVariety/Coasttocoast.jpg";
+			document.getElementById("var3405Pics").style.display = "block";
+			document.getElementById("var3405Detail").style.display = "block";
+			document.getElementById("var3405LabelImage").style.display = "none"
+			break;
+		case 3406:
+			document.getElementById("varietyName").innerHTML = "'Empress Wu'";
+			document.getElementById("varietyImage").src = "Content/plants/Hosta/ImgVariety/Empresswu.jpg";
+			document.getElementById("var3406Pics").style.display = "block";
+			document.getElementById("var3406Detail").style.display = "block";
+			document.getElementById("var3406LabelImage").style.display = "none"
+			break;
+		case 3407:
+			document.getElementById("varietyName").innerHTML = "'Hudson Bay'";
+			document.getElementById("varietyImage").src = "Content/plants/Hosta/ImgVariety/Hudsonbay.jpg";
+			document.getElementById("var3407Pics").style.display = "block";
+			document.getElementById("var3407Detail").style.display = "block";
+			document.getElementById("var3407LabelImage").style.display = "none"
+			break;
+		case 3408:
+			document.getElementById("varietyName").innerHTML = "'Waterslide'";
+			document.getElementById("varietyImage").src = "Content/plants/Hosta/ImgVariety/Waterslide.jpg";
+			document.getElementById("var3408Pics").style.display = "block";
+			document.getElementById("var3408Detail").style.display = "block";
+			document.getElementById("var3408LabelImage").style.display = "none"
+			break;
+		case 3409:
+			document.getElementById("varietyName").innerHTML = "'Wheee!'";
+			document.getElementById("varietyImage").src = "Content/plants/Hosta/ImgVariety/Wheee.jpg";
+			document.getElementById("var3409Pics").style.display = "block";
+			document.getElementById("var3409Detail").style.display = "block";
+			document.getElementById("var3409LabelImage").style.display = "none"
+			break;
+		default:
+			document.getElementById("varietyName").innerHTML = "'Autumn Frost'";
+			document.getElementById("varietyImage").src = "Content/plants/Hosta/ImgVariety/AutumnFrost.jpg";
+			document.getElementById("var3404Pics").style.display = "block";
+			document.getElementById("var3404Detail").style.display = "block";
+			document.getElementById("var3404LabelImage").style.display = "none"
+			break;
+	}
+}
+function showBigVarPic(bigPicName) {
+document.getElementById('varietyImage').src = 'Content/plants/Hosta/ImgVariety/' + bigPicName;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A909DB9F" />
+</div>
+	<div id="mainDiv">
+		<div id="banner">
+			<div><a href="default.aspx" id="HdrHomeLink">&nbsp;</a></div>
+		</div>
+		<div id="strip"></div>
+		<div id="maincontent">
+			<div class="clearfix">
+				<ul class="main-nav">
+					<li class="dropdown">
+						<a href="#"><img class="menuIcon" src="localcontent/images/IconPlants.png" /></a>
+						<ul class="drop-nav">
+							<li><a href="plantCatalogue.aspx">All Plants</a></li>
+							<li><a href="plantCatalogue.aspx?cat=24">Perennials</a></li>
+							<li><a href="plantCatalogue.aspx?cat=12">Hanging Baskets</a></li>
+							<li><a href="plantCatalogue.aspx?cat=21">Sun lovers</a></li>
+							<li><a href="plantCatalogue.aspx?cat=22">Shade lovers</a></li>
+							<li><a href="plantCatalogue.aspx?cat=23">Waterwise</a></li>
+							<li><a href="plantsearch.aspx">Search ...</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="main-nav">
+					<li class="dropdown">
+						<a href="Retailer.aspx"><img class="menuIcon" src="localcontent/images/IconFind.png" /></a>
+					</li>
+				</ul>
+				<ul class="main-nav">
+					<li class="dropdown">
+						<a href="https://www.facebook.com/Proven-Winners-New-Zealand-1633443806937456"><img class="menuIcon" src="localcontent/images/IconConnect.png" /></a>
+					</li>
+				</ul>
+				<ul class="main-nav">
+					<li class="dropdown">
+						<a href="#"><img class="menuIcon" src="localcontent/images/IconDiscover.png" /></a>
+						<ul class="drop-nav">
+							<li><a href="ArticleList.aspx?id=0">News</a></li>
+							<li><a href="ArticleList.aspx?id=1">Articles</a></li>
+							<li><a href="Article.aspx?aid=39">Q & A</a></li>
+							<li><a href="ArticleList.aspx?id=2">Gardening tips</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="main-nav">
+					<li class="dropdown">
+						<a href="#"><img class="menuIcon" src="localcontent/images/IconAbout.png" /></a>
+						<ul class="drop-nav">
+							<li><a href="Article.aspx?aid=35">Find a grower</a></li>
+							<li><a href="Article.aspx?aid=37">About</a></li>
+							<li><a href="Article.aspx?aid=38">History</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="main-nav">
+					<li class="dropdown">
+						<a href="#"><img class="menuIcon" src="localcontent/images/IconIndustry.png" /></a>
+						<ul class="drop-nav">
+							<li><a href="Login.aspx">Media</a></li>
+							<li><a href="Login.aspx?tp=2">Retailers</a></li>
+						</ul> 
+					</li>
+				</ul>
+				<ul class="main-nav">
+					<li class="dropdown">
+						<a href="Article.aspx?aid=40"><img class="menuIcon" src="localcontent/images/IconContact.png" /></a>
+					</li>
+				</ul>
+			</div>
+			
+	<div class="clearfix">
+		<div class="col2div">
+			<div class="plantType"><span id="ContentPlaceHolder1_lblPlantName"><i>Hosta</i>&nbsp;</span></div>
+			<div>
+				<div class="plantAttribute"><span id="ContentPlaceHolder1_lblPoints">Easy to grow &#8226; Shady and semi shaded gardens &#8226; Foliage plant</span></div>
+			</div>
+			<div class="clearfix" style="margin-bottom: 40px;text-align:center;">
+				<div class="variety"><a href="javascript:showVariety(3404);"><img src="Content/plants/Hosta/ImgVariety/tn/AutumnFrost.jpg" /></a><div class="varietytext"><a href="javascript:showVariety(3404);">'Autumn Frost'</a></div></div><div class="variety"><a href="javascript:showVariety(3405);"><img src="Content/plants/Hosta/ImgVariety/tn/Coasttocoast.jpg" /></a><div class="varietytext"><a href="javascript:showVariety(3405);">'Coast To Coast'</a></div></div><div class="variety"><a href="javascript:showVariety(3406);"><img src="Content/plants/Hosta/ImgVariety/tn/Empresswu.jpg" /></a><div class="varietytext"><a href="javascript:showVariety(3406);">'Empress Wu'</a></div></div><div class="variety"><a href="javascript:showVariety(3407);"><img src="Content/plants/Hosta/ImgVariety/tn/Hudsonbay.jpg" /></a><div class="varietytext"><a href="javascript:showVariety(3407);">'Hudson Bay'</a></div></div><div class="variety"><a href="javascript:showVariety(3408);"><img src="Content/plants/Hosta/ImgVariety/tn/Waterslide.jpg" /></a><div class="varietytext"><a href="javascript:showVariety(3408);">'Waterslide'</a></div></div><div class="variety"><a href="javascript:showVariety(3409);"><img src="Content/plants/Hosta/ImgVariety/tn/Wheee.jpg" /></a><div class="varietytext"><a href="javascript:showVariety(3409);">'Wheee!'</a></div></div>
+			</div>
+			<div class="clearfix" style="margin-bottom: 20px;text-align:center;">
+				
+			</div>
+			<div>
+				<div class="clearfix" style="margin-top:40px;">
+					<div class="LabelActive" id="TabDesc">
+						<a href="javascript:showInfo(0);">Description</a>
+					</div>
+					<div class="LabelInactive" id="TabUses">
+						<a href="javascript:showInfo(1);">Uses</a>
+					</div>
+					<div class="LabelInactive" id="TabCare">
+						<a href="javascript:showInfo(2);">Care</a>
+					</div>
+					<div class="LabelInactive" id="TabStory">
+						<a href="javascript:showInfo(3);">Story</a>
+					</div>
+					
+				</div>
+				<div style="margin: 20px 0px;">
+					<div style="" class="InfoNoteContent" id="DescContent">
+						<span id="ContentPlaceHolder1_lblPlantDesc"><i>Hostas</i> are splendid , easy to grow, hardy and undervalued plants.  Once established, they will grow from year to year with minimal attention.  In cooler areas some forms may be semi deciduous. The new foliage appears in springtime as does the flowering in most varieties.   New releases are being introduced every year so smart gardeners can upgrade their displays as needed.</span>
+					</div>
+					<div style="display: none" class="InfoNoteContent" id="UsesContent">
+						<span id="ContentPlaceHolder1_lblPlantUses">For use in shady and semi shaded gardens, the bold leaves stand out under tree lines and shaded areas around buildings.</span>
+					</div>
+					<div style="display: none" class="InfoNoteContent" id="CareContent">
+						<span id="ContentPlaceHolder1_lblPlantCare"></span>
+					</div>
+					<div style="display: none" class="InfoNoteContent" id="StoryContent">
+						<span id="ContentPlaceHolder1_lblPlantStory"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col2div">
+			<div id="varietyName" class="varietyName"></div>
+			<div><img id="varietyImage" /></div>
+			<div id="var3404Pics" class="clearfix" style="margin:40px 0px 20px 0px;text-align:center;"><div class="variety"><a href="javascript:showBigVarPic('AutumnFrost.jpg');"><img src="Content/plants/Hosta/ImgVariety/tn/AutumnFrost.jpg" /></a></div></div><div id="var3405Pics" class="clearfix" style="margin:40px 0px 20px 0px;text-align:center;"><div class="variety"><a href="javascript:showBigVarPic('CoastToCoast.jpg');"><img src="Content/plants/Hosta/ImgVariety/tn/CoastToCoast.jpg" /></a></div></div><div id="var3406Pics" class="clearfix" style="margin:40px 0px 20px 0px;text-align:center;"><div class="variety"><a href="javascript:showBigVarPic('EmpressWu.jpg');"><img src="Content/plants/Hosta/ImgVariety/tn/EmpressWu.jpg" /></a></div></div><div id="var3407Pics" class="clearfix" style="margin:40px 0px 20px 0px;text-align:center;"><div class="variety"><a href="javascript:showBigVarPic('HudsonBay.jpg');"><img src="Content/plants/Hosta/ImgVariety/tn/HudsonBay.jpg" /></a></div></div><div id="var3408Pics" class="clearfix" style="margin:40px 0px 20px 0px;text-align:center;"><div class="variety"><a href="javascript:showBigVarPic('Waterslide.jpg');"><img src="Content/plants/Hosta/ImgVariety/tn/Waterslide.jpg" /></a></div></div><div id="var3409Pics" class="clearfix" style="margin:40px 0px 20px 0px;text-align:center;"><div class="variety"><a href="javascript:showBigVarPic('Wheee.jpg');"><img src="Content/plants/Hosta/ImgVariety/tn/Wheee.jpg" /></a></div></div>
+			<div id="var3404Detail">	<div style="font-size:12px;">	</div>	<div style="margin-top:20px;"><img id="var3404LabelImage" class="plantLabel" /></div></div><div id="var3405Detail">	<div style="font-size:12px;">	</div>	<div style="margin-top:20px;"><img id="var3405LabelImage" class="plantLabel" /></div></div><div id="var3406Detail">	<div style="font-size:12px;">	</div>	<div style="margin-top:20px;"><img id="var3406LabelImage" class="plantLabel" /></div></div><div id="var3407Detail">	<div style="font-size:12px;">	</div>	<div style="margin-top:20px;"><img id="var3407LabelImage" class="plantLabel" /></div></div><div id="var3408Detail">	<div style="font-size:12px;">	</div>	<div style="margin-top:20px;"><img id="var3408LabelImage" class="plantLabel" /></div></div><div id="var3409Detail">	<div style="font-size:12px;">	</div>	<div style="margin-top:20px;"><img id="var3409LabelImage" class="plantLabel" /></div></div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		//<![CDATA[
+		showVariety(0);
+		//]]>
+	</script>
+
+		</div>
+	</div>
+	</form>
+</body>
+</html>

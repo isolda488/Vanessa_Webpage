@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Engelleyen"
+   },
+   "LoggerList": {
+      "message": "Liste"
+   },
+   "LoggerRegex": {
+      "message": "Düzenli ifade"
+   },
+   "LoggerType": {
+      "message": "Tür"
+   },
+   "LoggerWhitelisting": {
+      "message": "Beyaz liste"
+   },
+   "add": {
+      "message": "Ekle"
+   },
+   "addSite": {
+      "message": "Site ekle"
+   },
+   "adsTrackersAllowed": {
+      "message": "Bu sitede reklamlara ve izleyicilere izin veriliyor"
+   },
+   "adsTrackersBlocked": {
+      "message": "Reklamlar ve izleyiciler engellendi"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Şu siteler için her zaman reklamlara izin ver:"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ girişim tespit edildi"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ girişim tespit edildi"
+   },
+   "balancedBlocking": {
+      "message": "Dengeli Engelleme"
+   },
+   "balancedBlockingDescription": {
+      "message": "Daha hızlı bir gezinme deneyimi için bilinen izleyicileri ve daha da fazla reklamı engelleyin."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Hepsi Temel Engelleme ve Sosyal medya reklamlarında"
+   },
+   "balancedBlockingName": {
+      "message": "Dengeli"
+   },
+   "basicBlocking": {
+      "message": "Temel Engelleme"
+   },
+   "basicBlockingDescription": {
+      "message": "Gezinme deneyiminizi sekteye uğratan bilinen izleyicileri ve reklamları engelleyin."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Bilinen izleyiciler ve videolar da dâhil olmak üzere, açılır teklamlar ile reklam bantları"
+   },
+   "blockAdsSearch": {
+      "message": "Arama sonuçlarındaki reklamları engelleyin"
+   },
+   "blockSearchAds": {
+      "message": "Arama sonuçlarındaki reklamlarını engelleyin"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>Daha fazla bilgi\u003C/u> için ayarlar bölümüne göz atın"
+   },
+   "blockingOff": {
+      "message": "Engelleme kapalı"
+   },
+   "blockingOptions": {
+      "message": "Engelleme seçenekleri"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Site ekleme işlemini iptal et"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Siteyi düzenleme işlemini iptal et"
+   },
+   "cancelSetStrict": {
+      "message": "Katı moda ayarlama işlemini iptal et"
+   },
+   "clearLogger": {
+      "message": "Kaydedici geçmişini temizle"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Siteyi izin verilenler listesinde düzenle"
+   },
+   "essentialBlockingName": {
+      "message": "Temel"
+   },
+   "extShortDesc": {
+      "message": "Nihayet çok fazla işlemci ve bellek kullanmayan verimli bir engelleyici."
+   },
+   "fingerprintBlocked": {
+      "message": "Tarayıcı parmak izi oluşturma engellendi"
+   },
+   "generalSettings": {
+      "message": "Genel ayarlar"
+   },
+   "goToStrict": {
+      "message": "Strict'e git"
+   },
+   "keepFree": {
+      "message": "Ücretsiz kalsın"
+   },
+   "keep_balanced": {
+      "message": "Dengeli olarak kalsın"
+   },
+   "keep_essential": {
+      "message": "Temel olarak kalsın"
+   },
+   "learnMore": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "pgLogger": {
+      "message": "Privacy Guard Kaydedici"
+   },
+   "pgSettings": {
+      "message": "Ayarları değiştir"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Gizlilik Koruması Ayarları"
+   },
+   "privacyGuard": {
+      "message": "Gizlilik Koruması"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "koruma KAPALI"
+   },
+   "protectionOn": {
+      "message": "koruma AÇIK"
+   },
+   "protectionPaused": {
+      "message": "koruma duraklatıldı"
+   },
+   "recommended": {
+      "message": "Önerilir"
+   },
+   "refreshWarning": {
+      "message": "Privacy Guard'ı AÇIK veya KAPALI konuma getirdiğinizde, sayfanız otomatik olarak yenilenir ve yaptığınız değişiklikler kaydedilmeyebilir. Lütfen Privacy Guard'ı değiştirmeden önce herhangi bir çalışmayı kaydettiğinizden emin olun."
+   },
+   "remove": {
+      "message": "Kaldır"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Siteyi izin verilenler listesine ekle"
+   },
+   "setStrict": {
+      "message": "Katı engelleme ata"
+   },
+   "setStrictDescription_avast": {
+      "message": "Birkaç rahatsız etmeyen reklam Avast Secure Browser'ı finanse etmemize yardımcı oluyor. Gezinmenizi olumsuz yönde etkilemez ve tarayıcınızın ücretsiz kalmasını sağlar. Lütfen bu reklamlara izin vererek bize destek olun."
+   },
+   "setStrictDescription_avg": {
+      "message": "Birkaç rahatsız etmeyen reklam AVG Secure Browser'ı finanse etmemize yardımcı oluyor. Gezinmenizi olumsuz yönde etkilemez ve tarayıcınızın ücretsiz kalmasını sağlar. Lütfen bu reklamlara izin vererek bize destek olun."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Rahatsızlık vermeyen birkaç reklam CCleaner Browser'ı finanse etmemize yardımcı oluyor. Bunlar gezinmenizi olumsuz yönde etkilemez ve tarayıcınızın ücretsiz kalmasını sağlar. Lütfen bu reklamlara izin vererek bize destek olun."
+   },
+   "setStrictMode": {
+      "message": "Katı moda ayarla"
+   },
+   "setStrictTitle": {
+      "message": "Gizlilik Koruması'nı katı moda ayarla"
+   },
+   "setToBalanced": {
+      "message": "Dengeli Engelleme olarak ayarladınız"
+   },
+   "setToBasic": {
+      "message": "Temel Engelleme olarak ayarladınız"
+   },
+   "setToStrict": {
+      "message": "Katı Engelleme'ye ayarlandı"
+   },
+   "settingsDescription": {
+      "message": "Gelişmiş gizlilik koruması. Kimliğinizi izleyicilere ve diğer meraklı kişilere karşı koruyun.\nDaha hızlı ve daha güvenli bir gezinme deneyimi için reklamları ve izleyicileri engelleyin."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Engellenen reklam sayısını simge üzerinde göster"
+   },
+   "site": {
+      "message": "Site"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Reklamlara izin verdiğiniz siteler burada görünür"
+   },
+   "spc": {
+      "message": "Güvenlik ve Gizlilik Merkezi"
+   },
+   "stayOn_balanced": {
+      "message": "Dengeli modda kullanmaya devam et"
+   },
+   "stayOn_essential": {
+      "message": "Temel modda kullanmaya devam et"
+   },
+   "strictBlocking": {
+      "message": "Katı Engelleme"
+   },
+   "strictBlockingDescription": {
+      "message": "Daha hızlı ve kesintisiz bir gezinme deneyimi için her şeyi otomatik olarak engelleyin."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Bu ayar bazı sitelerin düzgün bir şekilde yüklenmemesine neden olabilir (bazı içerikler görüntülenmediğinde veya site bozuk görünüyorsa bu ayarı kapatın)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Hepsi Dengeli Engelleme ve tarayıcı bildirimleri ve parmak izi olarak"
+   },
+   "strictBlockingName": {
+      "message": "Katı"
+   },
+   "strictModalDescription": {
+      "message": "Tarayıcımızı ücretsiz tutmak için, bizi rahatsız etmeyen ve kullanıcı dostu bazı reklamlar aracılığıyla finanse eden ortaklara güveniyoruz. Amacımız, gizliliğinizi geliştirmenizi ve çevrimiçi kimliğinizi korumanızı sağlamaktır."
+   },
+   "strictModalTitle": {
+      "message": "Tarayıcımızın ücretsiz kalmasına yardımcı olun"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Toplam __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Diğer ayarlar için \u003Cb>\u003Cu>Güvenlik ve Gizlilik Merkezini\u003C/u>\u003C/b>\n  ziyaret edin"
+   },
+   "whitelistModalDescription": {
+      "message": "Hangi sitede reklamlara izin verilmesini istiyorsunuz?"
+   },
+   "youWillBlock": {
+      "message": "Şunlar engellenecek: "
+   }
+}

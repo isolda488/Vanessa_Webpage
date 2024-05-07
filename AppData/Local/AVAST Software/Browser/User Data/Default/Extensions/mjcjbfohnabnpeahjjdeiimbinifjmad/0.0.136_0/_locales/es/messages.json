@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Pregúntame lo que sea..."
+   },
+   "clearChat": {
+      "message": "Borrar chat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Se ha producido un error. El mensaje enviado fue demasiado largo: inicie un nuevo chat y envíe un mensaje más corto."
+   },
+   "example_0": {
+      "message": "“Explica el proceso de elaboración del vino.”"
+   },
+   "example_1": {
+      "message": "“Haz una lista de ideas de regalos de cumpleaños para un niño de 14 años.”"
+   },
+   "example_2": {
+      "message": "“Ayúdame a planificar un viaje de 7 días a Tokio.”"
+   },
+   "examples": {
+      "message": "Ejemplos:"
+   },
+   "exploreGenie": {
+      "message": "Explorar Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Extensión de AI Chat"
+   },
+   "extTitle": {
+      "message": "Extensión de AI Chat"
+   },
+   "freshChat": {
+      "message": "Si no tiene más preguntas, borraremos este chat en 5 minutos para que pueda iniciar uno nuevo."
+   },
+   "genieDescription": {
+      "message": "Genie puede detectar si mensajes de texto, correos electrónicos, sitios web o publicaciones en redes sociales son una estafa en cuestión de segundos. Simplemente copie y pegue o cargue capturas de pantalla de mensajes sospechosos en la aplicación para saber de inmediato si podrían tratarse de una estafa."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Lo siento, pero no puedo ayudar con esta solicitud."
+   },
+   "initialScreenSubtitle": {
+      "message": "Obtenga las respuestas que busca con AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "¿Desea probarlo? Haga una pregunta…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Se ha producido un error. El mensaje enviado fue demasiado largo; envíe uno más corto."
+   },
+   "limitError": {
+      "message": "Ha alcanzado el límite de mensajes para esta sesión. Pruebe a borrar el chat para empezar de nuevo."
+   },
+   "limitErrorMessage": {
+      "message": "Ha alcanzado el límite de mensajes para esta sesión. Pruebe a borrar el chat para empezar de nuevo."
+   },
+   "stillThere": {
+      "message": "\u003Cb>¿Aún está allí?\u003C/b> Hace tiempo que no escribe nada."
+   },
+   "suggestedSearch": {
+      "message": "Búsquedas sugeridas"
+   },
+   "tooManyRequestsError": {
+      "message": "Demasiadas solicitudes. Vuelva a intentarlo más tarde."
+   },
+   "tryAsking": {
+      "message": "Pruebe preguntando "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, nuestra herramienta de detección de estafas impulsada por IA en tiempo real."
+   }
+}

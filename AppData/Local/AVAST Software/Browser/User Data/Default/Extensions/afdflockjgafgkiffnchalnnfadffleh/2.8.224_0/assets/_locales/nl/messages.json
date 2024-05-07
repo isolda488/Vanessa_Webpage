@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Video's downloaden"
+    },
+    "appDesc": {
+        "message": "Download video's die u offline wilt bekijken"
+    },
+    "barMediaBtn": {
+        "message": "Media",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Downloaden",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Loskoppelen",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Instellingen",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Niet meer weergeven",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Niet meer weergeven op deze website",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Meer informatie",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Audio",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Mogelijk gemaakt met Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Instellingen",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Video's downloaden",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Download video's die u offline wilt bekijken.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Audio",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Downloaden",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Aankoppelen",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "onbekende grootte",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Deze pagina bevat geen video's om te downloaden",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Ga naar de detailpagina om een video te downloaden.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Video's downloaden is uitgeschakeld voor",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Inschakelen",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Door onze <div><a target='blank' href='$link$'>gebruiksrechtovereenkomst<\/a><\/div> te accepteren stemt u ermee in dat u verantwoordelijk bent voor het gebruik van Video's downloaden en de naleving van de toepasselijke auteursrechtwetten en gebruiksvoorwaarden van de websites.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Voordat u gaat downloaden",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Ik begrijp en accepteer de gebruiksrechtovereenkomst",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Doorgaan",
+        "description": "EUlA continue button"
+    }
+}

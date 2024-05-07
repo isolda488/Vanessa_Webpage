@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Komunikacija"
+   },
+   "extShortDesc": {
+      "message": "Naršyklės šoninio skydelio plėtinys"
+   },
+   "extTitle": {
+      "message": "Šoninio skydelio plėtinys"
+   },
+   "featured": {
+      "message": "Teminiai"
+   },
+   "music": {
+      "message": "Muzika"
+   },
+   "notes": {
+      "message": "Pastabos"
+   },
+   "social": {
+      "message": "Socialinis"
+   }
+}

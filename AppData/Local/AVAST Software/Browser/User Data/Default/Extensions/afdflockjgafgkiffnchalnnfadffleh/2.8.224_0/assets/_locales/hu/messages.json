@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Videóletöltő"
+    },
+    "appDesc": {
+        "message": "Videók letöltése offline megtekintéshez"
+    },
+    "barMediaBtn": {
+        "message": "Média",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Letöltés",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Leválasztás",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Beállítások",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Ne jelenjen meg újra",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Ne mutassa többet ezen az oldalon",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "További információ",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Videó",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Hang",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Technológia: Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Beállítások",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Videóletöltő",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Töltsön le videókat offline megtekintéshez.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Hang",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Videó",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Letöltés",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Visszaillesztés",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "ismeretlen méret",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Az oldalon nincsenek letölthető videók",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "A videók letöltéséhez tekintse meg az adataikat tartalmazó oldalt.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "A Videóletöltő le van tiltva itt:",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Engedélyezés",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "A <div><a target='blank' href='$link$'>Végfelhasználói licencszerződés<\/a><\/div> (EULA) elfogadásával beleegyezik abba, hogy az Ön felelőssége gondoskodni arról, hogy a Videóletöltőt a vonatkozó szerzői jogi törvényeknek és a webhelyek használati feltételeinek megfelelően használja.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Letöltés előtt",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Megismertem és elfogadom az EULA tartalmát",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Folytatás",
+        "description": "EUlA continue button"
+    }
+}

@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Komunikacja"
+   },
+   "extShortDesc": {
+      "message": "Rozszerzenie paska bocznego przeglądarki"
+   },
+   "extTitle": {
+      "message": "Rozszerzenie paska bocznego"
+   },
+   "featured": {
+      "message": "Polecane"
+   },
+   "music": {
+      "message": "Muzyka"
+   },
+   "notes": {
+      "message": "Notatki"
+   },
+   "social": {
+      "message": "Sieci społecznościowe"
+   }
+}

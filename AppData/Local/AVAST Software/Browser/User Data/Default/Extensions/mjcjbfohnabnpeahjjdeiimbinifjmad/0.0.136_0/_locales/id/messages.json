@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Tanyakan saya apa saja..."
+   },
+   "clearChat": {
+      "message": "Hapus obrolan"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Terjadi kesalahan. Pesan yang dikirim terlalu panjang, mulai obrolan baru dan kirim pesan yang lebih singkat."
+   },
+   "example_0": {
+      "message": "“Jelaskan proses pembuatan minuman anggur.”"
+   },
+   "example_1": {
+      "message": "“Buatkan daftar ide hadiah ulang tahun untuk anak laki-laki usia 14 tahun.”"
+   },
+   "example_2": {
+      "message": "“Bantu saya rencanakan wisata 7 hari ke Tokyo.”"
+   },
+   "examples": {
+      "message": "Contohnya:"
+   },
+   "exploreGenie": {
+      "message": "Jelajahi Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Ekstensi AI Chat"
+   },
+   "extTitle": {
+      "message": "Ekstensi AI Chat"
+   },
+   "freshChat": {
+      "message": "Jika Anda tidak memiliki pertanyaan lain, kami akan menghapus obrolan ini dalam 5 menit agar Anda dapat memulai obrolan baru."
+   },
+   "genieDescription": {
+      "message": "Genie dapat mendeteksi dalam hitungan detik apabila teks, email, situs web, atau postingan media sosial merupakan penipuan. Cukup salin dan tempel, atau unggah tangkapan layar pesan mencurigakan ke aplikasi, lalu aplikasi akan segera memberi tahu jika pesan tersebut merupakan penipuan."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Mohon maaf, tetapi saya tidak dapat membantu memproses permintaan ini."
+   },
+   "initialScreenSubtitle": {
+      "message": "Dapatkan jawaban yang Anda cari dengan AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Penasaran? Tanyakan saja…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Terjadi kesalahan. Pesan yang dikirim terlalu panjang, kirim pesan yang lebih singkat."
+   },
+   "limitError": {
+      "message": "Anda telah mencapai batas jumlah pesan untuk sesi ini. Coba menghapus obrolan untuk memulai kembali."
+   },
+   "limitErrorMessage": {
+      "message": "Anda telah mencapai batas jumlah pesan untuk sesi ini. Coba menghapus obrolan untuk memulai kembali."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Anda masih bersama kami?\u003C/b> Anda sudah lama belum menulis apa-apa."
+   },
+   "suggestedSearch": {
+      "message": "Pencarian yang disarankan"
+   },
+   "tooManyRequestsError": {
+      "message": "Terlalu banyak permintaan. Coba lagi nanti."
+   },
+   "tryAsking": {
+      "message": "Coba tanyakan "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, alat deteksi penipuan secara waktu nyata milik kami yang memanfaatkan teknologi AI."
+   }
+}

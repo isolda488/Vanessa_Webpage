@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Ask me anything..."
+   },
+   "clearChat": {
+      "message": "Clear chat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "An error has occurred. The message submitted was too long, start a new chat and submit a shorter message."
+   },
+   "example_0": {
+      "message": "“Explain the wine-making process.”"
+   },
+   "example_1": {
+      "message": "“List birthday gift ideas for a 14-year-old boy.”"
+   },
+   "example_2": {
+      "message": "“Help me plan a 7-day trip to Tokyo.”"
+   },
+   "examples": {
+      "message": "Examples:"
+   },
+   "exploreGenie": {
+      "message": "Explore Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "AI Chat extension"
+   },
+   "extTitle": {
+      "message": "AI Chat extension"
+   },
+   "freshChat": {
+      "message": "If you have no more questions, we’ll erase this chat in 5 mins so you can start a fresh one."
+   },
+   "genieDescription": {
+      "message": "Genie can detect if texts, emails, websites, or social media posts are a scam within seconds. Simply copy and paste or upload screenshots of suspicious messages to the app, and it lets you know immediately if it could be a scam."
+   },
+   "inappropriateErrorMessage": {
+      "message": "I'm sorry, but I can't assist with this request."
+   },
+   "initialScreenSubtitle": {
+      "message": "Get the answers you’re looking for with AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Curious? Ask away…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "An error has occurred. The message submitted was too long, submit a shorter message."
+   },
+   "limitError": {
+      "message": "You’ve reached the message limit for this session. Try clearing the chat to start over."
+   },
+   "limitErrorMessage": {
+      "message": "You’ve reached the message limit for this session. Try clearing the chat to start over."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Still there?\u003C/b> You haven’t written anything in a while."
+   },
+   "suggestedSearch": {
+      "message": "Suggested searches"
+   },
+   "tooManyRequestsError": {
+      "message": "Too many requests. Try again later."
+   },
+   "tryAsking": {
+      "message": "Try asking "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, our real time AI-powered scam detection tool."
+   }
+}

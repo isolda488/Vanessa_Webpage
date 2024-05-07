@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Видео изтегляне"
+    },
+    "appDesc": {
+        "message": "Изтеглете видеоклипове за гледане офлайн"
+    },
+    "barMediaBtn": {
+        "message": "Мултимедия",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Изтегляне",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Премахване",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Настройки",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Не показвай отново",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Не показвай за този сайт",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Повече информация",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Видео",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Аудио",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Поддържано от Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Настройки",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Видео изтегляне",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Изтеглете видеоклипове за гледане офлайн.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Аудио",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Видео",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Изтегляне",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Повторно прикачване",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "неизвестен размер",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "На тази страница няма видеоклипове за изтегляне",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "За да изтеглите видеоклип, преминете към страницата му с подробности.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Видео изтеглянето е деактивирано за",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Активиране",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "С приемането на нашето <div><a target='blank' href='$link$'>Лицензионно споразумение с крайния потребител<\/a><\/div> (ЛСКП) вие потвърждавате и се съгласявате, че е ваша отговорност да използвате Видео изтеглянето в съответствие с приложимите закони за авторски права и с условията за ползване на който и да е уеб сайт.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Преди да изтеглите",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Разбирам и прием ЛСКП",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Напред",
+        "description": "EUlA continue button"
+    }
+}

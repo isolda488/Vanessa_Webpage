@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Pitajte me bilo šta..."
+   },
+   "clearChat": {
+      "message": "Obrišite ćaskanje"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Došlo je do greške. Poruka koju ste poslali je predugačka, započnite novo ćaskanje i pošaljite kraću poruku."
+   },
+   "example_0": {
+      "message": "“Objasnite postupak pravljenja vina.”"
+   },
+   "example_1": {
+      "message": "“Navedite ideje za rođendanski poklon za 14-godišnjeg dečaka.”"
+   },
+   "example_2": {
+      "message": "“Pomozite mi da isplaniram 7-dnevno putovanje u Tokio.”"
+   },
+   "examples": {
+      "message": "Primeri:"
+   },
+   "exploreGenie": {
+      "message": "Istražite Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Proširenje za aplikaciju AI Chat"
+   },
+   "extTitle": {
+      "message": "Proširenje za aplikaciju AI Chat"
+   },
+   "freshChat": {
+      "message": "Ako nemate više pitanja, obri’saćemo ovo ćaskanje za 5 minuta da biste mogli da započnete novo."
+   },
+   "genieDescription": {
+      "message": "Genie može da otkrije da li su tekstovi, e-pošta, veb lokacije ili objave na društvenim mrežama prevara za nekoliko sekundi. Jednostavno kopirajte i nalepite ili otpremite snimke ekrana sumnjivih poruka u aplikaciju i ona će vas odmah obavestiti da li je to potencijalna prevara."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Žao mi je, ne mogu da vam pomognem u vezi sa ovim zahtevom."
+   },
+   "initialScreenSubtitle": {
+      "message": "Pribavite odgovore koje tra’žite pomoću aplikacije AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Zainteresovani ste? Pitajte…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Došlo je do greške. Poruka koju ste poslali je predugačka, pošaljite kraću poruku."
+   },
+   "limitError": {
+      "message": "Dosti’gli ste maksimalan broj poruka za ovu sesiju. Pokušajte da obrišete ćaskanje da biste ga ponovo započeli."
+   },
+   "limitErrorMessage": {
+      "message": "Dosti’gli ste maksimalan broj poruka za ovu sesiju. Pokušajte da obrišete ćaskanje da biste ga ponovo započeli."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Još ste tu?\u003C/b> Već dugo nist’e ništa napisali."
+   },
+   "suggestedSearch": {
+      "message": "Predložene pretrage"
+   },
+   "tooManyRequestsError": {
+      "message": "Previše zahteva. Pokušajte ponovo kasnije."
+   },
+   "tryAsking": {
+      "message": "Pokušajte da pitate "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, naš alat sa veštačkom inteligencijom za otkrivanje prevare u realnom vremenu."
+   }
+}

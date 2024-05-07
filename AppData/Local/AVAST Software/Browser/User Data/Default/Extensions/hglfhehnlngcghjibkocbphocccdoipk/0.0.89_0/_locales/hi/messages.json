@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "संवाद"
+   },
+   "extShortDesc": {
+      "message": "ब्राउज़र के बगल के पैनल का एक्सटेंशन"
+   },
+   "extTitle": {
+      "message": "बगल के पैनल का एक्सटेंशन"
+   },
+   "featured": {
+      "message": "फ़ीचर्ड"
+   },
+   "music": {
+      "message": "संगीत"
+   },
+   "notes": {
+      "message": "नोट्स"
+   },
+   "social": {
+      "message": "सोशल"
+   }
+}

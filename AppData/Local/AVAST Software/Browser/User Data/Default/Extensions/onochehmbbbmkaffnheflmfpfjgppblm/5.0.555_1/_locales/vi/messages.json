@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Bị chặn bởi"
+   },
+   "LoggerList": {
+      "message": "Danh sách"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Loại"
+   },
+   "LoggerWhitelisting": {
+      "message": "Danh sách cho phép"
+   },
+   "add": {
+      "message": "Thêm"
+   },
+   "addSite": {
+      "message": "Thêm trang web"
+   },
+   "adsTrackersAllowed": {
+      "message": "Đã cho phép Quảng cáo & công cụ theo dõi trên trang này"
+   },
+   "adsTrackersBlocked": {
+      "message": "Đãn chặn quảng cáo và trình theo dõi"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Cho phép quảng cáo trên các trang web sau"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ lần thử bị phát hiện"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ số lần bị phát hiện"
+   },
+   "balancedBlocking": {
+      "message": "Chặn theo chế độ cân bằng"
+   },
+   "balancedBlockingDescription": {
+      "message": "Chặn các trình theo dõi đã biết, thậm chí chặn nhiều quảng cáo hơn để trải nghiệm trình duyệt nhanh hơn."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Tất cả nội dung ở chế độ Chặn cơ bản và quảng cáo trên mạng xã hội"
+   },
+   "balancedBlockingName": {
+      "message": "Cân bằng"
+   },
+   "basicBlocking": {
+      "message": "Chặn theo chế độ cơ bản"
+   },
+   "basicBlockingDescription": {
+      "message": "Chặn các trình theo dõi và quảng cáo làm gián đoạn trải nghiệm duyệt web của bạn."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Trình theo dõi đã biết, Quảng cáo bật lên và biểu ngữ quảng cáo, bao gồm cả video"
+   },
+   "blockAdsSearch": {
+      "message": "Chặn quảng cáo trong phần kết quả tìm kiếm"
+   },
+   "blockSearchAds": {
+      "message": "Chặn quảng cáo khỏi phần kết quả tìm kiếm"
+   },
+   "blockSearchAdsMore": {
+      "message": "Hãy truy cập cài đặt để biết \u003Cu>thêm thông tin\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Tắt chế độ chặn"
+   },
+   "blockingOptions": {
+      "message": "Tùy chọn chặn"
+   },
+   "cancel": {
+      "message": "Hủy"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Hủy thao tác thêm trang web"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Hủy thao tác chỉnh sửa trang web"
+   },
+   "cancelSetStrict": {
+      "message": "Hủy thao tác đặt thành chế độ Nghiêm ngặt"
+   },
+   "clearLogger": {
+      "message": "Xóa lịch sử nhật ký"
+   },
+   "edit": {
+      "message": "Chỉnh sửa"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Chỉnh sửa trang web trong danh sách cho phép"
+   },
+   "essentialBlockingName": {
+      "message": "Cơ bản"
+   },
+   "extShortDesc": {
+      "message": "Cuối cùng đã có trình chặn hiệu quả. Không chiếm nhiều tài nguyên CPU và bộ nhớ."
+   },
+   "fingerprintBlocked": {
+      "message": "Tính năng lấy dấu vân tay của trình duyệt bị chặn"
+   },
+   "generalSettings": {
+      "message": "Cài đặt chung"
+   },
+   "goToStrict": {
+      "message": "Chuyển sang chế độ Nghiêm ngặt"
+   },
+   "keepFree": {
+      "message": "Đảm bảo miễn phí"
+   },
+   "keep_balanced": {
+      "message": "Tiếp tục chế độ Cân bằng"
+   },
+   "keep_essential": {
+      "message": "Giữ cơ bản"
+   },
+   "learnMore": {
+      "message": "Tìm hiểu thêm"
+   },
+   "pgLogger": {
+      "message": "Nhật ký Bảo vệ quyền riêng tư"
+   },
+   "pgSettings": {
+      "message": "Thay đổi cài đặt"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Cài đặt Bảo vệ quyền riêng tư"
+   },
+   "privacyGuard": {
+      "message": "Bảo vệ quyền riêng tư"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "chế độ bảo vệ đã TẮT"
+   },
+   "protectionOn": {
+      "message": "chế độ bảo vệ đang BẬT"
+   },
+   "protectionPaused": {
+      "message": "chế độ bảo vệ bị tạm dừng"
+   },
+   "recommended": {
+      "message": "Được khuyến nghị"
+   },
+   "refreshWarning": {
+      "message": "Khi bạn BẬT hoặc TẮT chế độ Bảo vệ quyền riêng tư, trang của bạn sẽ tự động làm mới và những thay đổi bạn đã thực hiện có thể không được lưu. Hãy nhớ lưu mọi công việc trước khi thay đổi chế độ Bảo vệ quyền riêng tư."
+   },
+   "remove": {
+      "message": "Xóa"
+   },
+   "save": {
+      "message": "Lưu"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Lưu trang web vào danh sách cho phép"
+   },
+   "setStrict": {
+      "message": "Đặt chế độ nghiêm ngặt"
+   },
+   "setStrictDescription_avast": {
+      "message": "Có một vài quảng cáo không xâm lấn giúp chúng tôi duy trì hoạt động của Avast Secure Browser. Những quảng cáo này không gây gián đoạn phiên duyệt web của bạn và giúp trình duyệt này luôn miễn phí. Hãy ủng hộ chúng tôi bằng cách cho phép những quảng cáo này nhé."
+   },
+   "setStrictDescription_avg": {
+      "message": "Có một vài quảng cáo không xâm lấn giúp chúng tôi duy trì hoạt động của AVG Secure Browser. Những quảng cáo này không gây gián đoạn phiên duyệt web của bạn và giúp trình duyệt này luôn miễn phí. Hãy ủng hộ chúng tôi bằng cách cho phép những quảng cáo này nhé."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Có một vài quảng cáo không xâm lấn giúp chúng tôi duy trì hoạt động của CCleaner Secure Browser. Những quảng cáo này không gây gián đoạn phiên duyệt web của bạn và giúp trình duyệt này luôn miễn phí. Hãy ủng hộ chúng tôi bằng cách cho phép những quảng cáo này nhé."
+   },
+   "setStrictMode": {
+      "message": "Đặt thành chế độ Nghiêm ngặt"
+   },
+   "setStrictTitle": {
+      "message": "Đặt Bảo vệ quyền riêng tư thành nghiêm ngặt"
+   },
+   "setToBalanced": {
+      "message": "Bạn chuyển sang Chặn theo chế độ cân bằng"
+   },
+   "setToBasic": {
+      "message": "Bạn chuyển sang Chặn theo chế độ cơ bản"
+   },
+   "setToStrict": {
+      "message": "Bạn chuyển sang Chặn theo chế độ nghiêm ngặt"
+   },
+   "settingsDescription": {
+      "message": "Tăng cường sự bảo mật. Bảo vệ danh tính của bạn khỏi trình theo dõi và hơn thế nữa.\nChặn các quảng cáo và trình theo dõi để trình duyệt chạy nhanh hơn, an toàn hơn."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Hiển thị số lượng quảng cáo đã chặn trên biểu tượng"
+   },
+   "site": {
+      "message": "Trang web"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Các trang web bạn đã cho phép hiển thị quảng cáo sẽ xuất hiện ở đây"
+   },
+   "spc": {
+      "message": "trung tâm Bảo mật & Quyền riêng tư"
+   },
+   "stayOn_balanced": {
+      "message": "Duy trì chế độ Cân bằng"
+   },
+   "stayOn_essential": {
+      "message": "Duy trì chế độ Cần thiết"
+   },
+   "strictBlocking": {
+      "message": "Chặn theo chế độ nghiêm ngặt"
+   },
+   "strictBlockingDescription": {
+      "message": "Tự động chặn mọi thứ để có trải nghiệm duyệt web nhanh hơn, không bị gián đoạn."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Cài đặt này có thể khiến một số trang web không tải đúng cách (một số nội dung có thể không hiển thị hoặc trang web bị lỗi, hãy tắt cài đặt này)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Tất cả nội dung ở chế độ Chặn cân bằng và thông báo trình duyệt cũng như thu thập vân tay"
+   },
+   "strictBlockingName": {
+      "message": "Nghiêm ngặt"
+   },
+   "strictModalDescription": {
+      "message": "Để đảm bảo trình duyệt của mình luôn miễn phí, chúng tôi dựa vào các đối tác tài trợ cho chúng tôi thông qua một số quảng cáo thân thiện với người dùng và không gây gián đoạn. Mục tiêu của chúng tôi là giúp bạn nâng cao quyền riêng tư và bảo vệ danh tính của bạn trên mạng"
+   },
+   "strictModalTitle": {
+      "message": "Giúp trình duyệt của chúng tôi luôn miễn phí"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Tổng __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Truy cập \u003Cb>\u003Cu>Trung tâm bảo mật & quyền riêng tư\u003C/u>\u003C/b>\nđể xem các cài đặt khác"
+   },
+   "whitelistModalDescription": {
+      "message": "Bạn muốn cho phép trang web nào hiện quảng cáo?"
+   },
+   "youWillBlock": {
+      "message": "Bạn sẽ chặn: "
+   }
+}

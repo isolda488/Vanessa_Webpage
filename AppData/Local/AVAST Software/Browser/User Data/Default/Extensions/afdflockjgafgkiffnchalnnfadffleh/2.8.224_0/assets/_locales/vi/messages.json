@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Trình tải xuống Video"
+    },
+    "appDesc": {
+        "message": "Tải xuống video để xem ngoại tuyến"
+    },
+    "barMediaBtn": {
+        "message": "Phương tiện nghe nhìn",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Tải xuống",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Tháo",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Cài đặt",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Không hiển thị lại",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Không hiển thị trên trang này",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Thông tin thêm",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Âm thanh",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Được hỗ trợ bởi Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Cài đặt",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Trình tải xuống Video",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Tải xuống video để xem ngoại tuyến.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Âm thanh",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Tải xuống",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Gắn lại",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "kích thước không xác định",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Trang này không có video nào để tải xuống",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Để tải xuống video, hãy đi tới trang chi tiết của video.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Đã tắt Trình tải xuống video cho",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Bật",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Với việc chấp nhận <div><a target='blank' href='$link$'>Thỏa thuận Cấp phép Người dùng Cuối<\/a><\/div> (EULA), bạn thừa nhận và đồng ý rằng bạn chịu trách nhiệm sử dụng Trình tải xuống Video tuân thủ luật bản quyền hiện hành và điều khoản sử dụng của mọi trang web.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Trước khi tải xuống",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Tôi hiểu và chấp nhận EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Tiếp tục",
+        "description": "EUlA continue button"
+    }
+}

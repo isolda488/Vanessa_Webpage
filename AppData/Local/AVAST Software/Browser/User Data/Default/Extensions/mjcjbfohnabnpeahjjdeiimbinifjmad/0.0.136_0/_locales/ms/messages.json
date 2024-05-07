@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Tanya saya apa-apa sahaja..."
+   },
+   "clearChat": {
+      "message": "Kosongkan sembang"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Ralat telah berlaku. Mesej yang dihantarkan terlalu panjang, mulakan sembang baharu dan hantarkan mesej yang lebih pendek."
+   },
+   "example_0": {
+      "message": "“ETerangkan proses membuat wain.”"
+   },
+   "example_1": {
+      "message": "“Senarai idea hadiah hari jadi untuk budak lelaki berumur 14 tahun.”"
+   },
+   "example_2": {
+      "message": "“Bantu saya merancang perjalanan 7 hari ke Tokyo.”"
+   },
+   "examples": {
+      "message": "Contoh:"
+   },
+   "exploreGenie": {
+      "message": "Meneroka Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Sambungan AI Chat"
+   },
+   "extTitle": {
+      "message": "Sambungan AI Chat"
+   },
+   "freshChat": {
+      "message": "Jika anda tiada soalan lagi, kami akan memadamkan sembang ini dalam masa 5 minit supaya anda boleh memulakan yang baharu."
+   },
+   "genieDescription": {
+      "message": "Genie boleh mengesan jika teks, e-mel, laman web atau siaran media sosial adalah satu penipuan dalam beberapa saat. Hanya salin dan tampal atau muat naik tangkapan skrin mesej yang mencurigakan ke aplikasi dan ia memberitahu anda dengan segera jika ia adalah satu penipuan."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Saya minta maaf, tetapi saya tidak dapat membantu dengan permintaan ini."
+   },
+   "initialScreenSubtitle": {
+      "message": "Dapatkan jawapan yang anda cari dengan AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Ingin tahu? Tanya…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Ralat telah berlaku. Mesej yang dihantarkan terlalu panjang, hantarkan mesej yang lebih pendek."
+   },
+   "limitError": {
+      "message": "Anda telah mencapai had mesej untuk sesi ini. Cuba kosongkan sembang untuk memulakan semula."
+   },
+   "limitErrorMessage": {
+      "message": "Anda telah mencapai had mesej untuk sesi ini. Cuba kosongkan sembang untuk memulakan semula."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Masih di sana?\u003C/b> Anda sudah lama tidak menulis apa-apa."
+   },
+   "suggestedSearch": {
+      "message": "Cadangan carian"
+   },
+   "tooManyRequestsError": {
+      "message": "Terlalu banyak permintaan. Cuba lagi kemudian."
+   },
+   "tryAsking": {
+      "message": "Cuba bertanya "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, alat pengesan penipuan dikuasakan AI masa nyata kami."
+   }
+}

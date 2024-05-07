@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "אפשר לשאול אותי כל דבר..."
+   },
+   "clearChat": {
+      "message": "ניקוי הצ'אט"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "אירעה שגיאה. ההודעה שנשלחה הייתה ארוכה מדי, יש להתחיל צ'אט חדש ולשלוח הודעה קצרה יותר."
+   },
+   "example_0": {
+      "message": "“הסבר את התהליך של ייצור יין.”"
+   },
+   "example_1": {
+      "message": "“תן לי רשימת רעיונות למתנות יום הולדת לילד בן 14.”"
+   },
+   "example_2": {
+      "message": "“עזור לי לתכנן טיול של 7 ימים לטוקיו.”"
+   },
+   "examples": {
+      "message": "דוגמאות:"
+   },
+   "exploreGenie": {
+      "message": "לגלות את Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "הרחבת AI Chat"
+   },
+   "extTitle": {
+      "message": "הרחבת AI Chat"
+   },
+   "freshChat": {
+      "message": "אם אין לך עוד שאלות, נמחק את הצ'אט הזה בעוד 5 דקות כדי שאפשר יהיה להתחיל שיחה חדשה."
+   },
+   "genieDescription": {
+      "message": "Genie יכול לזהות בתוך שניות הונאות בטקסטים, הודעות דוא\"ל, אתרי אינטרנט או פוסטים במדיה חברתית. צריך רק להעתיק ולהדביק או להעלות צילומי מסך של הודעות חשודות לאפליקציה, והיא תבדוק בשבילך אם ייתכן שמדובר בהונאה."
+   },
+   "inappropriateErrorMessage": {
+      "message": "לצערי אין לי אפשרות לעזור עם הבקשה הזו."
+   },
+   "initialScreenSubtitle": {
+      "message": "קבלת התשובות שחיפשת עם AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "הסתקרנת? מה השאלה…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "אירעה שגיאה. ההודעה שנשלחה הייתה ארוכה מדי, יש לשלוח הודעה קצרה יותר."
+   },
+   "limitError": {
+      "message": "הגעת למגבלת ההודעות בהפעלה זו. ניתן למחוק את הצ'אט כדי להתחיל מחדש."
+   },
+   "limitErrorMessage": {
+      "message": "הגעת למגבלת ההודעות בהפעלה זו. ניתן למחוק את הצ'אט כדי להתחיל מחדש."
+   },
+   "stillThere": {
+      "message": "\u003Cb>עדיין כאן?\u003C/b> לא כתבת דבר במשך זמן מה."
+   },
+   "suggestedSearch": {
+      "message": "חיפושים מוצעים"
+   },
+   "tooManyRequestsError": {
+      "message": "יותר מדי בקשות. יש לנסות שוב מאוחר יותר."
+   },
+   "tryAsking": {
+      "message": "אפשר לנסות לשאול את "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, כלי AI לזיהוי הונאות בזמן אמת."
+   }
+}

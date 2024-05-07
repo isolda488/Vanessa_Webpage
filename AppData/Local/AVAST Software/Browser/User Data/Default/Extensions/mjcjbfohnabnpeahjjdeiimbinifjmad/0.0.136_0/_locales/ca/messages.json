@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Pregunteu-me qualsevol cosa..."
+   },
+   "clearChat": {
+      "message": "Esborra el xat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "S'ha produït un error. El missatge enviat era massa llarg, inicieu un xat nou i envieu un missatge més curt."
+   },
+   "example_0": {
+      "message": "“Explica el procés d'elaboració del vi.”"
+   },
+   "example_1": {
+      "message": "“Dona'm idees de regals d'aniversari per a un nen de 14 anys.”"
+   },
+   "example_2": {
+      "message": "“Ajuda'm a planificar un viatge de 7 dies a Tòquio.”"
+   },
+   "examples": {
+      "message": "Exemples:"
+   },
+   "exploreGenie": {
+      "message": "Explora Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Extensió de xat d'IA"
+   },
+   "extTitle": {
+      "message": "Extensió de xat d'IA"
+   },
+   "freshChat": {
+      "message": "Si no teniu més preguntes, esborrarem aquest xat en 5 minuts perquè en pugueu començar un de nou."
+   },
+   "genieDescription": {
+      "message": "Genie pot detectar si els missatges de text, correus electrònics, llocs web o publicacions a les xarxes socials són una estafa en qüestió de segons. Simplement copieu i enganxeu o pengeu captures de pantalla de missatges sospitosos a l'aplicació i us permetrà saber immediatament si es pot tractar d'una estafa."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Ho sento, però no puc ajudar amb aquesta sol·licitud."
+   },
+   "initialScreenSubtitle": {
+      "message": "Obteniu les respostes que esteu buscant amb el xat d'IA."
+   },
+   "initialScreenTitle": {
+      "message": "¿Teniu curiositat? Pregunteu…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "S'ha produït un error. El missatge enviat era massa llarg, envieu un missatge més curt."
+   },
+   "limitError": {
+      "message": "Heu arribat al límit de missatges per a aquesta sessió. Proveu d'esborrar el xat per començar de nou."
+   },
+   "limitErrorMessage": {
+      "message": "Heu arribat al límit de missatges per a aquesta sessió. Proveu d'esborrar el xat per començar de nou."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Encara sou aquí?\u003C/b> Fa temps que no heu escrit res."
+   },
+   "suggestedSearch": {
+      "message": "Cerques suggerides"
+   },
+   "tooManyRequestsError": {
+      "message": "Massa peticions. Torneu-ho a provar més tard."
+   },
+   "tryAsking": {
+      "message": "Proveu de preguntar a "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, la nostra eina de detecció d'estafes en temps real amb tecnologia d'IA."
+   }
+}

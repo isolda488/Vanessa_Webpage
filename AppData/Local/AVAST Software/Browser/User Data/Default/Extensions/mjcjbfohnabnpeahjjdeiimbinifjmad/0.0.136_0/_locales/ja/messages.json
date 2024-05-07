@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "何でも質問してください..."
+   },
+   "clearChat": {
+      "message": "チャットをクリア"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "エラーが発生しました。送信されたメッセージは長すぎます。新しいチャットを開始して、簡潔なメッセージを送信してください。"
+   },
+   "example_0": {
+      "message": "“ワインの作り方を教えて”"
+   },
+   "example_1": {
+      "message": "“14 歳の男の子の誕生日プレゼントには何がいいか教えて”"
+   },
+   "example_2": {
+      "message": "“東京での 7 日間の旅行プランを立ててください”"
+   },
+   "examples": {
+      "message": "例:"
+   },
+   "exploreGenie": {
+      "message": "ノートン Genie について調べる"
+   },
+   "extShortDesc": {
+      "message": "AI チャット拡張機能"
+   },
+   "extTitle": {
+      "message": "AI チャット拡張機能"
+   },
+   "freshChat": {
+      "message": "ご質問がなければ、このチャットは 5 分以内に削除されますので、新たにチャットを開始してください。"
+   },
+   "genieDescription": {
+      "message": "Genie は、テキスト メッセージ、電子メール、Web サイト、ソーシャル メディアの投稿が詐欺かどうかを数秒以内に検出します。疑わしいメッセージのスクリーンショットをコピーして貼り付けるか、アプリにアップロードするだけで、それが詐欺である可能性があるかどうかをすぐに知ることができます。"
+   },
+   "inappropriateErrorMessage": {
+      "message": "申し訳ありません。この要求には対応できません。"
+   },
+   "initialScreenSubtitle": {
+      "message": "AI チャットで答えが見つかります。"
+   },
+   "initialScreenTitle": {
+      "message": "疑問があれば、お尋ねください…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "エラーが発生しました。送信されたメッセージは長すぎます。簡潔なメッセージを送信してください。"
+   },
+   "limitError": {
+      "message": "このセッションのメッセージ制限に達しました。チャットをクリアして始めからやり直してください。"
+   },
+   "limitErrorMessage": {
+      "message": "このセッションのメッセージ制限に達しました。チャットをクリアして始めからやり直してください。"
+   },
+   "stillThere": {
+      "message": "\u003Cb>まだそこにいますか? \u003C/b> しばらく入力がありません。"
+   },
+   "suggestedSearch": {
+      "message": "その他の検索の提案"
+   },
+   "tooManyRequestsError": {
+      "message": "要求が多すぎます。後でもう一度行ってください。"
+   },
+   "tryAsking": {
+      "message": "お試しください。 "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>ノートン Genie\u003C/b> は、AI を活用したリアルタイムの詐欺検出ツールです。"
+   }
+}

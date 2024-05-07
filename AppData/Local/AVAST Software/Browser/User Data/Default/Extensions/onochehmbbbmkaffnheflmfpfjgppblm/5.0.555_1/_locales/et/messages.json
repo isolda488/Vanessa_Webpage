@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blokeeritud:"
+   },
+   "LoggerList": {
+      "message": "Loend"
+   },
+   "LoggerRegex": {
+      "message": "Regulaaravaldis"
+   },
+   "LoggerType": {
+      "message": "Tüüp"
+   },
+   "LoggerWhitelisting": {
+      "message": "Lubatud loendisse lisamine"
+   },
+   "add": {
+      "message": "Lisa"
+   },
+   "addSite": {
+      "message": "Lisa leht"
+   },
+   "adsTrackersAllowed": {
+      "message": "Reklaamid ja jälgijad on sellel saidil lubatud"
+   },
+   "adsTrackersBlocked": {
+      "message": "Reklaamid ja jälgijad on blokeeritud"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Luba alati reklaamid sellel lehel"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ katset tuvastatud"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ katseid tuvastatud"
+   },
+   "balancedBlocking": {
+      "message": "Tasakaalusatud blokeerimine"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blokeeri tuntud jälgimisseadmed ja veel rohkem reklaame kiirema sirvimiskogemuse tagamiseks."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Kõik lihtsa blokkimise ja sotsiaalmeedia reklaamide all"
+   },
+   "balancedBlockingName": {
+      "message": "Tasakaalustatud"
+   },
+   "basicBlocking": {
+      "message": "Põhiline blokeerimine"
+   },
+   "basicBlockingDescription": {
+      "message": "Blokeeri tuntud jälgimisseadmed ja reklaamid, mis häirivad sinu sirvimiskogemust."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Tuntud jälgimisseadmed, hüpik- ja bännerreklaamid, sealhulgas videod"
+   },
+   "blockAdsSearch": {
+      "message": "Blokeeri reklaamid otsingutulemustes"
+   },
+   "blockSearchAds": {
+      "message": "Otsingutulemuste reklaamide blokeerimine"
+   },
+   "blockSearchAdsMore": {
+      "message": "Vt seadetest jaotist \u003Cu>Lisateave\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Blokeerimine on väljas"
+   },
+   "blockingOptions": {
+      "message": "Blokeerimise võimalused"
+   },
+   "cancel": {
+      "message": "Tühista"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Tühista lehe lisamine"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Tühista lehe muutmine"
+   },
+   "cancelSetStrict": {
+      "message": "Tühista seadistatud range režiim"
+   },
+   "clearLogger": {
+      "message": "Kustuta logija ajalugu"
+   },
+   "edit": {
+      "message": "Muuda"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Muuda lehte valgest listist"
+   },
+   "essentialBlockingName": {
+      "message": "Põhiline"
+   },
+   "extShortDesc": {
+      "message": "Lõpuks tõhus blokeerija. Ei koorma protsessorit ega mälu."
+   },
+   "fingerprintBlocked": {
+      "message": "Brauseri sõrmejälgede võtmine on blokeeritud"
+   },
+   "generalSettings": {
+      "message": "Üldised seadistused"
+   },
+   "goToStrict": {
+      "message": "Lülitu rangele"
+   },
+   "keepFree": {
+      "message": "Jäta vabaks"
+   },
+   "keep_balanced": {
+      "message": "Jäta tasakaalustatud"
+   },
+   "keep_essential": {
+      "message": "Säilita põhiline"
+   },
+   "learnMore": {
+      "message": "Rohkem teavet"
+   },
+   "pgLogger": {
+      "message": "Privaatsuse kaitse logija"
+   },
+   "pgSettings": {
+      "message": "Seadete muutmine"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Privaatsuse kaitse seaded"
+   },
+   "privacyGuard": {
+      "message": "Privaatsuse kaitse"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "kaitse on VÄLJAS"
+   },
+   "protectionOn": {
+      "message": "kaitse on SEES"
+   },
+   "protectionPaused": {
+      "message": "kaitse on peatatud"
+   },
+   "recommended": {
+      "message": "Soovitatud"
+   },
+   "refreshWarning": {
+      "message": "Kui lülitate privaatsuse kaitse sisse või välja, värskendatakse lehte automaatselt ja tehtud muudatused ei pruugi salvestuda. Enne privaatsuse kaitse muutmist salvestage kindlasti pooleliolev töö."
+   },
+   "remove": {
+      "message": "Eemalda"
+   },
+   "save": {
+      "message": "Salvesta"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Salvesta leht valgesse listi"
+   },
+   "setStrict": {
+      "message": "Määra rangeks"
+   },
+   "setStrictDescription_avast": {
+      "message": "Väga vähesed mitteinvasiivsed reklaamid aitavad meil rahastada Avast Secure Browserit. Need ei katkesta sinu sirvimist ja aitavad sinu brauserit vabana hoida. Näita oma soosingut ja luba need reklaamid."
+   },
+   "setStrictDescription_avg": {
+      "message": "Väga vähesed mitteinvasiivsed reklaamid aitavad meil rahastada AVG Secure Browserit. Need ei katkesta sinu sirvimist ja aitavad sinu brauserit vabana hoida. Näita oma soosingut ja luba need reklaamid."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Väga vähesed mitteinvasiivsed reklaamid aitavad meil rahastada CCleaner Secure Browserit. Need ei katkesta sinu sirvimist ja aitavad sinu brauserit vabana hoida. Näita oma soosingut ja luba need reklaamid."
+   },
+   "setStrictMode": {
+      "message": "Lülita sisse range režiim"
+   },
+   "setStrictTitle": {
+      "message": "Sea privaatsuse kaitse rangeks"
+   },
+   "setToBalanced": {
+      "message": "Sul on seatud tasakaalustatud blokeerimine"
+   },
+   "setToBasic": {
+      "message": "Sul on seatud põhiline blokeerimine"
+   },
+   "setToStrict": {
+      "message": "Sul on seatud range blokeerimine"
+   },
+   "settingsDescription": {
+      "message": "Täiustatud privaatsuse kaitse. Kaitse oma identiteeti jälgimisseadmete ja muu eest.\nBlokeeri reklaamid ja jälgijad kiiremaks ja turvalisemaks sirvimiseks."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Kuva ikoonil blokeeritud reklaamide arv"
+   },
+   "site": {
+      "message": "Leht"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Siia kuvatakse lehed, millel sa oled reklaamid lubanud"
+   },
+   "spc": {
+      "message": "Turvalisus- ja privaatsuskeskus"
+   },
+   "stayOn_balanced": {
+      "message": "Püsi tasakaalustatud režiimil"
+   },
+   "stayOn_essential": {
+      "message": "Püsi põhirežiimil"
+   },
+   "strictBlocking": {
+      "message": "Range blokeerimine"
+   },
+   "strictBlockingDescription": {
+      "message": "Blokeeri kõik automaatselt, et brauser oleks kiirem ja et ei tekiks katkestusi."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "See seadistus võib põhjustada seda, et mõnede saitide laadimine on häiritud (mõnda sisu ei pruugita kuvada või kui sait näeb katkine välja, lülitage see seadistus välja)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Kõik, nagu tasakaalustatud blokkimine, brauseri teavitused ja sõrmejäljed"
+   },
+   "strictBlockingName": {
+      "message": "Range"
+   },
+   "strictModalDescription": {
+      "message": "Et meie brauser saaks jääda tasuta, sõltume partneritest, kes rahastavad meid mõnede vähehäirivate ja kasutajasõbralike reklaamide kaudu. Meie eesmärgiks on teie privaatsuse suurendamine ja veebiidentiteeti kaitsmine."
+   },
+   "strictModalTitle": {
+      "message": "Aidake meil hoida brauserit tasuta tarkvarana"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Kokku __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Muud seaded leiate jaotisest \u003Cb>\u003Cu>Turvalisus- ja privaatsuskeskus\u003C/u>\u003C/b>\n"
+   },
+   "whitelistModalDescription": {
+      "message": "Millistele lehtedele sa soovid reklaamid lubada?"
+   },
+   "youWillBlock": {
+      "message": "Blokeerid: "
+   }
+}

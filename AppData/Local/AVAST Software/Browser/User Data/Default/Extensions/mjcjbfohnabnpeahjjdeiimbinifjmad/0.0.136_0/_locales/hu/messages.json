@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Bármit kérdezhet..."
+   },
+   "clearChat": {
+      "message": "Csevegés törlése"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Hiba történt. A beküldött üzenet túl hosszú volt. Indítson új csevegést, és rövidebb üzenetet küldjön."
+   },
+   "example_0": {
+      "message": "“Magyarázza el a borkészítés folyamatát.”"
+   },
+   "example_1": {
+      "message": "“Soroljon fel születésnapi ajándékötleteket egy 14 éves fiú számára.”"
+   },
+   "example_2": {
+      "message": "“Segítsen megtervezni egy 7 napos tokiói utazást.”"
+   },
+   "examples": {
+      "message": "Példák:"
+   },
+   "exploreGenie": {
+      "message": "Ismerkedjen meg a Norton Genie-vel"
+   },
+   "extShortDesc": {
+      "message": "AI Chat bővítmény"
+   },
+   "extTitle": {
+      "message": "AI Chat bővítmény"
+   },
+   "freshChat": {
+      "message": "Ha nincs több kérdése, 5 perc múlva töröljük ezt a csevegést, így egy új csevegést indíthat."
+   },
+   "genieDescription": {
+      "message": "A Genie másodperceken belül felismeri, ha egy SMS, e-mail, webhely vagy egy közösségi oldalon közzétett bejegyzés átverés-e. Egyszerűen másolja be vagy töltse fel a gyanús üzenetek képernyőmentéseit az alkalmazásba, és a rendszer megmondja, hogy átverésről van-e szó."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Sajnálom, de nem tudok segíteni ebben."
+   },
+   "initialScreenSubtitle": {
+      "message": "Az AI Chat segítségével megkapja a’keresett válaszokat."
+   },
+   "initialScreenTitle": {
+      "message": "Kíváncsi? Kérdezzen…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Hiba történt. A beküldött üzenet túl hosszú volt. Rövidebb üzenetet küldjön."
+   },
+   "limitError": {
+      "message": "Ön elérte a munkamenetben az üzenetek maximális számát. Próbálja meg törölni a csevegést, hogy újrakezdhesse."
+   },
+   "limitErrorMessage": {
+      "message": "Ön elérte a munkamenetben az üzenetek maximális számát. Próbálja meg törölni a csevegést, hogy újrakezdhesse."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Még mindig ott van?\u003C/b> Egy ideje nem írt semmit."
+   },
+   "suggestedSearch": {
+      "message": "Javasolt keresések"
+   },
+   "tooManyRequestsError": {
+      "message": "Túl sok a kérés. Próbálja újra később."
+   },
+   "tryAsking": {
+      "message": "Próbálja megkérdezni "
+   },
+   "tryGenie": {
+      "message": "a \u003Cb>Norton Genie\u003C/b>-t a valós idejű, mesterséges intelligenciával működő csalásfelismerő eszközünket."
+   }
+}

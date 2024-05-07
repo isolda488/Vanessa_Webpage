@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blocat de"
+   },
+   "LoggerList": {
+      "message": "Listă"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Tip"
+   },
+   "LoggerWhitelisting": {
+      "message": "Trecere pe lista de permisiuni"
+   },
+   "add": {
+      "message": "Adăugare"
+   },
+   "addSite": {
+      "message": "Adăugare site"
+   },
+   "adsTrackersAllowed": {
+      "message": "Reclamele și instrumentele de urmărire sunt permise pe acest site"
+   },
+   "adsTrackersBlocked": {
+      "message": "Reclamele și instrumentele de urmărire sunt blocate"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Întotdeauna permiteți reclame pe următoarele site-uri"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ attempt detectate"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ tentative detectate"
+   },
+   "balancedBlocking": {
+      "message": "Blocare echilibrată"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blocați urmăritorii cunoscuți și chiar și mai multe dintre reclame, pentru o experiență de navigare mai rapidă."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Toate în blocare de bază și reclame pe rețele sociale"
+   },
+   "balancedBlockingName": {
+      "message": "Echilibrată"
+   },
+   "basicBlocking": {
+      "message": "Blocare de bază"
+   },
+   "basicBlockingDescription": {
+      "message": "Blocați urmăritorii cunoscuți și reclamele care vă perturbă experiența de navigare."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Urmăritori cunoscuți, reclame în ferestre pop-up și în bannere, inclusiv clipuri video"
+   },
+   "blockAdsSearch": {
+      "message": "Blocați reclamele în rezultatele căutării"
+   },
+   "blockSearchAds": {
+      "message": "Blocați reclamele în rezultatele căutării"
+   },
+   "blockSearchAdsMore": {
+      "message": "Accesați setările pentru \u003Cu>Mai multe informaţii\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Blocarea este dezactivată"
+   },
+   "blockingOptions": {
+      "message": "Opțiuni de blocare"
+   },
+   "cancel": {
+      "message": "Anulare"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Anulați operația de adăugare site"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Anulați operația de editare site"
+   },
+   "cancelSetStrict": {
+      "message": "Anulați operația de setare în modul Strict"
+   },
+   "clearLogger": {
+      "message": "Ștergeți istoricul înregistratorului"
+   },
+   "edit": {
+      "message": "Editare"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Editați un site din lista albă"
+   },
+   "essentialBlockingName": {
+      "message": "De bază"
+   },
+   "extShortDesc": {
+      "message": "În sfârșit, un program de blocare eficient. Lejer pentru procesor și memorie."
+   },
+   "fingerprintBlocked": {
+      "message": "Amprentarea digitală în browser este blocată"
+   },
+   "generalSettings": {
+      "message": "Setări generale"
+   },
+   "goToStrict": {
+      "message": "Accesați Strict"
+   },
+   "keepFree": {
+      "message": "Mențineți gratuit"
+   },
+   "keep_balanced": {
+      "message": "Păstrare mod echilibrat"
+   },
+   "keep_essential": {
+      "message": "Păstrați blocările de bază"
+   },
+   "learnMore": {
+      "message": "Aflați mai multe"
+   },
+   "pgLogger": {
+      "message": "Înregistrator Protecție confidențialitate"
+   },
+   "pgSettings": {
+      "message": "Modificați setările"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Setările Protecție confidențialitate"
+   },
+   "privacyGuard": {
+      "message": "Protecție confidențialitate"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "protecția este oprită"
+   },
+   "protectionOn": {
+      "message": "protecția este pornită"
+   },
+   "protectionPaused": {
+      "message": "protecția este întreruptă"
+   },
+   "recommended": {
+      "message": "Recomandat"
+   },
+   "refreshWarning": {
+      "message": "Când activați sau dezactivați Protecție confidențialitate, pagina se va actualiza automat, iar modificările pe care le-ați făcut s-ar putea să nu fie salvate. Asigurați-vă că salvați tot lucrul înainte de a modifica Protecție confidențialitate."
+   },
+   "remove": {
+      "message": "Eliminare"
+   },
+   "save": {
+      "message": "Salvare"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Salvați un site în lista albă"
+   },
+   "setStrict": {
+      "message": "Setare strictă"
+   },
+   "setStrictDescription_avast": {
+      "message": "Câteva reclame neinvazive ne ajută să finanțăm Avast Secure Browser. Ele nu vă întrerup navigarea și ne ajută să menținem gratuit browserul dvs. Arătați-ne puțină înțelegere prin permiterea acestor reclame."
+   },
+   "setStrictDescription_avg": {
+      "message": "Câteva reclame neinvazive ne ajută să finanțăm AVG Secure Browser. Ele nu vă întrerup navigarea și ne ajută să menținem gratuit browserul dvs. Arătați-ne puțină înțelegere prin permiterea acestor reclame."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Câteva reclame neinvazive ne ajută să finanțăm CCleaner Secure Browser. Ele nu vă întrerup navigarea și ne ajută să menținem gratuit browserul dvs. Arătați-ne puțină înțelegere prin permiterea acestor reclame."
+   },
+   "setStrictMode": {
+      "message": "Setare în modul Strict"
+   },
+   "setStrictTitle": {
+      "message": "Setați Protecție confidențialitate la Strictă"
+   },
+   "setToBalanced": {
+      "message": "Sunteți setat la Blocare echilibrată"
+   },
+   "setToBasic": {
+      "message": "Sunteți setat la Blocare de bază"
+   },
+   "setToStrict": {
+      "message": "Sunteți setați la Blocare strictă"
+   },
+   "settingsDescription": {
+      "message": "Protecție îmbunătățită a confidențialității. Protejați-vă identitatea față de urmăritori și de multe alte elemente.\nBlocați reclamele și urmăritorii pentru a avea o navigare mai rapidă și mai sigură."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Afișați numărul de reclame blocate pe pictogramă"
+   },
+   "site": {
+      "message": "Site"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Site-urile pe care ați permis reclame vor apărea aici"
+   },
+   "spc": {
+      "message": "Centru de securitate și de confidențialitate"
+   },
+   "stayOn_balanced": {
+      "message": "Rămâneți în modul Echilibrat"
+   },
+   "stayOn_essential": {
+      "message": "Rămâneți în modul Esențial"
+   },
+   "strictBlocking": {
+      "message": "Blocare strictă"
+   },
+   "strictBlockingDescription": {
+      "message": "Blocați automat toate elementele, pentru o experiență mai rapidă și neîntreruptă în browser."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Această setare poate face ca unele site-uri să nu se încarce corect (este posibil ca un anumit conținut să nu fie afișat și dacă site-ul pare compromis dezactivați această setare)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Toate ca blocare echilibrată și notificări în browser și amprentare"
+   },
+   "strictBlockingName": {
+      "message": "Strictă"
+   },
+   "strictModalDescription": {
+      "message": "Pentru a ne menține browserul gratuit, depindem de partenerii noștri care ne finanțează prin intermediul unor reclame care nu vă perturbă activitatea și sunt prietenoase cu utilizatorul.  Scopul nostru este de a vă permite să vă sporiți confidențialitatea și să vă protejați identitatea online."
+   },
+   "strictModalTitle": {
+      "message": "Ajutați-ne să ne menținem browserul gratuit"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Total __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Vizitați \u003Cb>\u003Cu>Centru de securitate și de confidențialitate\u003C/u>\u003C/b>\n pentru alte setări"
+   },
+   "whitelistModalDescription": {
+      "message": "Pentru care site doriți să permiteți reclame?"
+   },
+   "youWillBlock": {
+      "message": "Veți bloca: "
+   }
+}

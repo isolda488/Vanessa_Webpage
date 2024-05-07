@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "ভিডিও ডাউনলোডার"
+    },
+    "appDesc": {
+        "message": "অফলাইনে দেখার জন্য ভিডিওগুলি ডাউনলোড করুন"
+    },
+    "barMediaBtn": {
+        "message": "মিডিয়া",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "ডাউনলোড করুন",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "সংযোগ বিচ্ছিন্ন করুন",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "সেটিংস",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "আবার দেখাবেন না",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "এই সাইটটে আবার দেখাবেন না",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "আরও তথ্য",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "ভিডিও",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "অডিও",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": " Secure Browser দ্বারা পরিচালিত",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "সেটিংস",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "ভিডিও ডাউনলোডার",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "অফলাইনে দেখার জন্য ভিডিওগুলি ডাউনলোড করুন।",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "অডিও",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "ভিডিও",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "ডাউনলোড করুন",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "পুনরায় সংযোগ করুন",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "অজানা আকার",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "এই পৃষ্ঠায় ডাউনলোড করার জন্য আর কোন ভিডিও নেই",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "একটি ভিডিও ডাউনলোড করার জন্য, এই বিষয়ে বিস্তারিত পৃষ্ঠায় যান।",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "ভিডিও ডাউনলোডার এর জন্য অক্ষম করা হয়েছে",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "সক্ষম করুন",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "আমাদের  <div><a target='blank' href='$link$'> অন্তিম ব্যবহারকারীর লাইসেন্স চুক্ত<\/a><\/div> (EULA), স্বীকার করে, আপনি স্বীকৃতি দিয়েছেন এবং সম্মত হয়েছেন যে প্রযোজ্য কপিরাইট আইন এবং যেকোনো ওয়েবসাইট ব্যবহারের শর্তাবলী মেনে নিয়ে ভিডিও ডাউনলোডকারী ব্যবহার করা আপনার দায়িত্ব।",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "আপনি ডাউনলোড করার আগে",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "আমি EULA সম্পর্কে জেনেছি এবং গ্রহণ করছি",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "চালিয়ে যান",
+        "description": "EUlA continue button"
+    }
+}

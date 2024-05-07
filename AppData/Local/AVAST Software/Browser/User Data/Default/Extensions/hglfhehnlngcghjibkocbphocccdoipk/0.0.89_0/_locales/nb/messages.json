@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Kommunikasjon"
+   },
+   "extShortDesc": {
+      "message": "Utvidelse av nettleserens sidepanel"
+   },
+   "extTitle": {
+      "message": "Utvidelse av sidepanel"
+   },
+   "featured": {
+      "message": "Utvalgt"
+   },
+   "music": {
+      "message": "Musikk"
+   },
+   "notes": {
+      "message": "Merknader"
+   },
+   "social": {
+      "message": "Sosialt"
+   }
+}

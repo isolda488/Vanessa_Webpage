@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Komunikasi"
+   },
+   "extShortDesc": {
+      "message": "Ekstensi Panel Samping browser"
+   },
+   "extTitle": {
+      "message": "Ekstensi Panel Samping"
+   },
+   "featured": {
+      "message": "Unggulan"
+   },
+   "music": {
+      "message": "Musik"
+   },
+   "notes": {
+      "message": "Catatan"
+   },
+   "social": {
+      "message": "Sosial"
+   }
+}

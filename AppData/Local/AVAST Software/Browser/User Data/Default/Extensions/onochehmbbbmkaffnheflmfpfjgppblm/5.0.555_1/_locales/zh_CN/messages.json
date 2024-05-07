@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "阻止者"
+   },
+   "LoggerList": {
+      "message": "列表"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "类型"
+   },
+   "LoggerWhitelisting": {
+      "message": "白名单"
+   },
+   "add": {
+      "message": "添加"
+   },
+   "addSite": {
+      "message": "添加站点"
+   },
+   "adsTrackersAllowed": {
+      "message": "此站点允许广告和跟踪程序"
+   },
+   "adsTrackersBlocked": {
+      "message": "已拦截的广告和跟踪程序"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "始终允许以下站点上的广告"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "检测到 __TOTAL_FINGERPRINTING__ 尝试"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "检测到 __TOTAL_FINGERPRINTING__ 次尝试"
+   },
+   "balancedBlocking": {
+      "message": "均衡拦截"
+   },
+   "balancedBlockingDescription": {
+      "message": "阻止已知的跟踪程序，甚至广告，享受更快速的浏览体验。"
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "所有基本拦截项以及社交媒体广告"
+   },
+   "balancedBlockingName": {
+      "message": "均衡"
+   },
+   "basicBlocking": {
+      "message": "基本拦截"
+   },
+   "basicBlockingDescription": {
+      "message": "阻止已知的，影响到您的浏览体验的跟踪程序和广告。"
+   },
+   "basicBlockingExtraDescription": {
+      "message": "已知的跟踪程序、弹出窗口和横幅广告，包括视频"
+   },
+   "blockAdsSearch": {
+      "message": "阻止搜索结果中的广告"
+   },
+   "blockSearchAds": {
+      "message": "阻止搜索结果广告"
+   },
+   "blockSearchAdsMore": {
+      "message": "访问设置，了解\u003Cu>更多信息\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "拦截功能已关闭"
+   },
+   "blockingOptions": {
+      "message": "拦截选项"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancelAddSiteOperation": {
+      "message": "取消添加站点操作"
+   },
+   "cancelEditSiteOperation": {
+      "message": "取消编辑站点操作"
+   },
+   "cancelSetStrict": {
+      "message": "取消设置严格模式操作"
+   },
+   "clearLogger": {
+      "message": "清除历史记录"
+   },
+   "edit": {
+      "message": "编辑"
+   },
+   "editSiteFromWhitelist": {
+      "message": "编辑白名单中的站点"
+   },
+   "essentialBlockingName": {
+      "message": "基本"
+   },
+   "extShortDesc": {
+      "message": "终于，找到了一个有效的拦截器。不会占用太大 CPU 和内存。"
+   },
+   "fingerprintBlocked": {
+      "message": "已拦截的浏览器指纹识别"
+   },
+   "generalSettings": {
+      "message": "常规设置"
+   },
+   "goToStrict": {
+      "message": "转至严格"
+   },
+   "keepFree": {
+      "message": "保持免费"
+   },
+   "keep_balanced": {
+      "message": "保持均衡设置"
+   },
+   "keep_essential": {
+      "message": "保持基本设置"
+   },
+   "learnMore": {
+      "message": "了解更多"
+   },
+   "pgLogger": {
+      "message": "隐私防护记录"
+   },
+   "pgSettings": {
+      "message": "更改设置"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "隐私防护设置"
+   },
+   "privacyGuard": {
+      "message": "隐私防护"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "保护已关闭"
+   },
+   "protectionOn": {
+      "message": "保护已打开"
+   },
+   "protectionPaused": {
+      "message": "保护已暂停"
+   },
+   "recommended": {
+      "message": "推荐"
+   },
+   "refreshWarning": {
+      "message": "当您打开或关闭“隐私防护”时，页面将自动刷新，您所做的更改可能不会保存。请确保在更改“隐私防护”之前保存所有工作。"
+   },
+   "remove": {
+      "message": "移除"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "将站点保存到白名单中"
+   },
+   "setStrict": {
+      "message": "设置严格"
+   },
+   "setStrictDescription_avast": {
+      "message": "极少的非侵入性广告可以帮助我们为 Avast Secure Browser 筹集资金。它们不会干扰您的浏览，并有助于您免费使用浏览器。请允许这些广告，以表示您对我们的喜爱。"
+   },
+   "setStrictDescription_avg": {
+      "message": "极少的非侵入性广告可以帮助我们为 AVG Secure Browser 筹集资金。它们不会干扰您的浏览，并有助于您免费使用浏览器。请允许这些广告，以表示您对我们的喜爱。"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "极少的非侵入性广告可以帮助我们为 CCleaner Secure Browser 筹集资金。它们不会干扰您的浏览，并有助于您免费使用浏览器。请允许这些广告来支持我们。"
+   },
+   "setStrictMode": {
+      "message": "设置严格模式"
+   },
+   "setStrictTitle": {
+      "message": "设置隐私防护为严格"
+   },
+   "setToBalanced": {
+      "message": "您已设置为均衡拦截"
+   },
+   "setToBasic": {
+      "message": "您已设置为基本拦截"
+   },
+   "setToStrict": {
+      "message": "您已设置为严格拦截"
+   },
+   "settingsDescription": {
+      "message": "增强版隐私保护。确保您的身份免遭跟踪程序等窃取。阻止广告和跟踪程序，享受更快速和更安全的浏览体验。"
+   },
+   "settingsShowNumberBadge": {
+      "message": "在图标上显示已阻止的广告数量"
+   },
+   "site": {
+      "message": "站点"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "允许广告的站点将出现在此处"
+   },
+   "spc": {
+      "message": "安全和隐私中心"
+   },
+   "stayOn_balanced": {
+      "message": "保持均衡模式"
+   },
+   "stayOn_essential": {
+      "message": "保持基本模式"
+   },
+   "strictBlocking": {
+      "message": "严格拦截"
+   },
+   "strictBlockingDescription": {
+      "message": "自动阻止一切，享受更快速、无干扰的浏览体验。"
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "此设置可能会导致部分网站无法正常加载 (部分内容可能无法显示，或者当网站看起来已崩溃时，关闭此设置)。"
+   },
+   "strictBlockingExtraDescription": {
+      "message": "所有均衡拦截项以及浏览器通知和指纹识别"
+   },
+   "strictBlockingName": {
+      "message": "严格"
+   },
+   "strictModalDescription": {
+      "message": "为了让我们的浏览器保持免费，我们需要借助合作伙伴，通过一些无干扰和用户友好的广告为我们提供资金。我们的目标是让您能够增强隐私并保护您的在线身份"
+   },
+   "strictModalTitle": {
+      "message": "帮助我们让浏览器保持免费"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "总计 __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "访问\u003Cb>\u003Cu>安全和隐私中心\u003C/u>\u003C/b>\n了解其他设置"
+   },
+   "whitelistModalDescription": {
+      "message": "您希望在哪个站点允许广告？"
+   },
+   "youWillBlock": {
+      "message": "您将阻止: "
+   }
+}

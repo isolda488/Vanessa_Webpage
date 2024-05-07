@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "ইনি ব্লক করেছেন"
+   },
+   "LoggerList": {
+      "message": "তালিকা"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "টাইপ করা"
+   },
+   "LoggerWhitelisting": {
+      "message": "হোয়াইটলিস্টিং"
+   },
+   "add": {
+      "message": "যোগ করুন"
+   },
+   "addSite": {
+      "message": "সাইট যোগ করুন"
+   },
+   "adsTrackersAllowed": {
+      "message": "বিজ্ঞাপন এবং ট্র্যাকারের এই সাইটে অনুমতি দেওয়া আছে"
+   },
+   "adsTrackersBlocked": {
+      "message": "অ্যাড ও ট্র্যাকার ব্লক করা হয়েছে"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "সর্বদা নিম্নলিখিত সাইটগুলোতে বিজ্ঞাপনের অনুমতি দিন"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ টি প্রচেষ্টা সনাক্ত করা হয়েছে"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ টি প্রচেষ্টা সনাক্ত করা হয়েছে"
+   },
+   "balancedBlocking": {
+      "message": "ভারসাম্য বজায় রেখে ব্লক করা হচ্ছে"
+   },
+   "balancedBlockingDescription": {
+      "message": "দ্রুত ব্রাউজিং-এর অভিজ্ঞতার জন্য পরিচিত ট্র্যাকার, এমনকি অরিরিক্ত বিজ্ঞাপনও ব্লক করুন।"
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "সবকিছুই বেসিক ব্লকিং এবং সোশ্যাল মিডিয়া বিজ্ঞাপনগুলির মধ্যে"
+   },
+   "balancedBlockingName": {
+      "message": "ভারসাম্য বজায় রাখা হয়েছে"
+   },
+   "basicBlocking": {
+      "message": "সাধারণ ব্লকিং"
+   },
+   "basicBlockingDescription": {
+      "message": "পরিচিত ট্র্যাকার এবং বিজ্ঞাপনগুলি ব্লক করুন যা আপনার ব্রাউজিং-এর অভিজ্ঞতা ব্যাহত করে।"
+   },
+   "basicBlockingExtraDescription": {
+      "message": "পরিচিত ট্র্যাকার, পপ-আপ ও ব্যানার বিজ্ঞাপন, ভিডিও সহ"
+   },
+   "blockAdsSearch": {
+      "message": "অনুসন্ধানের ফলাফলের স্থানে অ্যাড ব্লক করুন"
+   },
+   "blockSearchAds": {
+      "message": "অনুসন্ধানের ফলাফলের স্থানের অ্যাডগুলি ব্লক করুন"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>আরও তথ্য\u003C/u>-এর জন্য সেটিংসে যান"
+   },
+   "blockingOff": {
+      "message": "ব্লকিং বন্ধ রাখা আছে"
+   },
+   "blockingOptions": {
+      "message": "ব্লক করার বিকল্পগুলো"
+   },
+   "cancel": {
+      "message": "বাতিল করুন"
+   },
+   "cancelAddSiteOperation": {
+      "message": "সাইটের কাজকর্ম যোগ করা বাতিল করুন"
+   },
+   "cancelEditSiteOperation": {
+      "message": "সাইটের কাজকর্ম এডিট করা বাতিল করুন"
+   },
+   "cancelSetStrict": {
+      "message": "স্ট্রিক্ট মোডের কাজকর্ম সেট করা বাতিল করুন"
+   },
+   "clearLogger": {
+      "message": "লগারের ইতিহাস সাফ করুন"
+   },
+   "edit": {
+      "message": "সম্পাদনা করুন"
+   },
+   "editSiteFromWhitelist": {
+      "message": "হোয়াইটলিস্ট থেকে সাইট এডিট করুন"
+   },
+   "essentialBlockingName": {
+      "message": "প্রাথমিক"
+   },
+   "extShortDesc": {
+      "message": "অবশেষে, এক সুদক্ষ ব্লকার। CPU এবং মেমরিতে চাপ ফেলে না।"
+   },
+   "fingerprintBlocked": {
+      "message": "ব্রাউজার ফিঙ্গারপ্রিন্টিং ব্লক করা হয়েছে"
+   },
+   "generalSettings": {
+      "message": "জেনারেল সেটিংস"
+   },
+   "goToStrict": {
+      "message": "‘স্ট্রিক্ট’-এ যান"
+   },
+   "keepFree": {
+      "message": "বিনামূল্যে রাখুন"
+   },
+   "keep_balanced": {
+      "message": "ভারসাম্য বজায় রাখুন"
+   },
+   "keep_essential": {
+      "message": "প্রাথমিক রাখুন"
+   },
+   "learnMore": {
+      "message": "আরও জানুন"
+   },
+   "pgLogger": {
+      "message": "গোপনীয়তার সুরক্ষা লগার"
+   },
+   "pgSettings": {
+      "message": "সেটিংস পরিবর্তন করুন"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "গোপনীয়তার গার্ড সেটিংস"
+   },
+   "privacyGuard": {
+      "message": "গোপনীয়তার সুরক্ষা"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "সুরক্ষা বন্ধ আছে"
+   },
+   "protectionOn": {
+      "message": "সুরক্ষা চালু আছে"
+   },
+   "protectionPaused": {
+      "message": "সুরক্ষা সাময়িকভাবে বন্ধ আছে"
+   },
+   "recommended": {
+      "message": "সুপারিশকৃত"
+   },
+   "refreshWarning": {
+      "message": "আপনি গোপনীয়তার সুরক্ষা চালু বা বন্ধ করলে, আপনার পেজটি স্বয়ংক্রিয়ভাবে রিফ্রেশ হবেএবং আপনার করা পরিবর্তন সেভ নাও করা হতে পারে। অনুগ্রহ করে গোপনীয়তার সুরক্ষা পরিবর্তন করার আগে কোনও কাজ সেভ করতে ভুলবেন না।"
+   },
+   "remove": {
+      "message": "অপসারণ করুন"
+   },
+   "save": {
+      "message": "সংরক্ষণ করুন"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "হোয়াইটলিস্টে সাইট সেভ করুন"
+   },
+   "setStrict": {
+      "message": "কঠোরভাবে সেট করুন"
+   },
+   "setStrictDescription_avast": {
+      "message": "খুব অল্প আক্রমণাত্মক বিজ্ঞাপন আমাদের Secure Browser-কে আর্থিক সহায়তা করে। তারা আপনার ব্রাউজিংয়ে বাধা দেয় না এবং আপনার ব্রাউজারকে মুক্ত রাখতে সহায়তা করে। এই বিজ্ঞাপনগুলোর জন্য অনুমতি দিয়ে আমাদের কিছু ভালবাসা প্রদর্শন করুন।"
+   },
+   "setStrictDescription_avg": {
+      "message": "খুব অল্প আক্রমণাত্মক বিজ্ঞাপনগুলি আমাদের Secure Browser-কে আর্থিক সাহায্য করে। তারা আপনার ব্রাউজিংয়ে বাধা দেয় না এবং আপনার ব্রাউজারকে মুক্ত রাখতে সহায়তা করে। এই বিজ্ঞাপনগুলোর জন্য অনুমতি দিয়ে আমাদের কিছু ভালবাসা প্রদর্শন করুন।"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "আক্রমণাত্মক নয় এমন খুব অল্পসংখ্যক বিজ্ঞাপন আমাদের CCleaner Secure Browser-কে আর্থিকভাবে সাহায্য করে। তারা আপনার ব্রাউজিং-এ বাধা দেয় না এবং আপনার ব্রাউজারকে উন্মুক্ত রাখতে সহায়তা করে। এই বিজ্ঞাপনগুলি চলার অনুমতি দিয়ে আমাদের প্রতি আপনার ভালবাসার হাত বাড়িয়ে দিন।"
+   },
+   "setStrictMode": {
+      "message": "স্ট্রিক্ট মোড সেট করুন"
+   },
+   "setStrictTitle": {
+      "message": "প্রাইভেসি গার্ড কঠোর হিসেবে সেট করুন"
+   },
+   "setToBalanced": {
+      "message": "আপনাকে ব্যালেন্সড ব্লকিংয়ে সেট করা হয়েছে"
+   },
+   "setToBasic": {
+      "message": "আপনাকে প্রাথমিক ব্লকিংয়ে সেট করা হয়েছে"
+   },
+   "setToStrict": {
+      "message": "আপনি কঠোরভাবে ব্লকিং-এ সেট আছেন"
+   },
+   "settingsDescription": {
+      "message": "বর্ধিত গোপনীয়তার সুরক্ষা। ট্র্যাকার ও অন্যান্য থেকে আপনার পরিচয় সুরক্ষিত করুন।\nদ্রুত, নিরাপদ ব্রাউজিংয়ের জন্য বিজ্ঞাপন এবং ট্র্যাকারগুলিকে ব্লক করুন৷"
+   },
+   "settingsShowNumberBadge": {
+      "message": "আইকনটিতে ব্লক করে রাখা বিজ্ঞাপনগুলোর সংখ্যা দেখান"
+   },
+   "site": {
+      "message": "সাইট"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "আপনি যে সাইটগুলোতে বিজ্ঞাপন দিয়েছেন তা এখানে প্রদর্শিত হবে"
+   },
+   "spc": {
+      "message": "নিরাপত্তা  ও গোপনীয়তা কেন্দ্র"
+   },
+   "stayOn_balanced": {
+      "message": "ব্যালান্সড মোডে থাকুন"
+   },
+   "stayOn_essential": {
+      "message": "জরুরী মোডে থাকুন"
+   },
+   "strictBlocking": {
+      "message": "কঠোরভাবে ব্লক করা"
+   },
+   "strictBlockingDescription": {
+      "message": "একটি দ্রুত, নিরবচ্ছিন্ন ব্রাউজার অভিজ্ঞতার জন্য স্বয়ংক্রিয়ভাবে সবকিছু ব্লক করুন।"
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "এই সেটিং-এর ফলে কিছু সাইট সঠিকভাবে লোড নাও হতে পারে (কিছু কন্টেন্ট প্রদর্শিত নাও হতে পারে বা যদি সাইটটি ভাঙা দেখায় তাহলে এই সেটিংটি বন্ধ করুন)।"
+   },
+   "strictBlockingExtraDescription": {
+      "message": "সবকিছুই ব্যালেন্সড ব্লকিং এবং ব্রাউজার নোটিফিকেশন এবং ফিঙ্গারপ্রিন্টিং এর জন্য"
+   },
+   "strictBlockingName": {
+      "message": "কঠোর"
+   },
+   "strictModalDescription": {
+      "message": "আমাদের ব্রাউজারকে বিনামূল্যে রাখতে, আমরা এমন অংশীদারদের উপর নির্ভর করি যারা কিছু অ-ব্যহত এবং ব্যবহারকারী সহজে ব্যবহার করতে পারেন এমন বিজ্ঞাপনের মাধ্যমে আমাদের অর্থ দিয়ে থাকেন। আমাদের লক্ষ্য হল আপনাকে আপনার গোপনীয়তা উন্নত করতে এবং আপনার অনলাইন পরিচয় রক্ষা করতে সক্ষম করা"
+   },
+   "strictModalTitle": {
+      "message": "আমাদের ব্রাউজার বিনামূল্যে রাখতে সহায়তা করুন"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "মোট __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "অন্যান্য সেটিংসের জন্য \u003Cb>\u003Cu>নিরাপত্তা ও গোপনীয়তা কেন্দ্র\u003C/u>\u003C/b> \n-এ যান"
+   },
+   "whitelistModalDescription": {
+      "message": "আপনি কোন সাইটে বিজ্ঞাপন চালানোর অনুমতি দিতে চান?"
+   },
+   "youWillBlock": {
+      "message": "আপনি যা যা ব্লক করবেন:"
+   }
+}

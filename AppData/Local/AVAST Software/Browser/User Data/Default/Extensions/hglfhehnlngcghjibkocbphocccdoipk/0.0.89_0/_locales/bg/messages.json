@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Комуникация"
+   },
+   "extShortDesc": {
+      "message": "Разширение на страничния панел на браузъра"
+   },
+   "extTitle": {
+      "message": "Разширение на страничния панел"
+   },
+   "featured": {
+      "message": "Актуални"
+   },
+   "music": {
+      "message": "Музика"
+   },
+   "notes": {
+      "message": "Бележки"
+   },
+   "social": {
+      "message": "Социални мрежи"
+   }
+}

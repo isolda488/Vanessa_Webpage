@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Pytaj, o co chcesz..."
+   },
+   "clearChat": {
+      "message": "Wyczyść czat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Wystąpił błąd. Przesłana wiadomość była zbyt długa. Rozpocznij nowy czat i prześlij krótszą wiadomość."
+   },
+   "example_0": {
+      "message": "“Wyjaśnij mi proces produkcji wina.”"
+   },
+   "example_1": {
+      "message": "“Podaj mi listę pomysłów na prezent urodzinowy dla 14-letniego chłopca.”"
+   },
+   "example_2": {
+      "message": "“Pomóż mi zaplanować 7-dniową wycieczkę do Tokio.”"
+   },
+   "examples": {
+      "message": "Przykładowo:"
+   },
+   "exploreGenie": {
+      "message": "Poznaj Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Rozszerzenie AI Chat"
+   },
+   "extTitle": {
+      "message": "Rozszerzenie AI Chat"
+   },
+   "freshChat": {
+      "message": "Jeśli nie masz więcej pytań, za 5 minut usuniemy ten czat, aby można było rozpocząć nowy."
+   },
+   "genieDescription": {
+      "message": "Genie może w kilka sekund wykryć, czy wiadomości tekstowe, e-mail, witryny lub posty w mediach społecznościowych stanowią oszustwo. Wystarczy skopiować i wkleić lub przesłać zrzuty ekranu podejrzanych wiadomości do aplikacji, aby natychmiast dowiedzieć się, czy masz do czynienia z oszustwem."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Przykro mi, ale nie mogę odpowiedzieć na to pytanie."
+   },
+   "initialScreenSubtitle": {
+      "message": "Uzyskaj odpowiedzi na swoje pytania za pomocą AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Ciekawi Cię to? Pytaj śmiało…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Wystąpił błąd. Przesłana wiadomość była zbyt długa. Prześlij krótszą wiadomość."
+   },
+   "limitError": {
+      "message": "Osiągnięto limit wiadomości w ramach tej sesji. Spróbuj wyczyścić czat, aby zacząć od nowa."
+   },
+   "limitErrorMessage": {
+      "message": "Osiągnięto limit wiadomości w ramach tej sesji. Spróbuj wyczyścić czat, aby zacząć od nowa."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Jeszcze tam jesteś?\u003C/b> Od jakiegoś czasu niczego nie piszesz."
+   },
+   "suggestedSearch": {
+      "message": "Sugerowane wyszukiwania"
+   },
+   "tooManyRequestsError": {
+      "message": "Zbyt wiele żądań. Spróbuj ponownie później."
+   },
+   "tryAsking": {
+      "message": "Spróbuj zapytać "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, nasze narzędzie do wykrywania oszustw w czasie rzeczywistym oparte na sztucznej inteligencji."
+   }
+}

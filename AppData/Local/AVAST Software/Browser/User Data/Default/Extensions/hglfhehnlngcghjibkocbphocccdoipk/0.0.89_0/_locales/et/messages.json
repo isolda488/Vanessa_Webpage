@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Suhtlus"
+   },
+   "extShortDesc": {
+      "message": "Brauseri külgpaneeli laiendus"
+   },
+   "extTitle": {
+      "message": "Külgpaneeli laiendus"
+   },
+   "featured": {
+      "message": "Esile tõstetud"
+   },
+   "music": {
+      "message": "Muusika"
+   },
+   "notes": {
+      "message": "Märkmed"
+   },
+   "social": {
+      "message": "Sotsiaalmeedia"
+   }
+}

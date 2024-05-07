@@ -1,0 +1,90 @@
+﻿[2019-06-28 11:53:35.807] [notice ] [crashguard ] [ 5080:16840] Process monitoring installed.
+[2019-06-28 11:53:35.815] [notice ] [bug_report ] [ 5080:12396] Processing package type 0.
+[2019-06-28 11:53:35.820] [warning] [crashguard ] [ 5080:12396] Failed to delete obsolete payload C:\Users\Vanessa\AppData\Local\AVAST Software\Browser\User Data\Crashpad\Reports\646c7583-2f05-4c60-9665-419813805dbb.dmp due to error: 32
+[2019-06-30 10:53:37.413] [notice ] [crashguard ] [12064:15268] Process monitoring installed.
+[2019-06-30 10:53:37.417] [notice ] [bug_report ] [12064: 9072] Processing package type 0.
+[2019-06-30 10:53:38.469] [warning] [commchannel] [12064: 9072] Canceling async operation with Channel::Close()
+[2019-06-30 10:53:38.482] [error  ] [ini_access ] [12064: 9072] failed to write ini file C:\ProgramData\AVAST Software\Avast\avast5.ini
+[2019-06-30 10:53:38.531] [notice ] [bug_report ] [12064: 9072] About to submit payload of type 1.1
+[2019-06-30 10:53:38.538] [warning] [bug_report ] [12064: 9072] * Payload name was not set.
+[2019-06-30 10:53:38.825] [warning] [commchannel] [12064: 9072] Canceling async operation with Channel::Close()
+[2019-06-30 10:53:39.633] [warning] [commchannel] [12064:  228] Canceling async operation with Channel::Close()
+[2019-06-30 10:53:39.637] [notice ] [bug_report ] [12064: 9072] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-06-30 10:53:39.642] [notice ] [bug_report ] [12064: 9072] Payload was successfully submitted
+[2019-07-11 08:44:00.683] [notice ] [crashguard ] [ 4420: 8168] Process monitoring installed.
+[2019-07-11 08:44:00.687] [notice ] [bug_report ] [ 4420: 1304] Processing package type 0.
+[2019-07-11 08:44:00.728] [notice ] [bug_report ] [ 4420: 1304] About to submit payload of type 1.1
+[2019-07-11 08:44:00.730] [warning] [bug_report ] [ 4420: 1304] * Payload name was not set.
+[2019-07-11 08:44:01.670] [warning] [commchannel] [ 4420:17192] Canceling async operation with Channel::Close()
+[2019-07-11 08:44:01.682] [notice ] [bug_report ] [ 4420: 1304] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-07-11 08:44:01.690] [notice ] [bug_report ] [ 4420: 1304] Payload was successfully submitted
+[2019-07-11 10:53:37.154] [notice ] [crashguard ] [15676:11468] Process monitoring installed.
+[2019-07-11 10:53:37.158] [notice ] [bug_report ] [15676:10696] Processing package type 0.
+[2019-07-11 10:53:37.201] [notice ] [bug_report ] [15676:10696] About to submit payload of type 1.1
+[2019-07-11 10:53:37.204] [warning] [bug_report ] [15676:10696] * Payload name was not set.
+[2019-07-11 10:53:37.899] [warning] [commchannel] [15676:17232] Canceling async operation with Channel::Close()
+[2019-07-11 10:53:37.912] [notice ] [bug_report ] [15676:10696] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-07-11 10:53:37.922] [notice ] [bug_report ] [15676:10696] Payload was successfully submitted
+[2019-07-13 00:56:21.175] [notice ] [crashguard ] [15148: 6100] Process monitoring installed.
+[2019-07-13 00:56:21.237] [notice ] [bug_report ] [15148:14148] Processing package type 0.
+[2019-07-13 00:56:21.284] [notice ] [bug_report ] [15148:14148] About to submit payload of type 1.1
+[2019-07-13 00:56:21.284] [warning] [bug_report ] [15148:14148] * Payload name was not set.
+[2019-07-13 00:56:22.003] [warning] [commchannel] [15148:11580] Canceling async operation with Channel::Close()
+[2019-07-13 00:56:22.003] [notice ] [bug_report ] [15148:14148] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-07-13 00:56:22.018] [notice ] [bug_report ] [15148:14148] Payload was successfully submitted
+[2019-07-13 23:57:33.837] [notice ] [crashguard ] [ 6136:15232] Process monitoring installed.
+[2019-07-13 23:57:33.837] [notice ] [bug_report ] [ 6136: 1100] Processing package type 0.
+[2019-07-13 23:57:33.884] [notice ] [bug_report ] [ 6136: 1100] About to submit payload of type 1.1
+[2019-07-13 23:57:33.884] [warning] [bug_report ] [ 6136: 1100] * Payload name was not set.
+[2019-07-13 23:57:34.587] [warning] [commchannel] [ 6136:14896] Canceling async operation with Channel::Close()
+[2019-07-13 23:57:34.587] [notice ] [bug_report ] [ 6136: 1100] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-07-13 23:57:34.587] [notice ] [bug_report ] [ 6136: 1100] Payload was successfully submitted
+[2019-08-08 10:47:16.090] [notice ] [crashguard ] [10884: 9364] Process monitoring installed.
+[2019-08-08 10:47:16.090] [notice ] [bug_report ] [10884:14856] Processing package type 0.
+[2019-08-08 10:47:16.137] [notice ] [bug_report ] [10884:14856] About to submit payload of type 1.1
+[2019-08-08 10:47:16.137] [warning] [bug_report ] [10884:14856] * Payload name was not set.
+[2019-08-08 10:47:16.747] [warning] [commchannel] [10884:19504] Canceling async operation with Channel::Close()
+[2019-08-08 10:47:16.762] [notice ] [bug_report ] [10884:14856] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-08-08 10:47:16.762] [notice ] [bug_report ] [10884:14856] Payload was successfully submitted
+[2019-08-15 15:44:13.908] [notice ] [crashguard ] [17756: 7172] Process monitoring installed.
+[2019-08-15 15:44:13.913] [notice ] [bug_report ] [17756:11692] Processing package type 0.
+[2019-08-15 15:44:13.953] [notice ] [bug_report ] [17756:11692] About to submit payload of type 1.1
+[2019-08-15 15:44:13.953] [warning] [bug_report ] [17756:11692] * Payload name was not set.
+[2019-08-15 15:44:14.554] [warning] [commchannel] [17756: 3020] Canceling async operation with Channel::Close()
+[2019-08-15 15:44:14.566] [notice ] [bug_report ] [17756:11692] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-08-15 15:44:14.581] [notice ] [bug_report ] [17756:11692] Payload was successfully submitted
+[2019-08-20 08:44:13.722] [notice ] [crashguard ] [19844: 8988] Process monitoring installed.
+[2019-08-20 08:44:13.726] [notice ] [bug_report ] [19844:13076] Processing package type 0.
+[2019-08-20 08:44:13.768] [notice ] [bug_report ] [19844:13076] About to submit payload of type 1.1
+[2019-08-20 08:44:13.771] [warning] [bug_report ] [19844:13076] * Payload name was not set.
+[2019-08-20 08:44:14.485] [warning] [commchannel] [19844:20724] Canceling async operation with Channel::Close()
+[2019-08-20 08:44:14.495] [notice ] [bug_report ] [19844:13076] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-08-20 08:44:14.508] [notice ] [bug_report ] [19844:13076] Payload was successfully submitted
+[2019-09-18 04:37:17.472] [notice ] [crashguard ] [ 9416:17328] Process monitoring installed.
+[2019-09-18 04:37:17.477] [notice ] [bug_report ] [ 9416:11056] Processing package type 0.
+[2019-09-18 04:37:17.531] [notice ] [bug_report ] [ 9416:11056] About to submit payload of type 1.1
+[2019-09-18 04:37:17.534] [warning] [bug_report ] [ 9416:11056] * Payload name was not set.
+[2019-09-18 04:37:18.225] [warning] [commchannel] [ 9416: 4816] Canceling async operation with Channel::Close()
+[2019-09-18 04:37:18.231] [notice ] [bug_report ] [ 9416:11056] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-09-18 04:37:18.236] [notice ] [bug_report ] [ 9416:11056] Payload was successfully submitted
+[2019-09-22 23:48:51.832] [notice ] [crashguard ] [ 4180:19244] Process monitoring installed.
+[2019-09-22 23:48:51.864] [notice ] [bug_report ] [ 4180:19480] Processing package type 0.
+[2019-09-22 23:48:51.911] [notice ] [bug_report ] [ 4180:19480] About to submit payload of type 1.1
+[2019-09-22 23:48:51.911] [warning] [bug_report ] [ 4180:19480] * Payload name was not set.
+[2019-09-22 23:48:52.629] [warning] [commchannel] [ 4180:11464] Canceling async operation with Channel::Close()
+[2019-09-22 23:48:52.629] [notice ] [bug_report ] [ 4180:19480] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-09-22 23:48:52.629] [notice ] [bug_report ] [ 4180:19480] Payload was successfully submitted
+[2019-10-02 13:41:44.800] [notice ] [crashguard ] [12920:18780] Process monitoring installed.
+[2019-10-02 13:41:44.805] [notice ] [bug_report ] [12920:10456] Processing package type 0.
+[2019-10-02 13:41:44.858] [notice ] [bug_report ] [12920:10456] About to submit payload of type 1.1
+[2019-10-02 13:41:44.861] [warning] [bug_report ] [12920:10456] * Payload name was not set.
+[2019-10-02 13:41:45.540] [warning] [commchannel] [12920: 1952] Canceling async operation with Channel::Close()
+[2019-10-02 13:41:45.547] [notice ] [bug_report ] [12920:10456] * Metadata submitted and we don't want this payload. Marking as reported.
+[2019-10-02 13:41:45.557] [notice ] [bug_report ] [12920:10456] Payload was successfully submitted
+[2020-01-26 07:45:00.316] [notice ] [crashguard ] [23340:23996] Process monitoring installed.
+[2020-01-26 07:45:00.332] [notice ] [bug_report ] [23340:15648] Processing package type 0.
+[2020-01-26 07:45:00.401] [notice ] [bug_report ] [23340:15648] About to submit payload of type 1.1
+[2020-01-26 07:45:00.401] [warning] [bug_report ] [23340:15648] * Payload name was not set.
+[2020-01-26 07:45:01.499] [warning] [commchannel] [23340:12256] Canceling async operation with Channel::Close()
+[2020-01-26 07:45:01.504] [notice ] [bug_report ] [23340:15648] * Metadata submitted and we don't want this payload. Marking as reported.
+[2020-01-26 07:45:01.509] [notice ] [bug_report ] [23340:15648] Payload was successfully submitted

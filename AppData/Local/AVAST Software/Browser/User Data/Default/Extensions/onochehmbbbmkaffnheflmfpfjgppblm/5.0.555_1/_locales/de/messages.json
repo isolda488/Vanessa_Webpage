@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blockiert von"
+   },
+   "LoggerList": {
+      "message": "Liste"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Typ"
+   },
+   "LoggerWhitelisting": {
+      "message": "Whitelisting"
+   },
+   "add": {
+      "message": "Hinzufügen"
+   },
+   "addSite": {
+      "message": "Seite hinzufügen"
+   },
+   "adsTrackersAllowed": {
+      "message": "Werbung und Tracker sind auf dieser Seite erlaubt"
+   },
+   "adsTrackersBlocked": {
+      "message": "Blockierte Werbeanzeigen und Tracker"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Werbung auf den folgenden Seiten immer zulassen"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ Versuch entdeckt"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ Versuche entdeckt"
+   },
+   "balancedBlocking": {
+      "message": "Ausgewogene Blockierung"
+   },
+   "balancedBlockingDescription": {
+      "message": "Bekannte Tracker und noch mehr Werbung für ein schnelleres Surferlebnis blockieren."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Alle in Basic Blocking und Social Media-Anzeigen"
+   },
+   "balancedBlockingName": {
+      "message": "Ausgewogen"
+   },
+   "basicBlocking": {
+      "message": "Grundlegende Blockierung"
+   },
+   "basicBlockingDescription": {
+      "message": "Bekannte Tracker und Werbung blockieren, die Ihr Surferlebnis stören."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Bekannte Tracker, Pop-Up- und Banner-Werbung, einschließlich Videos"
+   },
+   "blockAdsSearch": {
+      "message": "Werbung in Sucheergebnissen blockieren"
+   },
+   "blockSearchAds": {
+      "message": "Werbung in Suchergebnissen blockieren"
+   },
+   "blockSearchAdsMore": {
+      "message": "Die Einstellungen für \u003Cu>Weitere Informationen\u003C/u> besuchen"
+   },
+   "blockingOff": {
+      "message": "Blockierung ist deaktiviert"
+   },
+   "blockingOptions": {
+      "message": "Blockierungsoptionen"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Vorgang zum Hinzufügen einer Webseite abbrechen"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Vorgang zum Bearbeiten einer Webseite abbrechen"
+   },
+   "cancelSetStrict": {
+      "message": "Vorgang zur Auswahl des strengen Modus abbrechen"
+   },
+   "clearLogger": {
+      "message": "Loggerverlauf löschen"
+   },
+   "edit": {
+      "message": "Bearbeiten"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Webseite aus der Whitelist bearbeiten"
+   },
+   "essentialBlockingName": {
+      "message": "Grundlegend"
+   },
+   "extShortDesc": {
+      "message": "Endlich ein effizienter Blocker mit geringem CPU- und Arbeitsspeicherbedarf."
+   },
+   "fingerprintBlocked": {
+      "message": "Blockierte Browser-Fingerabdrücke"
+   },
+   "generalSettings": {
+      "message": "Allgemeine Einstellungen"
+   },
+   "goToStrict": {
+      "message": "Zu \"Streng\""
+   },
+   "keepFree": {
+      "message": "Kostenlos zur Verfügung stellen"
+   },
+   "keep_balanced": {
+      "message": "Ausgewogene Blockierung beibehalten"
+   },
+   "keep_essential": {
+      "message": "Grundlegend behalten"
+   },
+   "learnMore": {
+      "message": "Mehr erfahren"
+   },
+   "pgLogger": {
+      "message": "Privacy Guard Logger"
+   },
+   "pgSettings": {
+      "message": "Einstellungen ändern"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Einstellungen für Privacy Guard"
+   },
+   "privacyGuard": {
+      "message": "Privatsphäre-Schutz"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "Schutz ist AUS"
+   },
+   "protectionOn": {
+      "message": "Schutz ist EIN"
+   },
+   "protectionPaused": {
+      "message": "Schutz ist pausiert"
+   },
+   "recommended": {
+      "message": "Empfohlen"
+   },
+   "refreshWarning": {
+      "message": "Wenn Sie Privacy Guard ein- oder ausschalten, wird Ihre Seite automatisch aktualisiert, und die von Ihnen vorgenommenen Änderungen werden möglicherweise nicht gespeichert. Bitte stellen Sie sicher, dass Sie Ihre Arbeit speichern, bevor Sie Privacy Guard ändern."
+   },
+   "remove": {
+      "message": "Entfernen"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Webseite in der Whitelist speichern"
+   },
+   "setStrict": {
+      "message": "Strenge Blockierung einstellen"
+   },
+   "setStrictDescription_avast": {
+      "message": "Die Finanzierung von Avast Secure Browser erfolgt mithilfe einer sehr geringen Anzahl nicht invasiver Werbeanzeigen. Diese führen zu einer Beeinträchtigung Ihres Surferlebnisses und sorgen dafür, dass Ihre Browser weiterhin kostenlos bleibt. Wir bitten Sie daher inständig, diese Anzeigen zuzulassen."
+   },
+   "setStrictDescription_avg": {
+      "message": "Die Finanzierung von AVG Secure Browser erfolgt mithilfe einer sehr geringen Anzahl nicht invasiver Werbeanzeigen. Diese führen zu einer Beeinträchtigung Ihres Surferlebnisses und sorgen dafür, dass Ihre Browser weiterhin kostenlos bleibt. Wir bitten Sie daher inständig, diese Anzeigen zuzulassen."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Die Finanzierung von CCleaner Browser erfolgt über einigen wenige nicht invasive Werbeanzeigen. Diese führen zu keiner Beeinträchtigung Ihres Surferlebnisses und sorgen dafür, dass Ihr Browser weiterhin kostenlos bleibt. Bitte seien Sie daher so lieb und lassen diese Werbeanzeigen zu."
+   },
+   "setStrictMode": {
+      "message": "Strengen Modus auswählen"
+   },
+   "setStrictTitle": {
+      "message": "Privatsphäre-Schutz auf streng setzen"
+   },
+   "setToBalanced": {
+      "message": "Sie haben die Ausgewogene Blockierung eingestellt"
+   },
+   "setToBasic": {
+      "message": "Sie haben die Grundlegende Blockierung eingestellt"
+   },
+   "setToStrict": {
+      "message": "Sie haben die Strenge Blockierung eingestellt"
+   },
+   "settingsDescription": {
+      "message": "Verbesserter Schutz der Privatsphäre. Ihre Identität vor Trackern und mehr schützen.\nWerbung und Tracker für schnelleres und sichereres Surfen blockieren."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Anzahl der blockierten Anzeigen auf dem Symbol anzeigen"
+   },
+   "site": {
+      "message": "Seite"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Seiten, auf denen Sie Anzeigen zugelassen haben, werden hier angeführt"
+   },
+   "spc": {
+      "message": "Sicherheits- und Datenschutz-Center"
+   },
+   "stayOn_balanced": {
+      "message": "Ausgewogenen Modus beibehalten"
+   },
+   "stayOn_essential": {
+      "message": "Grundlegenden Modus beibehalten"
+   },
+   "strictBlocking": {
+      "message": "Strenge Blockierung"
+   },
+   "strictBlockingDescription": {
+      "message": "Alles automatisch für ein schnelleres, ununterbrochenes Browser-Erlebnis blockieren."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Diese Einstellung kann dazu führen, dass einige Webseiten nicht ordnungsgemäß geladen werden (einige Inhalte werden möglicherweise nicht angezeigt, oder die Webseite sieht kaputt aus. Deaktivieren Sie in diesen Fällen diese Einstellung)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Alle wie Balanced Blocking und Browser-Benachrichtigungen und Fingerabdruck"
+   },
+   "strictBlockingName": {
+      "message": "Streng"
+   },
+   "strictModalDescription": {
+      "message": "Um unseren Browser kostenlos zu halten, sind wir von Partnern abhängig, die uns durch nicht störende und benutzerfreundliche Werbung finanzieren. Unser Ziel ist es, Ihnen die Möglichkeit zu geben, Ihre Privatsphäre zu verbessern und Ihre Online-Identität zu schützen"
+   },
+   "strictModalTitle": {
+      "message": "Helfen Sie, unseren Browser kostenlos zur Verfügung zu stellen"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Insgesamt __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Gehen Sie zu \u003Cb>\u003Cu>Sicherheit & Datenschutzzentrum\u003C/u>\u003C/b>\n für weitere Einstellungen"
+   },
+   "whitelistModalDescription": {
+      "message": "Auf welcher Webseite möchten Sie Werbeanzeigen zulassen?"
+   },
+   "youWillBlock": {
+      "message": "Sie blockieren: "
+   }
+}

@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Hỏi tôi bất cứ điều gì..."
+   },
+   "clearChat": {
+      "message": "Xóa cuộc trò chuyện"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Đã xảy ra lỗi. Tin nhắn đã gửi quá dài, hãy bắt đầu cuộc trò chuyện mới và gửi tin nhắn ngắn hơn."
+   },
+   "example_0": {
+      "message": "“EGiải thích quy trình sản xuất rượu vang.”"
+   },
+   "example_1": {
+      "message": "“Liệt kê ý tưởng quà tặng sinh nhật cho cậu bé 14 tuổi.”"
+   },
+   "example_2": {
+      "message": "“Giúp tôi lên kế hoạch cho chuyến đi 7 ngày tới Tokyo.”"
+   },
+   "examples": {
+      "message": "Ví dụ:"
+   },
+   "exploreGenie": {
+      "message": "Khám phá Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Tiện ích AI Trò chuyện"
+   },
+   "extTitle": {
+      "message": "Tiện ích AI Trò chuyện"
+   },
+   "freshChat": {
+      "message": "Nếu bạn không còn thắc mắc nào nữa, chúng tôi sẽ xóa cuộc trò chuyện này sau 5 phút nữa để bạn có thể bắt đầu cuộc trò chuyện mới."
+   },
+   "genieDescription": {
+      "message": "Genie có thể phát hiện xem văn bản, email, trang web hoặc bài đăng trên mạng xã hội có phải là lừa đảo hay không trong vòng vài giây. Chỉ cần sao chép và dán hoặc tải ảnh chụp màn hình của các tin nhắn đáng ngờ lên ứng dụng và công cụ này sẽ cho bạn biết ngay lập tức liệu đó có thể là một trò lừa đảo hay không."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Rất tiếc, tôi không thể hỗ trợ yêu cầu này."
+   },
+   "initialScreenSubtitle": {
+      "message": "Nhận câu trả lời bạn đang tìm kiếm với AI Trò chuyện."
+   },
+   "initialScreenTitle": {
+      "message": "Bạn có thắc mắc điều gì không? Hãy hỏi tôi nhé…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Đã xảy ra lỗi. Tin nhắn đã gửi quá dài, hãy gửi tin nhắn ngắn hơn."
+   },
+   "limitError": {
+      "message": "Bạn đã đạt đến giới hạn tin nhắn cho phiên này. Hãy thử xóa cuộc trò chuyện để bắt đầu lại."
+   },
+   "limitErrorMessage": {
+      "message": "Bạn đã đạt đến giới hạn tin nhắn cho phiên này. Hãy thử xóa cuộc trò chuyện để bắt đầu lại."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Bạn còn ở đó không?\u003C/b> Bạn đã không viết gì cả trong một khoảng thời gian."
+   },
+   "suggestedSearch": {
+      "message": "Tìm kiếm đề xuất"
+   },
+   "tooManyRequestsError": {
+      "message": "Quá nhiều yêu cầu. Hãy thử lại sau."
+   },
+   "tryAsking": {
+      "message": "Hãy thử hỏi "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, công cụ phát hiện lừa đảo được hỗ trợ bởi AI theo thời gian thực của chúng tôi."
+   }
+}

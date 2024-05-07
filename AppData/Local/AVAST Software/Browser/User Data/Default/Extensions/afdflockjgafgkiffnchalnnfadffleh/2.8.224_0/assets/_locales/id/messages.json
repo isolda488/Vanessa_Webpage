@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Pengunduh Video"
+    },
+    "appDesc": {
+        "message": "Unduh video untuk ditonton secara offline"
+    },
+    "barMediaBtn": {
+        "message": "Media",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Unduh",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Pisahkan",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Pengaturan",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Jangan tampilkan lagi",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Jangan tampilkan di situs ini",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Informasi lebih lanjut",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Audio",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Didukung oleh Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Pengaturan",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Pengunduh Video",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Unduh video untuk ditonton secara offline.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Audio",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Unduh",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Satukan",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "ukuran tidak diketahui",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Tidak ada video yang bisa diunduh di halaman ini",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Untuk mengunduh video, buka halaman detailnya.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Pengunduh video dinonaktifkan untuk",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Aktifkan",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Dengan menerima <div><a target='blank' href='$link$'>Perjanjian Lisensi Pengguna Akhir<\/a><\/div> (EULA), Anda mengerti dan setuju bahwa penggunaan Pengunduh Video dengan mematuhi semua hukum hak cipta yang berlaku dan ketentuan penggunaan situs web merupakan tanggung jawab Anda.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Sebelum mengunduh",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Saya memahami dan menyetujui EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Lanjutkan",
+        "description": "EUlA continue button"
+    }
+}

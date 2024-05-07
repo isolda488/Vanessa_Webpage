@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Küsida võib kõike..."
+   },
+   "clearChat": {
+      "message": "Kustuta vestlus"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Ilmnes viga. Sisestatud sõnum oli liiga pikk, palun alusta uut vestlust ja sisesta lühem sõnum."
+   },
+   "example_0": {
+      "message": "“Selgita veinivalmistamise protsessi.”"
+   },
+   "example_1": {
+      "message": "“Paku ideid 14-aastasele poisile sünnipäevaks kingituse valimisel.”"
+   },
+   "example_2": {
+      "message": "“Aita planeerida 7-päevast reisi Tokyosse.”"
+   },
+   "examples": {
+      "message": "Näited:"
+   },
+   "exploreGenie": {
+      "message": "Tutvu Norton Genie'ga"
+   },
+   "extShortDesc": {
+      "message": "Tehisintellekti vestluslaiendus"
+   },
+   "extTitle": {
+      "message": "Tehisintellekti vestluslaiendus"
+   },
+   "freshChat": {
+      "message": "Kui rohkem küsimusi pole, siis kustutame selle vestluse 5 minuti pärast, et saaksid alustada uut vestlust."
+   },
+   "genieDescription": {
+      "message": "Genie suudab sekundite jooksul tuvastada, kas tekst, meil, veebisait või sotsiaalmeediapostitus võib olla pettus. Lihtsalt kopeeri ja kleebi või lae rakendusse üles kuvatõmmis kahtlasest sõnumist ning rakendus teatab kohe, kas tegemist võib olla pettusega."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Kahjuks ma ei saa selle taotluse puhul abistada."
+   },
+   "initialScreenSubtitle": {
+      "message": "Küsimustele leiab vastused tehisintellekti vestlusest."
+   },
+   "initialScreenTitle": {
+      "message": "Pakub huvi? Küsi kohe…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Ilmnes viga. Sisestatud sõnum oli liiga pikk, palun sisesta lühem sõnum."
+   },
+   "limitError": {
+      "message": "Selle sessiooni sõnumite limiit on täis. Uuesti alustamiseks kustuta vestlus."
+   },
+   "limitErrorMessage": {
+      "message": "Selle sessiooni sõnumite limiit on täis. Uuesti alustamiseks kustuta vestlus."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Oled endiselt liinil?\u003C/b> Sa pole juba mõnda aega midagi kirjutanud’."
+   },
+   "suggestedSearch": {
+      "message": "Soovitatavad otsingud"
+   },
+   "tooManyRequestsError": {
+      "message": "Liiga palju päringuid. Proovi hiljem uuesti."
+   },
+   "tryAsking": {
+      "message": "Proovi küsida "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, meie tehisintellektipõhine reaalajas töötav pettuste tuvastamise tööriist."
+   }
+}

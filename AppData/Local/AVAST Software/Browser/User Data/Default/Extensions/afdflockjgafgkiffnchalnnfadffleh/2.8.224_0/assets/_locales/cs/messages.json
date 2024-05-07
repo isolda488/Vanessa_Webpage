@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Stahovač videí"
+    },
+    "appDesc": {
+        "message": "Stáhněte si videa pro prohlížení offline"
+    },
+    "barMediaBtn": {
+        "message": "Média",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Stáhnout",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Odpojit",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Nastavení",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Příště již nezobrazovat",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Na tomto webu nezobrazovat",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Více informací",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Zvuk",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Využívá Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Nastavení",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Stahovač videí",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Stáhněte si videa pro prohlížení offline.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Zvuk",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Stáhnout",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Znovu připojit",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "neznámá velikost",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Na této stránce nejsou žádná videa ke stažení",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Chcete-li stáhnout video, přejděte na příslušnou stránku s podrobnostmi.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Stahovač videí je vypnutý pro",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Zapnout",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Přijetím našeho <div><a target='blank' href='$link$'>licenčního ujednání s koncovým uživatelem<\/a><\/div> (EULA) potvrdíte a odsouhlasíte, že se při používání Stahovače videí budete řídit platnými zákony na ochranu autorských práv a podmínkami používání příslušných webových stránek.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Před stažením",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Chápu a přijímám dokument EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Pokračovat",
+        "description": "EUlA continue button"
+    }
+}

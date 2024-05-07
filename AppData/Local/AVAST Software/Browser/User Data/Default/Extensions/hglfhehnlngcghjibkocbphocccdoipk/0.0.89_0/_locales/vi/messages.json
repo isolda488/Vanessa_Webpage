@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Giao tiếp"
+   },
+   "extShortDesc": {
+      "message": "Tiện ích mở rộng Bảng điều khiển bên của trình duyệt"
+   },
+   "extTitle": {
+      "message": "Tiện ích mở rộng Bảng điều khiển bên"
+   },
+   "featured": {
+      "message": "Nổi bật"
+   },
+   "music": {
+      "message": "Nhạc"
+   },
+   "notes": {
+      "message": "Ghi chú"
+   },
+   "social": {
+      "message": "Xã hội"
+   }
+}

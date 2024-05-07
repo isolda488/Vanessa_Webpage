@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Bloqué par"
+   },
+   "LoggerList": {
+      "message": "Liste"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Type"
+   },
+   "LoggerWhitelisting": {
+      "message": "Liste blanche"
+   },
+   "add": {
+      "message": "Ajouter"
+   },
+   "addSite": {
+      "message": "Ajouter un site"
+   },
+   "adsTrackersAllowed": {
+      "message": "Les annonces et outils de suivi sont autorisés sur ce site"
+   },
+   "adsTrackersBlocked": {
+      "message": "Les annonces et outils de suivi sont bloqués"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Toujours autoriser les pubs sur les sites suivants"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ tentative détectée"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ tentatives détectées"
+   },
+   "balancedBlocking": {
+      "message": "Blocage modéré"
+   },
+   "balancedBlockingDescription": {
+      "message": "Bloquez les outils de suivi connus, et encore plus d'annonces pour une navigation plus rapide."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Tout dans le blocage de base et les publicités sur les réseaux sociaux"
+   },
+   "balancedBlockingName": {
+      "message": "Modéré"
+   },
+   "basicBlocking": {
+      "message": "Blocage basique"
+   },
+   "basicBlockingDescription": {
+      "message": "Bloquez les outils de suivi connus et les annonces qui perturbent votre navigation."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Outils de suivi connus, messages contextuels et bannières publicitaires, y compris les vidéos"
+   },
+   "blockAdsSearch": {
+      "message": "Bloquer les annonces dans les résultats de recherche"
+   },
+   "blockSearchAds": {
+      "message": "Bloquer les annonces des résultats de recherche"
+   },
+   "blockSearchAdsMore": {
+      "message": "Pour \u003Cu>Plus d'informations\u003C/u>, accédez à vos paramètres"
+   },
+   "blockingOff": {
+      "message": "Le blocage est désactivé"
+   },
+   "blockingOptions": {
+      "message": "Options de blocage"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Annuler l'opération Ajouter le site"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Annuler l'opération Modifier le site"
+   },
+   "cancelSetStrict": {
+      "message": "Annuler l'opération Passer en mode strict"
+   },
+   "clearLogger": {
+      "message": "Effacer l’historique du journal"
+   },
+   "edit": {
+      "message": "Modifier"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Modifier le site de la liste blanche"
+   },
+   "essentialBlockingName": {
+      "message": "Basique"
+   },
+   "extShortDesc": {
+      "message": "Enfin un bloqueur efficace qui ménage le processeur et la mémoire vive de votre appareil."
+   },
+   "fingerprintBlocked": {
+      "message": "La capture d’empreinte numérique du navigateur est bloquée"
+   },
+   "generalSettings": {
+      "message": "Paramètres généraux"
+   },
+   "goToStrict": {
+      "message": "Aller à Strict"
+   },
+   "keepFree": {
+      "message": "Conserver la gratuité"
+   },
+   "keep_balanced": {
+      "message": "Rester en mode modéré"
+   },
+   "keep_essential": {
+      "message": "Conserver le blocage basique"
+   },
+   "learnMore": {
+      "message": "En savoir plus"
+   },
+   "pgLogger": {
+      "message": "Journal de l’Agent de confidentialité"
+   },
+   "pgSettings": {
+      "message": "Changer les paramètres"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Paramètres de l’Agent de confidentialité"
+   },
+   "privacyGuard": {
+      "message": "Agent de confidentialité"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "protection désactivée"
+   },
+   "protectionOn": {
+      "message": "protection activée"
+   },
+   "protectionPaused": {
+      "message": "protection en pause"
+   },
+   "recommended": {
+      "message": "Recommandé"
+   },
+   "refreshWarning": {
+      "message": "Lorsque vous activez ou désactivez l’Agent de confidentialité, votre page est automatiquement actualisée et les modifications apportées peuvent ne pas être enregistrées. Assurez-vous de sauvegarder votre travail avant de modifier l’Agent de confidentialité."
+   },
+   "remove": {
+      "message": "Supprimer"
+   },
+   "save": {
+      "message": "Enregistrer"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Mettre ce site sur liste blanche"
+   },
+   "setStrict": {
+      "message": "Passer en mode strict"
+   },
+   "setStrictDescription_avast": {
+      "message": "Quelques publicités non intrusives nous aident à financer Avast Secure Browser. Elles n'interrompent pas votre navigation et contribuent à la clarté de votre navigateur. Autoriser ces publicités serait une belle preuve d'affection !"
+   },
+   "setStrictDescription_avg": {
+      "message": "Quelques publicités non intrusives nous aident à financer AVG Secure Browser. Elles n'interrompent pas votre navigation et contribuent à la clarté de votre navigateur. Autoriser ces publicités serait une belle preuve d'affection !"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Quelques publicités non intrusives nous aident à financer CCleaner Secure Browser. Elles n'interrompent pas votre navigation et contribuent à la clarté de votre navigateur. Autoriser ces publicités serait une belle preuve d'affection !"
+   },
+   "setStrictMode": {
+      "message": "Passer en mode Strict"
+   },
+   "setStrictTitle": {
+      "message": "Définir l'Agent de confidentialité en mode strict"
+   },
+   "setToBalanced": {
+      "message": "Vous avez défini le blocage modéré"
+   },
+   "setToBasic": {
+      "message": "Vous avez défini le blocage basique"
+   },
+   "setToStrict": {
+      "message": "Vous avez défini le blocage strict"
+   },
+   "settingsDescription": {
+      "message": "Protection renforcée de la confidentialité. Préservez votre identité des outils de suivi et autres éléments.\nBloquez les annonces et les outils de suivi pour une navigation plus rapide et plus sécurisée."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Afficher le nombre de pubs bloquées sur l'icône"
+   },
+   "site": {
+      "message": "Site"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Les sites sur lesquels vous avez autorisé l'affichage de pubs apparaîtront ici"
+   },
+   "spc": {
+      "message": "Centre de sécurité et de confidentialité"
+   },
+   "stayOn_balanced": {
+      "message": "Rester en mode Modéré"
+   },
+   "stayOn_essential": {
+      "message": "Rester en mode Basique"
+   },
+   "strictBlocking": {
+      "message": "Blocage strict"
+   },
+   "strictBlockingDescription": {
+      "message": "Bloquez automatiquement tous les éléments pour une navigation plus rapide et sans interruptions."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Ce paramètre peut perturber le chargement de certains sites (il pourrait empêcher l'affichage de certains contenus). Si un site semble brisé, désactivez ce paramètre."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Tout dans le blocage équilibré, les notifications du navigateur et les empreintes"
+   },
+   "strictBlockingName": {
+      "message": "Strict"
+   },
+   "strictModalDescription": {
+      "message": "Pour que notre navigateur reste gratuit, nous dépendons de partenaires qui nous financent par le biais de publicités conviviales et non perturbatrices. Notre objectif est de vous permettre d’améliorer votre confidentialité et de protéger votre identité en ligne"
+   },
+   "strictModalTitle": {
+      "message": "Aidez-nous à assurer la gratuité de notre navigateur"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Total __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Accédez au \u003Cb>\u003Cu>Centre de sécurité et de confidentialité\u003C/u>\u003C/b>\n pour les autres paramètres"
+   },
+   "whitelistModalDescription": {
+      "message": "Sur quel site souhaitez-vous autoriser les publicités ?"
+   },
+   "youWillBlock": {
+      "message": "Vous bloquerez : "
+   }
+}

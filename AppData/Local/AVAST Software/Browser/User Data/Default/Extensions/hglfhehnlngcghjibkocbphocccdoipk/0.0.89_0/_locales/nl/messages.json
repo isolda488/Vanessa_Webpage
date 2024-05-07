@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Communicatie"
+   },
+   "extShortDesc": {
+      "message": "Zijvenster-extensie van browser"
+   },
+   "extTitle": {
+      "message": "Zijvenster-extensie"
+   },
+   "featured": {
+      "message": "Aanbevolen"
+   },
+   "music": {
+      "message": "Muziek"
+   },
+   "notes": {
+      "message": "Notities"
+   },
+   "social": {
+      "message": "Sociaal"
+   }
+}

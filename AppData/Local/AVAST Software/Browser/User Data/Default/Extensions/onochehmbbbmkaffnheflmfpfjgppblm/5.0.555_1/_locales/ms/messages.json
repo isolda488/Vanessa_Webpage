@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Disekat Oleh"
+   },
+   "LoggerList": {
+      "message": "Senarai"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Jenis"
+   },
+   "LoggerWhitelisting": {
+      "message": "Senarai putih"
+   },
+   "add": {
+      "message": "Tambah"
+   },
+   "addSite": {
+      "message": "Tambah tapak"
+   },
+   "adsTrackersAllowed": {
+      "message": "Iklan & penjejak dibenarkan di tapak ini"
+   },
+   "adsTrackersBlocked": {
+      "message": "Iklan & penjejak disekat"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Sentiasa benarkan iklan pada tapak berikut"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ percubaan dikesan"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ percubaan dikesan"
+   },
+   "balancedBlocking": {
+      "message": "Sekatan Seimbang"
+   },
+   "balancedBlockingDescription": {
+      "message": "Sekat penjejak yang diketahui, malah lebih banyak iklan untuk pengalaman pelayaran yang lebih laju."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Semua dalam Penyekatan Asas dan iklan media Sosial"
+   },
+   "balancedBlockingName": {
+      "message": "Seimbang"
+   },
+   "basicBlocking": {
+      "message": "Sekatan Asas"
+   },
+   "basicBlockingDescription": {
+      "message": "Sekat penjejak yang diketahui dan iklan yang mengganggu pengalaman pelayaran anda."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Penjejak diketahui, Menu timbul dan iklan sepanduk, termasuk video"
+   },
+   "blockAdsSearch": {
+      "message": "Sekat iklan dalam hasil carian"
+   },
+   "blockSearchAds": {
+      "message": "Sekat iklan hasil carian"
+   },
+   "blockSearchAdsMore": {
+      "message": "Lawat tetapan untuk \u003Cu>Maklumat lanjut\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Sekatan dimatikan"
+   },
+   "blockingOptions": {
+      "message": "Pilihan sekatan"
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Batalkan operasi tambah tapak"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Batalkan operasi edit tapak"
+   },
+   "cancelSetStrict": {
+      "message": "Batalkan set operasi mod Tegas"
+   },
+   "clearLogger": {
+      "message": "Kosongkan sejarah pengelog"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Edit tapak daripada senarai putih"
+   },
+   "essentialBlockingName": {
+      "message": "Asas"
+   },
+   "extShortDesc": {
+      "message": "Akhirnya, penyekat yang cekap. Tidak membebankan CPU dan memori."
+   },
+   "fingerprintBlocked": {
+      "message": "Pengecapan jari pelayar disekat"
+   },
+   "generalSettings": {
+      "message": "Tetapan umum"
+   },
+   "goToStrict": {
+      "message": "Pergi ke Strict"
+   },
+   "keepFree": {
+      "message": "Terus bebas"
+   },
+   "keep_balanced": {
+      "message": "Kekalkan seimbang"
+   },
+   "keep_essential": {
+      "message": "Kekalkan asas"
+   },
+   "learnMore": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "pgLogger": {
+      "message": "Pengelog Pengawal Privasi"
+   },
+   "pgSettings": {
+      "message": "Tukar tetapan"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Tetapan Pengawal Privasi"
+   },
+   "privacyGuard": {
+      "message": "Pengawal Privasi"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "perlindungan MATI"
+   },
+   "protectionOn": {
+      "message": "perlindungan HIDUP"
+   },
+   "protectionPaused": {
+      "message": "perlindungan dijeda"
+   },
+   "recommended": {
+      "message": "Disyorkan"
+   },
+   "refreshWarning": {
+      "message": "Apabila anda HIDUPKAN atau MATIKAN Pengawal Privasi, halaman anda akan dimuat semula secara automatik dan perubahan yang anda buat mungkin tidak disimpan. Sila pastikan anda menyimpan mana-mana kerja sebelum menukar Pengawal Privasi."
+   },
+   "remove": {
+      "message": "Alih keluar"
+   },
+   "save": {
+      "message": "Simpan"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Simpan tapak ke dalam senarai putih"
+   },
+   "setStrict": {
+      "message": "Tetapkan ketegasan"
+   },
+   "setStrictDescription_avast": {
+      "message": "Beberapa iklan yang tidak mengganggu membantu kami membiayai Avast Secure Browser. Iklan ini tidak mengganggu pelayaran anda dan membantu memastikan pelayar anda percuma. Berikan sedikit kasih sayang kepada kami dengan membenarkan iklan ini."
+   },
+   "setStrictDescription_avg": {
+      "message": "Beberapa iklan yang tidak mengganggu membantu kami membiayai AVG Secure Browser. Iklan ini tidak mengganggu pelayaran anda dan membantu memastikan pelayar anda percuma. Berikan sedikit kasih sayang kepada kami dengan membenarkan iklan ini."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Beberapa iklan yang tidak mengganggu membantu kami membiayai CCleaner Browser. Iklan ini tidak mengganggu pelayaran anda dan membantu memastikan pelayar anda percuma. Berikan sedikit kasih sayang kepada kami dengan membenarkan iklan ini."
+   },
+   "setStrictMode": {
+      "message": "Tetapkan mod Tegas"
+   },
+   "setStrictTitle": {
+      "message": "Tetapkan Pengawal Privasi kepada tegas"
+   },
+   "setToBalanced": {
+      "message": "Anda ditetapkan kepada Sekatan Seimbang"
+   },
+   "setToBasic": {
+      "message": "Anda ditetapkan kepada Sekatan Asas"
+   },
+   "setToStrict": {
+      "message": "Anda ditetapkan kepada Sekatan Tegas"
+   },
+   "settingsDescription": {
+      "message": "Perlindungan privasi dipertingkat. Lindungi identiti anda daripada penjejak dan banyak lagi. Sekat iklan & penjejak daripada pelayaran yang lebih laju dan selamat."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Paparkan bilangan iklan yang disekat pada ikon"
+   },
+   "site": {
+      "message": "Tapak"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Tapak yang anda benarkan iklan akan dipaparkan di sini"
+   },
+   "spc": {
+      "message": "Pusat Keselamatan & Privasi"
+   },
+   "stayOn_balanced": {
+      "message": "Terus menggunakan mod seimbang"
+   },
+   "stayOn_essential": {
+      "message": "Terus menggunakan mod penting"
+   },
+   "strictBlocking": {
+      "message": "Sekatan Tegas"
+   },
+   "strictBlockingDescription": {
+      "message": "Sekat segala-galanya secara automatik untuk pengalaman pelayar yang lebih laju dan tanpa gangguan."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Tetapan ini mungkin menyebabkan beberapa tapak tidak dimuatkan dengan betul (beberapa kandungan mungkin tidak dipaparkan atau jika tapak kelihatan rosak, matikan tetapan ini)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Semua sebagai Penyekatan Seimbang dan pemberitahuan pelayar dan cap jari"
+   },
+   "strictBlockingName": {
+      "message": "Tegas"
+   },
+   "strictModalDescription": {
+      "message": "Untuk memastikan penyemak imbas kami bebas, kami bergantung kepada rakan kongsi yang membiayai kami melalui beberapa iklan yag tidak mengganggu dan mesra pengguna. Matlamat kami ialah untuk membolehkan anda mempertingkatkan privasi anda dan melindungi identiti dalam talian anda"
+   },
+   "strictModalTitle": {
+      "message": "Bantu pastikan penyemak imbas kami bebas"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Jumlah __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Lawati \u003Cb>\u003Cu>Pusat Keselamatan & Privasi\u003C/u>\u003C/b>\nuntuk tetapan lain"
+   },
+   "whitelistModalDescription": {
+      "message": "Tapak manakah yang anda ingin benarkan iklan?"
+   },
+   "youWillBlock": {
+      "message": "Anda akan menyekat: "
+   }
+}

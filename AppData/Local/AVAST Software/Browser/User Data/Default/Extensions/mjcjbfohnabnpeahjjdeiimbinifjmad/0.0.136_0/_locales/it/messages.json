@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Chiedimi qualsiasi cosa..."
+   },
+   "clearChat": {
+      "message": "Cancella chat"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "Si è verificato un errore. Il messaggio inviato era troppo lungo, inizia una nuova chat e invia un messaggio più breve."
+   },
+   "example_0": {
+      "message": "“Spiega il processo di vinificazione.”"
+   },
+   "example_1": {
+      "message": "“Fammi un elenco di idee regalo per il compleanno di un ragazzo di 14 anni.”"
+   },
+   "example_2": {
+      "message": "“Aiutami a pianificare un viaggio di 7 giorni a Tokyo.”"
+   },
+   "examples": {
+      "message": "Esempi:"
+   },
+   "exploreGenie": {
+      "message": "Esplora Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Estensione AI Chat"
+   },
+   "extTitle": {
+      "message": "Estensione AI Chat"
+   },
+   "freshChat": {
+      "message": "Se non hai altre domande, cancelleremo questa chat entro 5 minuti, così potrai iniziare una nuova conversazione."
+   },
+   "genieDescription": {
+      "message": "Genie è in grado di rilevare in pochi secondi se testi, e-mail, siti web o post sui social media sono una truffa. Basta copiare e incollare o caricare degli screenshot di messaggi sospetti sull'app e scopri immediatamente se potrebbe trattarsi di una truffa."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Mi dispiace, ma non posso aiutarti con questa richiesta."
+   },
+   "initialScreenSubtitle": {
+      "message": "Trova le risposte di cui hai bisogno con AI Chat."
+   },
+   "initialScreenTitle": {
+      "message": "Domande? Mettimi alla prova…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "Si è verificato un errore. Il messaggio inviato è troppo lungo, invia un messaggio più breve."
+   },
+   "limitError": {
+      "message": "Hai raggiunto il limite di messaggi per questa sessione. Prova a cancellare la chat per ricominciare."
+   },
+   "limitErrorMessage": {
+      "message": "Hai raggiunto il limite di messaggi per questa sessione. Prova a cancellare la chat per ricominciare."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Ancora lì?\u003C/b> È da un po' che non scrivi nulla."
+   },
+   "suggestedSearch": {
+      "message": "Ricerche suggerite"
+   },
+   "tooManyRequestsError": {
+      "message": "Troppe richieste. Riprova più tardi."
+   },
+   "tryAsking": {
+      "message": "Prova a chiedere "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, il nostro strumento di rilevamento delle truffe in tempo reale basato sull'IA."
+   }
+}

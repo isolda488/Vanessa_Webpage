@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "वीडियो डाउनलोडर"
+    },
+    "appDesc": {
+        "message": "ऑफ़लाइन देखने के लिए वीडियो डाउनलोड करें"
+    },
+    "barMediaBtn": {
+        "message": "मीडिया",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "डाउनलोड करें",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "अलग करें",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "सेटिंग",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "फिर से न दिखाएँ",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "इस साइट पर न दिखाएँ",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "अधिक जानकारी",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "वीडियो",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "ऑडियो",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "द्वारा संचालित Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "सेटिंग",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "वीडियो डाउनलोडर",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "ऑफ़लाइन देखने के लिए वीडियो डाउनलोड करें.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "ऑडियो",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "वीडियो",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "डाउनलोड करें",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "पुनः संलग्न करें",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "अज्ञात आकार",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "इस पृष्ठ पर डाउनलोड करने के लिए कोई वीडियो नहीं है",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "विडियो को डाउनलोड करने के लिए, उसके जानकारी पृष्ठ पर जाएँ.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "इसके लिए वीडियो डाउनलोडर अक्षम है",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "सक्षम करें",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "हमारे <div><a target='blank' href='$link$'>अंतिम उपयोगकर्ता लाइसेंस अनुबंध<\/a><\/div> (EULA) को स्वीकार करने से, आप अपनी स्वीकृति और सहमति देते हैं कि लागू कॉपीराइट कानूनों और किसी भी वेबसाइट के उपयोग की शर्तों के अनुपालन में वीडियो डाउनलोडर का उपयोग करना आपकी जिम्मेदारी है.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "डाउनलोड करने से पहले",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "मैं EULA को समझता और स्वीकार करता हूँ",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "जारी रखें",
+        "description": "EUlA continue button"
+    }
+}

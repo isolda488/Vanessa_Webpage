@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "التواصل"
+   },
+   "extShortDesc": {
+      "message": "ملحق اللوحة الجانبية للمتصفح"
+   },
+   "extTitle": {
+      "message": "ملحق اللوحة الجانبية"
+   },
+   "featured": {
+      "message": "مميز"
+   },
+   "music": {
+      "message": "الموسيقى"
+   },
+   "notes": {
+      "message": "ملاحظات"
+   },
+   "social": {
+      "message": "اجتماعي"
+   }
+}

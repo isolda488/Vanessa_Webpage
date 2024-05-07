@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Seuraava estää:"
+   },
+   "LoggerList": {
+      "message": "Lista"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Tyyppi"
+   },
+   "LoggerWhitelisting": {
+      "message": "Puoltolistaaminen"
+   },
+   "add": {
+      "message": "Lisää"
+   },
+   "addSite": {
+      "message": "Lisää sivusto"
+   },
+   "adsTrackersAllowed": {
+      "message": "Mainokset ja seuraimet sallitaan tällä sivustolla"
+   },
+   "adsTrackersBlocked": {
+      "message": "Mainokset ja seuraimet estetty"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Salli mainokset aina näillä sivustoilla"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ yritys havaittu"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ yritystä havaittu"
+   },
+   "balancedBlocking": {
+      "message": "Tasapainotettu esto"
+   },
+   "balancedBlockingDescription": {
+      "message": "Estä tunnetut seuraimet ja vielä enemmän mainoksia, jotta selauskokemus nopeutuu."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "Kaikki mitä Perusestossa ja sosiaalisen median mainokset"
+   },
+   "balancedBlockingName": {
+      "message": "Tasapainotettu"
+   },
+   "basicBlocking": {
+      "message": "Perusesto"
+   },
+   "basicBlockingDescription": {
+      "message": "Estä tunnetut seuraimet ja mainokset, jotka häiritsevät selauskokemustasi."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Tunnetut seuraimet, ponnahdusmainokset ja mainospalkit, mukaan lukien videot"
+   },
+   "blockAdsSearch": {
+      "message": "Estä mainokset hakutuloksissa"
+   },
+   "blockSearchAds": {
+      "message": "Estä hakukonemainonta"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>Lue lisää\u003C/u> asetuksista"
+   },
+   "blockingOff": {
+      "message": "Esto ei ole käytössä"
+   },
+   "blockingOptions": {
+      "message": "Estovaihtoehdot"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Peru sivuston lisäystoiminto"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Peru sivuston muokkaustoiminto"
+   },
+   "cancelSetStrict": {
+      "message": "Peru Tiukan tilan käyttöönottotoiminto"
+   },
+   "clearLogger": {
+      "message": "Tyhjennä lokihistoria"
+   },
+   "edit": {
+      "message": "Muokkaa"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Muokkaa sivustoa sallittujen luettelosta"
+   },
+   "essentialBlockingName": {
+      "message": "Perusesto"
+   },
+   "extShortDesc": {
+      "message": "Vihdoinkin tehokas mainosten esto. Ei rasita liikaa suoritinta eikä muistia."
+   },
+   "fingerprintBlocked": {
+      "message": "Selaimen tunnistetietojen keruu estetty"
+   },
+   "generalSettings": {
+      "message": "Yleiset asetukset"
+   },
+   "goToStrict": {
+      "message": "Siirry tiukkaan"
+   },
+   "keepFree": {
+      "message": "Pidä ilmainen"
+   },
+   "keep_balanced": {
+      "message": "Pidä tasapainotettu"
+   },
+   "keep_essential": {
+      "message": "Pidä Perusesto"
+   },
+   "learnMore": {
+      "message": "Lisätietoja"
+   },
+   "pgLogger": {
+      "message": "Yksityisyyssuojan loki"
+   },
+   "pgSettings": {
+      "message": "Vaihda asetuksia"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Yksityisyyssuojan asetukset"
+   },
+   "privacyGuard": {
+      "message": "Yksityisyyssuoja"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "suojaus on POISSA PÄÄLTÄ"
+   },
+   "protectionOn": {
+      "message": "suojaus on PÄÄLLÄ"
+   },
+   "protectionPaused": {
+      "message": "suojaus on keskeytetty"
+   },
+   "recommended": {
+      "message": "Suositeltu"
+   },
+   "refreshWarning": {
+      "message": "Kun otat Yksityisyyssuojan käyttöön tai pois käytöstä, sivu päivitetään automaattisesti, eikä mahdollisia muutoksiasi tallenneta. Muista tallentaa työsi ennen Yksityisyyssuojan muuttamista."
+   },
+   "remove": {
+      "message": "Poista"
+   },
+   "save": {
+      "message": "Tallenna"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Tallenna sivusto sallittujen luetteloon"
+   },
+   "setStrict": {
+      "message": "Aseta tiukka esto"
+   },
+   "setStrictDescription_avast": {
+      "message": "Jotkin harvat häiritsemättömät mainokset auttavat meitä rahoittamaan Avast Secure Browserin toimintaa. Ne eivät keskeytä selaamista, ja selain pysyy niiden ansiosta ilmaisena. Voit osoittaa rakkautesi meitä kohtaan sallimalla nämä mainokset."
+   },
+   "setStrictDescription_avg": {
+      "message": "Jotkin harvat häiritsemättömät mainokset auttavat meitä rahoittamaan AVG Secure Browserin kehitystä. Ne eivät keskeytä selaamista, ja selain pysyy niiden ansiosta ilmaisena. Voit osoittaa rakkautesi meitä kohtaan sallimalla nämä mainokset."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Muutaman häiritsemättömän mainoksen näyttäminen auttaa meitä rahoittamaan CCleaner Browserin kehitystä. Ne eivät keskeytä selaamista, ja selain pysyy niiden ansiosta ilmaisena. Voit osoittaa rakkautesi meitä kohtaan sallimalla nämä mainokset."
+   },
+   "setStrictMode": {
+      "message": "Ota tiukka tila käyttöön"
+   },
+   "setStrictTitle": {
+      "message": "Aseta Yksityisyyssuoja tiukkaan tilaan"
+   },
+   "setToBalanced": {
+      "message": "Asetuksena on Tasapainotettu esto"
+   },
+   "setToBasic": {
+      "message": "Asetuksena on Perusesto"
+   },
+   "setToStrict": {
+      "message": "Asetuksena on Tiukka esto"
+   },
+   "settingsDescription": {
+      "message": "Edistynyt yksityisyydensuoja. Suojele identiteettiäsi seurannalta ja monilta muilta ikävyyksiltä.\nEstä mainokset ja seuranta, niin selaat nopeammin ja turvallisemmin."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Näytä estettyjen mainosten määrä kuvakkeessa"
+   },
+   "site": {
+      "message": "Sivusto"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Tässä näytetään sivustot, joilla olet sallinut mainokset"
+   },
+   "spc": {
+      "message": "Turvallisuus- ja tietosuojakeskus"
+   },
+   "stayOn_balanced": {
+      "message": "Pysy tasapainotetussa tilassa"
+   },
+   "stayOn_essential": {
+      "message": "Pysy perustilassa"
+   },
+   "strictBlocking": {
+      "message": "Tiukka esto"
+   },
+   "strictBlockingDescription": {
+      "message": "Estä kaikki automaattisesti, jotta selauskokemuksesi on nopeampi ja häiriötön."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Jotkin sivustot eivät välttämättä lataudu oikein, kun tämä asetus on käytössä (osa sisällöstä saattaa jäädä näyttämättä, joten jos sivusto näyttää vialliselta, ota tämä asetus pois käytöstä)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "Kaikki mitä Tasapainotetussa estossa sekä selaimen ilmoitukset ja sormenjäljet"
+   },
+   "strictBlockingName": {
+      "message": "Tiukka"
+   },
+   "strictModalDescription": {
+      "message": "Jotta selaimemme pysyisi ilmaisena, olemme riippuvaisia kumppaneista, jotka rahoittavat meitä häiritsemättömien ja käyttäjäystävällisten mainosten avulla. Tavoitteenamme on antaa sinulle mahdollisuus parantaa tietosuojaasi ja turvata verkkoidentiteettisi"
+   },
+   "strictModalTitle": {
+      "message": "Auta pitämään selaimemme ilmaisena"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Yhteensä __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Muut asetukset ovat \u003Cb>\u003Cu>Turvallisuus- ja tietosuojakeskuksessa\u003C/u>\u003C/b>\n"
+   },
+   "whitelistModalDescription": {
+      "message": "Millä sivustolla haluat sallia mainokset?"
+   },
+   "youWillBlock": {
+      "message": "Estät: "
+   }
+}

@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Descărcare video"
+    },
+    "appDesc": {
+        "message": "Descărcați videoclipuri pentru vizualizare offline"
+    },
+    "barMediaBtn": {
+        "message": "Multimedia",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Descărcare",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Desprindere",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Setări",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Nu se mai afișează",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Nu se afișează pe acest site",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Mai multe informații",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Audio",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Pe platformă Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Setări",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Descărcare video",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Descărcați videoclipuri pentru vizualizare offline.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Audio",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Descărcare",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Reatașare",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "dimensiune necunoscută",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Nu există videoclipuri de descărcat de pe această pagină",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Pentru a descărca un videoclip, accesați pagina cu detaliile acestuia.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Descărcarea video este dezactivată pentru",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Activare",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Prin acceptarea <div><a target='blank' href='$link$'>Acordului nostru de licență pentru utilizatorul final<\/a><\/div> (EULA), confirmați și sunteți de acord că este responsabilitatea dvs. să utilizați instrumentul de Descărcare video în conformitate cu legile în vigoare privind drepturile de autor și cu termenii de utilizare pentru orice site Web.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Înainte de descărcare",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Am înțeles și accept acordul EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Continuare",
+        "description": "EUlA continue button"
+    }
+}

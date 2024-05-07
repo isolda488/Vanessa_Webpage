@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "โปรแกรมดาวน์โหลดวิดีโอ"
+    },
+    "appDesc": {
+        "message": "ดาวน์โหลดวีดีโอสำหรับการดูแบบออฟไลน์"
+    },
+    "barMediaBtn": {
+        "message": "สื่อ",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "ดาวน์โหลด",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "แยกออก",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "การตั้งค่า",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "ไม่ต้องแสดงอีก",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "ไม่ต้องแสดงบนเว็บไซต์นี้",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "ข้อมูลเพิ่มเติม",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "วีดีโอ",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "ออดิโอ",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "สนับสนุนโดย Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "การตั้งค่า",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "โปรแกรมดาวน์โหลดวิดีโอ",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "ดาวน์โหลดวีดีโอสำหรับการดูแบบออฟไลน์",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "ออดิโอ",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "วีดีโอ",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "ดาวน์โหลด",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "แนบใหม่อีกครั้ง",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "ไม่ทราบขนาด",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "ไม่มีวิดีโอให้ดาวน์โหลดบนหน้านี้",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "หากต้องการดาวน์โหลดวิดีโอ ให้ไปที่หน้ารายละเอียด",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "โปรแกรมดาวน์โหลดวิดีโอถูกปิดใช้งานสำหรับ",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "เปิดใช้งาน",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "การยอมรับ<div><a target='blank' href='$link$'>ข้อตกลงสิทธิ์การใช้งานสำหรับผู้ใช้<\/a><\/div> (EULA) ของเรา หมายความว่าคุณได้รับทราบและยอมรับว่าคุณมีหน้าที่รับผิดชอบการใช้โปรแกรมดาวน์โหลดวิดีโอตามกฎหมายลิขสิทธิ์ที่บังคับใช้และข้อกำหนดการใช้งานของเว็บไซต์ใดๆ",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "ก่อนที่คุณจะดาวน์โหลด",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "ฉันเข้าใจและยอมรับ EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "ดำเนินการต่อ",
+        "description": "EUlA continue button"
+    }
+}

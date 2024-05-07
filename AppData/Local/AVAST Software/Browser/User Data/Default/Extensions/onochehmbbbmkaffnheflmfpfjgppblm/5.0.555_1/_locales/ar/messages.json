@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "محظور من خلال"
+   },
+   "LoggerList": {
+      "message": "قائمة"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "النوع"
+   },
+   "LoggerWhitelisting": {
+      "message": "القائمة البيضاء"
+   },
+   "add": {
+      "message": "إضافة"
+   },
+   "addSite": {
+      "message": "إضافة موقع"
+   },
+   "adsTrackersAllowed": {
+      "message": "مسموح بالإعلانات والمتعقبين على هذا الموقع"
+   },
+   "adsTrackersBlocked": {
+      "message": "تم حظر الإعلانات وأدوات التعقب"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "السماح بالإعلانات على المواقع التالية دومًا"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "تم اكتشاف __TOTAL_FINGERPRINTING__ من المحاولات"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "تم اكتشاف __TOTAL_FINGERPRINTING__ من المحاولات"
+   },
+   "balancedBlocking": {
+      "message": "الحظر المُعتدل"
+   },
+   "balancedBlockingDescription": {
+      "message": "احظر أدوات التعقب المعروفة، والمزيد من الإعلانات للتمتع بتجربة تصفح أكثر سرعة."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "الكل في عملية الحظر الأساسية وإعلانات الوسائط الاجتماعية"
+   },
+   "balancedBlockingName": {
+      "message": "المستوى المُعتدل"
+   },
+   "basicBlocking": {
+      "message": "الحظر الأساسي"
+   },
+   "basicBlockingDescription": {
+      "message": "احظر أدوات التعقب والإعلانات المعروفة التي تعطل تجربة التصفح الخاصة بك."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "أدوات التعقب المعروفة، والشعارات والإعلانات المنبثقة، بما في ذلك مقاطع الفيديو"
+   },
+   "blockAdsSearch": {
+      "message": "حظر الإعلانات في نتائج البحث"
+   },
+   "blockSearchAds": {
+      "message": "حظر إعلانات نتائج البحث"
+   },
+   "blockSearchAdsMore": {
+      "message": "انتقل إلى الإعدادات \u003Cu>للحصول على مزيدٍ من المعلومات\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "تم إيقاف تشغيل الحظر"
+   },
+   "blockingOptions": {
+      "message": "خيارات الحظر"
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "cancelAddSiteOperation": {
+      "message": "إلغاء إضافة عمليات الموقع"
+   },
+   "cancelEditSiteOperation": {
+      "message": "إلغاء تحرير عمليات الموقع"
+   },
+   "cancelSetStrict": {
+      "message": "إلغاء تعيين عمليات الوضع المقيد"
+   },
+   "clearLogger": {
+      "message": "مسح سجل مُسجل البيانات"
+   },
+   "edit": {
+      "message": "تحرير"
+   },
+   "editSiteFromWhitelist": {
+      "message": "تحرير موقع من القائمة البيضاء"
+   },
+   "essentialBlockingName": {
+      "message": "أساسي"
+   },
+   "extShortDesc": {
+      "message": "وأخيرًا، أداة حظر فعالة. لا تحتاج إلى مساحة كبيرة ولا تُحمّل على وحدة المعالجة المركزية."
+   },
+   "fingerprintBlocked": {
+      "message": "تم حظر بصمة إصبع المتصفح"
+   },
+   "generalSettings": {
+      "message": "الإعدادات العامة"
+   },
+   "goToStrict": {
+      "message": "الانتقال إلى الوضع المقيد"
+   },
+   "keepFree": {
+      "message": "الإبقاء عليه مجانيًا"
+   },
+   "keep_balanced": {
+      "message": "حفظ الوضع المُعتدل"
+   },
+   "keep_essential": {
+      "message": "حفظ الوضع الأساسي"
+   },
+   "learnMore": {
+      "message": "تعرّف على المزيد"
+   },
+   "pgLogger": {
+      "message": "مسجل بيانات حماية الخصوصية"
+   },
+   "pgSettings": {
+      "message": "تغيير الإعدادات"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "إعدادات درع الخصوصية"
+   },
+   "privacyGuard": {
+      "message": "حماية الخصوصية"
+   },
+   "pro": {
+      "message": "إصدار PRO"
+   },
+   "protectionOff": {
+      "message": "الحماية متوقفة"
+   },
+   "protectionOn": {
+      "message": "الحماية قيد التشغيل"
+   },
+   "protectionPaused": {
+      "message": "الحماية متوقفة مؤقتة"
+   },
+   "recommended": {
+      "message": "موصى به"
+   },
+   "refreshWarning": {
+      "message": "عند تشغيل حماية الخصوصية أو إيقاف تشغيلها، سيتم تحديث صفحتك تلقائيًا، ولن تُحفظ التغييرات التي أجريتها. يرجى التأكد من حفظ أي عمل تقوم به قبل تغيير حماية الخصوصية."
+   },
+   "remove": {
+      "message": "حذف"
+   },
+   "save": {
+      "message": "حفظ"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "حفظ الموقع في القائمة البيضاء"
+   },
+   "setStrict": {
+      "message": "تعيين وضع مُقيد"
+   },
+   "setStrictDescription_avast": {
+      "message": "تُساعدنا بعض الإعلانات غير التطفلية القليلة للغاية على تمويل Avast Secure Browser. فهي لا تقاطع تصفّحك وتساعد على إبقاء متصفّحك مجانيًا. يُرجى دعمنا من خلال السماح بهذه الإعلانات."
+   },
+   "setStrictDescription_avg": {
+      "message": "تُساعدنا بعض الإعلانات غير التطفلية القليلة للغاية على تمويل AVG Secure Browser. فهي لا تقاطع تصفّحك وتساعد على إبقاء متصفّحك مجانيًا. يُرجى دعمنا من خلال السماح بهذه الإعلانات."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "تُساعدنا بعض الإعلانات غير التطفلية القليلة للغاية على تمويل CCleaner Browser. فهي لا تقاطع تصفّحك وتساعد على إبقاء متصفّحك مجانيًا. يُرجى دعمنا عن طريق السماح بهذه الإعلانات."
+   },
+   "setStrictMode": {
+      "message": "تعيين الوضع المقيد"
+   },
+   "setStrictTitle": {
+      "message": "تعيين حماية الخصوصية إلى الوضع المُقيد"
+   },
+   "setToBalanced": {
+      "message": "تم الضبط على الحظر المتوازن"
+   },
+   "setToBasic": {
+      "message": "تم الضبط على الحظر الأساسي"
+   },
+   "setToStrict": {
+      "message": "تم الضبط على الحظر المُقيد"
+   },
+   "settingsDescription": {
+      "message": "تحسين حماية الخصوصية. احمِ هويتك من المتعقبين وما إلى ذلك. واحظر الإعلانات وأدوات التعقب لتصفح أسرع، وأكثر أمانًا."
+   },
+   "settingsShowNumberBadge": {
+      "message": "عرض عدد الإعلانات المحظورة على الأيقونة"
+   },
+   "site": {
+      "message": "الموقع"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "المواقع التي سمحت بظهور الإعلانات عليها ستظهر هنا"
+   },
+   "spc": {
+      "message": "مركز الخصوصية والأمان"
+   },
+   "stayOn_balanced": {
+      "message": "البقاء على الوضع المتوازن"
+   },
+   "stayOn_essential": {
+      "message": "البقاء على الوضع الأساسي"
+   },
+   "strictBlocking": {
+      "message": "الحظر المُقيد"
+   },
+   "strictBlockingDescription": {
+      "message": "احظر كل شيء تلقائيًا للتمتع بتجربة تصفح أكثر سرعة، ودون مقاطعة."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "يمكن أن تتسبب هذه الإعدادات في عدم تحميل بعض المواقع بصورة صحيحة (ربما لا تُعرض بعض المحتويات أو يظهر الموقع على أنه مُعطل، عليك حينها إيقاف تشغيل هذه الإعدادات)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "كل ذلك مثل عملية حظر متوازنة وإشعارات المتصفح وبصمة الإصبع"
+   },
+   "strictBlockingName": {
+      "message": "مُقيد"
+   },
+   "strictModalDescription": {
+      "message": "للحفاظ على متصفحنا مجانيًا، نعتمد على شركاء يمولوننا من خلال بعض الإعلانات غير التخريبية وسهلة الاستخدام. هدفنا هو تمكينك من تعزيز خصوصيتك وحماية هويتك على شبكة الإنترنت"
+   },
+   "strictModalTitle": {
+      "message": "ساعد في إبقاء متصفحنا مجانيًا"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "حظر كامل لإجمالي __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "يرجى الانتقال إلى \u003Cb>\u003Cu>مركز الخصوصية والأمان\u003C/u>\u003C/b>\n للوصول إلى الإعدادات الأخرى"
+   },
+   "whitelistModalDescription": {
+      "message": "ما الموقع التي تود السماح لعرض الإعلانات عليه؟"
+   },
+   "youWillBlock": {
+      "message": "أنت ستحظر: "
+   }
+}

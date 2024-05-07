@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "যোগাযোগ"
+   },
+   "extShortDesc": {
+      "message": "ব্রাউজারের সাইড প্যানেল এক্সটেনশন"
+   },
+   "extTitle": {
+      "message": "সাইড প্যানেল এক্সটেনশন"
+   },
+   "featured": {
+      "message": "ফিচার করা"
+   },
+   "music": {
+      "message": "মিউজিক"
+   },
+   "notes": {
+      "message": "নোট"
+   },
+   "social": {
+      "message": "সোশ্যাল"
+   }
+}

@@ -1,0 +1,117 @@
+{
+    "appName": {
+        "message": "Preuzimanje video sadržaja"
+    },
+    "appDesc": {
+        "message": "Preuzimajte video sadržaj za gledanje van mreže"
+    },
+    "barMediaBtn": {
+        "message": "Mediji",
+        "description": "The Media button text as visible on the floating bar"
+    },
+    "barDownloadBtn": {
+        "message": "Preuzmi",
+        "description": "The Download button text as visible on the floating bar"
+    },
+    "barDetachBtn": {
+        "message": "Odvoji",
+        "description": "The Detach button text as visible on the floating bar"
+    },
+    "barSettingsTitle": {
+        "message": "Podešavanja",
+        "description": "Settings popup title in the floating bar"
+    },
+    "barSettingsDoNotShow": {
+        "message": "Ne prikazuj ponovo",
+        "description": "Button in settings popup disabling video-downloader"
+    },
+    "barSettingsDoNotShowForSite": {
+        "message": "Ne prikazuj na ovoj lokaciji",
+        "description": "Button in settings popup disabling video-downloader for exact site"
+    },
+    "barSettingsAbout": {
+        "message": "Više informacija",
+        "description": "About Button in settings popup"
+    },
+    "barQualityVideo": {
+        "message": "Video",
+        "description": "Video title"
+    },
+    "barQualityAudio": {
+        "message": "Audio",
+        "description": "Audio title"
+    },
+    "barSettingsDescription": {
+        "message": "Koristi tehnologiju Secure Browser",
+        "description": "Video download feature description in settings popup"
+    },
+    "barSettingsBtn": {
+        "message": "Podešavanja",
+        "description": "The Settings button text as visible on the floating bar"
+    },
+    "extensionName": {
+        "message": "Preuzimanje video sadržaja",
+        "description": "Name shown in the extension button in SZB Control Center."
+    },
+    "extensionTitle": {
+        "message": "Preuzimajte video sadržaj za gledanje van mreže.",
+        "description": "Title shown on hover over the extension button in SZB Control Center."
+    },
+    "popupAudioHeading": {
+        "message": "Audio",
+        "description": "The heading of the audio section in the media popup list"
+    },
+    "popupVideoHeading": {
+        "message": "Video",
+        "description": "The heading of the video section in the media popup list"
+    },
+    "popupDownloadBtn": {
+        "message": "Preuzmi",
+        "description": "The Download button text as visible in the media popup list"
+    },
+    "reattachBtn": {
+        "message": "Ponovo spoji",
+        "description": "The Reattach button text as visible on the detached video page"
+    },
+    "optionUnknownSize": {
+        "message": "nepoznata veličina",
+        "description": "Videa or audio download option of unknown size"
+    },
+    "popupNoVideos": {
+        "message": "Nema video sadržaja za preuzimanje na ovoj stranici",
+        "description": "Page does not contain any videos"
+    },
+    "popupNoVideos_v2": {
+        "message": "Da biste preuzeli video, otvorite stranicu s detaljima.",
+        "description": ""
+    },
+    "popupDisabledFor": {
+        "message": "Preuzimanje video sadržaja je onemogućeno za",
+        "description": "Page was disabled for video downloader"
+    },
+    "popupEnable": {
+        "message": "Omogući",
+        "description": "Enable video downloader for current page"
+    },
+    "eulaText": {
+        "message": "Ako prihvatite <div><a target='blank' href='$link$'>Ugovor o licenciranju s krajnjim korisnikom<\/a><\/div> (EULA), pristajete na to da je vaša odgovornost da koristite alatku za preuzimanje video zapisa u skladu s primenjivim zakonima o zaštiti autorskih prava i uslovima korišćenja bilo koje veb lokacije.",
+        "description": "EULA message displayed to the user",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "eulaTitle": {
+        "message": "Pre preuzimanja",
+        "description": "EULA popup title"
+    },
+    "eulaUnderstandAccept": {
+        "message": "Razumem i prihvatam ugovor EULA",
+        "description": "EULA user agreement checkbox text"
+    },
+    "eulaContinue": {
+        "message": "Nastavi",
+        "description": "EUlA continue button"
+    }
+}

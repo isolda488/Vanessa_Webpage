@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "img/common/toolbar/icon_16.png",
+         "32": "img/common/toolbar/icon_32.png"
+      },
+      "default_popup": "app.html",
+      "default_title": "Side Panel"
+   },
+   "author": "Gen Digital",
+   "background": {
+      "service_worker": "js/background.bundle.js"
+   },
+   "content_scripts": [  ],
+   "content_security_policy": {
+      "extension_pages": "default-src 'self'; font-src *; script-src 'self'; connect-src *; style-src * 'unsafe-inline' 'self' blob:; img-src * data:; object-src 'self'"
+   },
+   "dataKeys": [ "SidePanelData" ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "host_permissions": [ "https://*/", "\u003Call_urls>" ],
+   "icons": {
+      "128": "img/common/extensions_page/icon_128.png",
+      "16": "img/common/extensions_page/icon_16.png",
+      "32": "img/common/extensions_page/icon_32.png",
+      "48": "img/common/extensions_page/icon_48.png"
+   },
+   "incognito": "split",
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzBOG3Uz0+f2jKG0tz9RvZ8Rrp2ldeUvm+z4jzdYhG44LkmcgETlF0puvyMemXlAKkw4Chg5VkmpFzGwOBPj0jWxtMsLJvnsNr0mSGluPvOORT2hMYzoOeI5hvuJzys2qN/RDY+Sb3T58g9HRRZfyDjRrI0XnS0SVf+KsWqI7MN55DBm/4dUkSSfIc7MyL71MMsoIUU55XH4CJYtkhG1GYLjyP8qtjGLvkv71HnW8gPkcKRHdKQ3yjwEexZBSj88WJc1LHxUOBPuKXogjrz318YZzz7RZOArENeaaxJ+EdrSC3coqxYAgdYjU1+8BwkVMuTtT/lIqsbRL64zZyzaBToKtGvT//tcXDj3zWy+LUt2pbn7RXsemNiySVpsYMa2kPbmuMnDKWMAALx0mDtx0E2ix/KNRd/TaKDkLnFii5oG2syF1f37k3YMbhtokOWoWMkvGuzxgR1dyxZNj5o4tPDNtfLEp/THDBoukMw7tubGntm5ZFXj2iXIQSVIjDrsSQnOaZFFlv3b2ZeOUL/2Uxn2370wYc3KUGOFzLU5OF4OY1IsErNbAifxvHiRVfIN5zjeefRYS+Leor68zCgYpVT9QS2dXQ5Gof3joSGPAgoHokkekVeaajrRMah66mxjGp7mwaF7QKidNX1yNU64XLg8q1Nn0388PpM8dHgIzAEsCAwEAAQ==",
+   "manifest_version": 3,
+   "minimum_chrome_version": "55.0",
+   "name": "Side Panel",
+   "permissions": [ "storage", "tabs", "unlimitedStorage", "sidePanel" ],
+   "short_name": "Side Panel",
+   "side_panel": {
+      "default_path": "sidepanel.html",
+      "default_sidebar_path": "sidebar.html"
+   },
+   "version": "0.0.89"
+}

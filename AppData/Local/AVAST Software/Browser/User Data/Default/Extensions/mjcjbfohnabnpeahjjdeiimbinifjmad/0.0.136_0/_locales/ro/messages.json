@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "Întrebați-mă orice..."
+   },
+   "clearChat": {
+      "message": "Goliți chatul"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "A intervenit o eroare. Mesajul trimis a fost prea lung, începeți un nou chat și trimiteți un mesaj mai scurt."
+   },
+   "example_0": {
+      "message": "“Explică-mi procesul de fabricare a vinului.”"
+   },
+   "example_1": {
+      "message": "“Spune câteva idei de cadouri pentru ziua de naștere a unui băiat de 14 ani.”"
+   },
+   "example_2": {
+      "message": "“Ajută-mă să planific o excursie de 7 zile la Tokyo.”"
+   },
+   "examples": {
+      "message": "Exemple:"
+   },
+   "exploreGenie": {
+      "message": "Explorați Norton Genie"
+   },
+   "extShortDesc": {
+      "message": "Extensie Chat IA"
+   },
+   "extTitle": {
+      "message": "Extensie Chat IA"
+   },
+   "freshChat": {
+      "message": "Dacă nu mai aveți alte întrebări, vom șterge acest chat în 5 minute, astfel încât să puteți începe unul nou."
+   },
+   "genieDescription": {
+      "message": "Genie poate detecta în câteva secunde dacă textele, e-mailurile, site-urile web sau postările de pe rețelele de socializare sunt înșelătorii. Este suficient să copiați și să lipiți sau să încărcați capturi de ecran ale mesajelor suspecte în aplicație, iar acesta vă permite să aflați imediat dacă ar putea fi vorba de o înșelătorie."
+   },
+   "inappropriateErrorMessage": {
+      "message": "Îmi pare rău, dar nu vă pot ajuta cu această solicitare."
+   },
+   "initialScreenSubtitle": {
+      "message": "Obțineți răspunsurile pe care le căutați’cu Chat IA."
+   },
+   "initialScreenTitle": {
+      "message": "Curiozități? Adresați o întrebare către…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "A intervenit o eroare. Mesajul trimis a fost prea lung, trimiteți un mesaj mai scurt."
+   },
+   "limitError": {
+      "message": "Ați atins limita de mesaje pentru această sesiune. Încercați să ștergeți chatul pentru a începe din nou."
+   },
+   "limitErrorMessage": {
+      "message": "Ați atins limita de mesaje pentru această sesiune. Încercați să ștergeți chatul pentru a începe din nou."
+   },
+   "stillThere": {
+      "message": "\u003Cb>Mai sunteți acolo?\u003C/b> Nu ați mai scris nimic de ceva vreme."
+   },
+   "suggestedSearch": {
+      "message": "Căutări sugerate"
+   },
+   "tooManyRequestsError": {
+      "message": "Prea multe solicitări. Încercați din nou mai târziu."
+   },
+   "tryAsking": {
+      "message": "Încercați să adresați o întrebare "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>, instrumentul nostru de detectare a escrocheriilor în timp real prin intermediul inteligenței artificiale."
+   }
+}

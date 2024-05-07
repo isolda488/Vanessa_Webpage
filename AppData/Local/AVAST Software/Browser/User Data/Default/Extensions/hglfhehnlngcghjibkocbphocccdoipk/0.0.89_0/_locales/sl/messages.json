@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Komunikacija"
+   },
+   "extShortDesc": {
+      "message": "Razširitev stranskega podokna brskalnika"
+   },
+   "extTitle": {
+      "message": "Razširitev stranskega podokna"
+   },
+   "featured": {
+      "message": "Predstavljeno"
+   },
+   "music": {
+      "message": "Glasba"
+   },
+   "notes": {
+      "message": "Zapiski"
+   },
+   "social": {
+      "message": "Družbeno"
+   }
+}

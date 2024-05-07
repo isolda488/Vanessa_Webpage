@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "通信"
+   },
+   "extShortDesc": {
+      "message": "浏览器的侧面板扩展"
+   },
+   "extTitle": {
+      "message": "侧面板扩展"
+   },
+   "featured": {
+      "message": "精选"
+   },
+   "music": {
+      "message": "音乐"
+   },
+   "notes": {
+      "message": "便笺"
+   },
+   "social": {
+      "message": "社交"
+   }
+}

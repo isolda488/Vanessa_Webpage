@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "Blokira:"
+   },
+   "LoggerList": {
+      "message": "Popis"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "Vrsta"
+   },
+   "LoggerWhitelisting": {
+      "message": "Dopušteno"
+   },
+   "add": {
+      "message": "Dodaj"
+   },
+   "addSite": {
+      "message": "Dodaj web-mjesto"
+   },
+   "adsTrackersAllowed": {
+      "message": "Na ovom su web-mjestu dopušteni oglasi i alati za praćenje"
+   },
+   "adsTrackersBlocked": {
+      "message": "Blokirani su oglasi i alati za praćenje"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "Uvijek dopusti oglase na sljedećim web-mjestima"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "otkriven je __TOTAL_FINGERPRINTING__ pokušaj"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "otkriveni pokušaji: __TOTAL_FINGERPRINTING__"
+   },
+   "balancedBlocking": {
+      "message": "Uravnoteženo blokiranje"
+   },
+   "balancedBlockingDescription": {
+      "message": "Blokirajte poznate alate za praćenje te još više oglasa da biste brže pregledavali web."
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "sve kao osnovno blokiranje i oglasi za društvene medije"
+   },
+   "balancedBlockingName": {
+      "message": "Uravnoteženo"
+   },
+   "basicBlocking": {
+      "message": "Osnovno blokiranje"
+   },
+   "basicBlockingDescription": {
+      "message": "Blokirajte poznate alate za praćenje i oglase koji narušavaju vaše iskustvo pregledavanja weba."
+   },
+   "basicBlockingExtraDescription": {
+      "message": "Poznati alati za praćenje, skočni oglasi i oglašivački natpisi, uključujući videozapise"
+   },
+   "blockAdsSearch": {
+      "message": "Blokiraj oglase u rezultatima pretraživanja"
+   },
+   "blockSearchAds": {
+      "message": "Blokiraj oglase u rezultatima pretraživanja"
+   },
+   "blockSearchAdsMore": {
+      "message": "Posjetite postavke za \u003Cu>dodatne informacije\u003C/u>"
+   },
+   "blockingOff": {
+      "message": "Blokiranje je isključeno"
+   },
+   "blockingOptions": {
+      "message": "Mogućnosti blokiranja"
+   },
+   "cancel": {
+      "message": "Odustani"
+   },
+   "cancelAddSiteOperation": {
+      "message": "Prekini postupak dodavanja web-mjesta"
+   },
+   "cancelEditSiteOperation": {
+      "message": "Prekini postupak uređivanja web-mjesta"
+   },
+   "cancelSetStrict": {
+      "message": "Prekini postupak postavljanja strogog načina rada"
+   },
+   "clearLogger": {
+      "message": "Obriši povijest zapisivača"
+   },
+   "edit": {
+      "message": "Uređivanje"
+   },
+   "editSiteFromWhitelist": {
+      "message": "Uredi web-mjesto na popisu dopuštenih web-mjesta"
+   },
+   "essentialBlockingName": {
+      "message": "Osnovno"
+   },
+   "extShortDesc": {
+      "message": "Konačno efikasan blokator. Štedljiv za procesor i memoriju."
+   },
+   "fingerprintBlocked": {
+      "message": "Blokirano je uzimanje otiska preglednika"
+   },
+   "generalSettings": {
+      "message": "Opće postavke"
+   },
+   "goToStrict": {
+      "message": "Idi na Strogo"
+   },
+   "keepFree": {
+      "message": "Zadrži besplatno"
+   },
+   "keep_balanced": {
+      "message": "Zadrži uravnoteženo"
+   },
+   "keep_essential": {
+      "message": "Zadrži osnovno"
+   },
+   "learnMore": {
+      "message": "Saznajte više"
+   },
+   "pgLogger": {
+      "message": "Zapisivač Zaštite privatnosti"
+   },
+   "pgSettings": {
+      "message": "Promijeni postavke"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "Postavke Čuvara privatnosti"
+   },
+   "privacyGuard": {
+      "message": "Čuvar privatnosti"
+   },
+   "pro": {
+      "message": "PRO"
+   },
+   "protectionOff": {
+      "message": "zaštita je ISKLJUČENA"
+   },
+   "protectionOn": {
+      "message": "zaštita je UKLJUČENA"
+   },
+   "protectionPaused": {
+      "message": "zaštita je pauzirana"
+   },
+   "recommended": {
+      "message": "Preporučeno"
+   },
+   "refreshWarning": {
+      "message": "Kada UKLJUČITE ili ISKLJUČITE Zaštitu privatnosti, vaša će se stranica automatski osvježiti, a promjene koje ste unijeli možda neće biti spremljene. Obvezno spremite sve što ste radili prije promjene Zaštite privatnosti."
+   },
+   "remove": {
+      "message": "Ukloni"
+   },
+   "save": {
+      "message": "Spremi"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "Spremi web-mjesto na popis dopuštenih web-mjesta"
+   },
+   "setStrict": {
+      "message": "Postavi strogo"
+   },
+   "setStrictDescription_avast": {
+      "message": "Mala količina neinvazivnih oglasa pomaže nam da financiramo Avast Secure Browser. Ne morate prekidati pregledavanje i pridonesite tome da preglednik ostane besplatan. Pokažite nam koliko nas volite dopuštanjem tih oglasa."
+   },
+   "setStrictDescription_avg": {
+      "message": "Mala količina neinvazivnih oglasa pomaže nam da financiramo AVG Secure Browser. Ne morate prekidati pregledavanje i pridonesite tome da preglednik ostane besplatan. Pokažite nam koliko nas volite dopuštanjem tih oglasa."
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "Mala količina neinvazivnih oglasa pomaže nam da financiramo CCleaner Secure Browser. Ne morate prekidati pregledavanje i pridonesite tome da preglednik ostane besplatan. Pokažite nam koliko nas volite dopuštanjem tih oglasa."
+   },
+   "setStrictMode": {
+      "message": "Postavi strogi način rada"
+   },
+   "setStrictTitle": {
+      "message": "Postavite Čuvar privatnosti na strogo"
+   },
+   "setToBalanced": {
+      "message": "Postavljeno je uravnoteženo blokiranje"
+   },
+   "setToBasic": {
+      "message": "Postavljeno je osnovno blokiranje"
+   },
+   "setToStrict": {
+      "message": "Postavljeno je strogo blokiranje"
+   },
+   "settingsDescription": {
+      "message": "Povećana zaštita privatnosti. Zaštitite svoj identitet od alata za praćenje i drugih prijetnji.\nBlokirajte oglase i alate za praćenje da biste web pregledavali brže i sigurnije."
+   },
+   "settingsShowNumberBadge": {
+      "message": "Pokaži broj blokiranih oglasa na ikoni"
+   },
+   "site": {
+      "message": "Web-mjesto"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "Web-mjesta na kojima su dopušteni oglasi prikazat će se ovdje"
+   },
+   "spc": {
+      "message": "Centar za sigurnost i zaštitu privatnosti"
+   },
+   "stayOn_balanced": {
+      "message": "Ostani u uravnoteženom načinu rada"
+   },
+   "stayOn_essential": {
+      "message": "Ostani u osnovnom načinu rada"
+   },
+   "strictBlocking": {
+      "message": "Strogo blokiranje"
+   },
+   "strictBlockingDescription": {
+      "message": "Blokirajte sve automatski da biste internet pregledavali brže i bez prekida."
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "Zbog te se postavke neka web-mjesta možda neće pravilno učitati (dio sadržaja možda se neće prikazati ili, ako web-mjesto izgleda kao da je u kvaru, isključite tu postavku)."
+   },
+   "strictBlockingExtraDescription": {
+      "message": "sve kao uravnoteženo blokiranje i obavijesti preglednika i otiska prsta"
+   },
+   "strictBlockingName": {
+      "message": "Strogo"
+   },
+   "strictModalDescription": {
+      "message": "Da bi naš preglednik ostao besplatan, ovisimo o partnerima koji nas financiraju putem suptilnih oglasa prilagođenih korisniku. Naš je cilj omogućiti vam da osnažite svoju privatnost i zaštitite svoj identitet na internetu"
+   },
+   "strictModalTitle": {
+      "message": "Pomozite da naš preglednik ostane besplatan"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "Ukupno __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "Posjetite \u003Cb>\u003Cu>Centar za sigurnost i zaštitu privatnosti\u003C/u>\u003C/b>\n za druge postavke"
+   },
+   "whitelistModalDescription": {
+      "message": "Na kojem web-mjestu želite omogućiti oglase?"
+   },
+   "youWillBlock": {
+      "message": "Blokirat ćete sljedeće: "
+   }
+}

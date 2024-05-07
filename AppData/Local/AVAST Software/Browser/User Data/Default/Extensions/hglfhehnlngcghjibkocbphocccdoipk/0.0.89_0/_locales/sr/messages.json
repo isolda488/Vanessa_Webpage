@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Komunikacija"
+   },
+   "extShortDesc": {
+      "message": "Proširenje bočne trake pretraživača"
+   },
+   "extTitle": {
+      "message": "Proširenje bočne trake"
+   },
+   "featured": {
+      "message": "Istaknuto"
+   },
+   "music": {
+      "message": "Muzika"
+   },
+   "notes": {
+      "message": "Beleške"
+   },
+   "social": {
+      "message": "Društvene mreže"
+   }
+}

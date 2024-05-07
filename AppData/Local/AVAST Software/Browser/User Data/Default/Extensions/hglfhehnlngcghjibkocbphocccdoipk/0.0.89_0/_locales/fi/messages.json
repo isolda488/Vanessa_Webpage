@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "Viestintä"
+   },
+   "extShortDesc": {
+      "message": "Selaimen sivupaneelilaajennus"
+   },
+   "extTitle": {
+      "message": "Sivupaneelilaajennus"
+   },
+   "featured": {
+      "message": "Esitellyt"
+   },
+   "music": {
+      "message": "Musiikki"
+   },
+   "notes": {
+      "message": "Muistiinpanot"
+   },
+   "social": {
+      "message": "Sosiaalinen media"
+   }
+}

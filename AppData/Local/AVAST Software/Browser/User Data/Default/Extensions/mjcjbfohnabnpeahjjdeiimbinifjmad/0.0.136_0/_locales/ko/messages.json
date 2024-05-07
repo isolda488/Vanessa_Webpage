@@ -1,0 +1,71 @@
+{
+   "askMe": {
+      "message": "무엇이든 물어보세요..."
+   },
+   "clearChat": {
+      "message": "채팅 지우기"
+   },
+   "contextTooLongErrorMessage": {
+      "message": "오류가 발생했습니다. 제출된 메시지가 너무 깁니다. 새 채팅을 시작하고 더 짧은 메시지를 제출하세요."
+   },
+   "example_0": {
+      "message": "“와인 제조 과정을 설명해 줘.”"
+   },
+   "example_1": {
+      "message": "“14세 소년에게 맞는 생일 선물 아이디어를 알려 줘.”"
+   },
+   "example_2": {
+      "message": "“도쿄 7일 여행 계획을 세워 줘.”"
+   },
+   "examples": {
+      "message": "예:"
+   },
+   "exploreGenie": {
+      "message": "Norton Genie 살펴보기"
+   },
+   "extShortDesc": {
+      "message": "AI 채팅 확장 기능"
+   },
+   "extTitle": {
+      "message": "AI 채팅 확장 기능"
+   },
+   "freshChat": {
+      "message": "더 이상 질문이 없으면 새 채팅을 시작할 수 있도록 5분 후에 이 채팅을 삭제하겠습니다."
+   },
+   "genieDescription": {
+      "message": "Genie는 문자, 이메일, 웹사이트 또는 소셜 미디어 게시물이 사기인지 몇 초 안에 감지할 수 있습니다. 의심스러운 메시지의 스크린샷을 복사하여 붙여넣거나 앱에 업로드하기만 하면 사기일 수 있는지 즉시 알 수 있습니다."
+   },
+   "inappropriateErrorMessage": {
+      "message": "죄송하지만 이 요청에는 도움을 드릴 수 없습니다."
+   },
+   "initialScreenSubtitle": {
+      "message": "AI Chat을 통해 찾고 있는 답변을 얻으세요."
+   },
+   "initialScreenTitle": {
+      "message": "궁금하세요? 물어보세요…"
+   },
+   "inputTooLongErrorMessage": {
+      "message": "오류가 발생했습니다. 제출된 메시지가 너무 깁니다. 더 짧은 메시지를 제출하세요."
+   },
+   "limitError": {
+      "message": "이 세션의 메시지 제한에 도달하셨습니다. 다시 시작하려면 채팅을 삭제해 보십시오."
+   },
+   "limitErrorMessage": {
+      "message": "이 세션의 메시지 제한에 도달하셨습니다. 다시 시작하려면 채팅을 삭제해 보십시오."
+   },
+   "stillThere": {
+      "message": "\u003Cb>아직도 있나요?\u003C/b>한동안 글을 쓰지 않으셨습니다."
+   },
+   "suggestedSearch": {
+      "message": "추천 검색어"
+   },
+   "tooManyRequestsError": {
+      "message": "요청이 너무 많습니다. 나중에 다시 시도하세요."
+   },
+   "tryAsking": {
+      "message": "물어보세요 "
+   },
+   "tryGenie": {
+      "message": "\u003Cb>Norton Genie\u003C/b>는 실시간 AI 기반 사기 탐지 도구입니다."
+   }
+}

@@ -1,0 +1,242 @@
+{
+   "LoggerBlockedBy": {
+      "message": "بلاک کردہ"
+   },
+   "LoggerList": {
+      "message": "فہرست"
+   },
+   "LoggerRegex": {
+      "message": "Regex"
+   },
+   "LoggerType": {
+      "message": "نوعیت"
+   },
+   "LoggerWhitelisting": {
+      "message": "وائٹ لسٹنگ"
+   },
+   "add": {
+      "message": "شامل کریں"
+   },
+   "addSite": {
+      "message": "سائٹ شامل کریں"
+   },
+   "adsTrackersAllowed": {
+      "message": "اس سائٹ پر اشتہارات اور ٹریکرز کی اجازت ہے"
+   },
+   "adsTrackersBlocked": {
+      "message": "اشتہارات  ٹریکرز مسدود کردہ"
+   },
+   "alwaysAllowAdsOnSites": {
+      "message": "مندرجہ ذیل سائٹوں پر ہمیشہ اشتہارات کی اجازت دیں"
+   },
+   "attemptFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ کوشش کا پتہ چلا"
+   },
+   "attemptsFingerprintBlocked": {
+      "message": "__TOTAL_FINGERPRINTING__ کوششوں کا پتہ چلا"
+   },
+   "balancedBlocking": {
+      "message": "متوازن مسدود کاری"
+   },
+   "balancedBlockingDescription": {
+      "message": "براؤزنگ کے تیز تجربے کے لئے معروف ٹریکرز، اور بھی زیادہ اشتہارات کو مسدود کریں۔"
+   },
+   "balancedBlockingExtraDescription": {
+      "message": "بنیادی بلاکنگ اور سوشل میڈیا کے اشتہارات میں تمام"
+   },
+   "balancedBlockingName": {
+      "message": "متوازن"
+   },
+   "basicBlocking": {
+      "message": "بنیادی مسدود کاری"
+   },
+   "basicBlockingDescription": {
+      "message": "آپ کے براؤزنگ کے تجربے میں خلل ڈالنے والے معلوم ٹریکرز اور اشتہارات کو مسدود کریں۔"
+   },
+   "basicBlockingExtraDescription": {
+      "message": "بشمول ویڈیوز معروف ٹریکرز، پاپ اپ اور بینر اشتہارات"
+   },
+   "blockAdsSearch": {
+      "message": "تلاش کے نتائج میں اشتہارات کو مسدود کریں"
+   },
+   "blockSearchAds": {
+      "message": "تلاش کے نتائج کے اشتہارات مسدود کریں"
+   },
+   "blockSearchAdsMore": {
+      "message": "\u003Cu>مزید معلومات\u003C/u> کے لئے سیٹنگز میں جائیں"
+   },
+   "blockingOff": {
+      "message": "مسدود کاری آف ہے"
+   },
+   "blockingOptions": {
+      "message": "مسدود کاری کے اختیارات"
+   },
+   "cancel": {
+      "message": "منسوخ کریں"
+   },
+   "cancelAddSiteOperation": {
+      "message": "سائٹ آپریشن جوڑیں منسوخ کریں"
+   },
+   "cancelEditSiteOperation": {
+      "message": "سائٹ آپریشن میں ترمیم کریں منسوخ کریں"
+   },
+   "cancelSetStrict": {
+      "message": "سخت موڈ آپریشن سیٹ کریں منسوخ کریں"
+   },
+   "clearLogger": {
+      "message": "لاگر کی سرگزشت صاف کریں"
+   },
+   "edit": {
+      "message": "ترمیم کریں"
+   },
+   "editSiteFromWhitelist": {
+      "message": "وائٹ لسٹ سے سائٹ ترمیم کریں"
+   },
+   "essentialBlockingName": {
+      "message": "بُنيادی"
+   },
+   "extShortDesc": {
+      "message": "بالآخر ایک مؤثر بلاکر۔ CPU اور میموری پر آسان۔"
+   },
+   "fingerprintBlocked": {
+      "message": "براؤزر کی فنگر پرنٹنگ مسدود ہے"
+   },
+   "generalSettings": {
+      "message": "عام سیٹنگز"
+   },
+   "goToStrict": {
+      "message": "سخت پر جائیں"
+   },
+   "keepFree": {
+      "message": "مفت رکھیں"
+   },
+   "keep_balanced": {
+      "message": "متوازن رہنا"
+   },
+   "keep_essential": {
+      "message": "بنیادی رکھیں"
+   },
+   "learnMore": {
+      "message": "مزید معلومات حاصل کریں"
+   },
+   "pgLogger": {
+      "message": "پرائیویسی گارڈ لاگر"
+   },
+   "pgSettings": {
+      "message": "ترتیبات تبدیل کریں"
+   },
+   "pgSettingsDocumentTitle": {
+      "message": "رازداری گارڈ کی ترتیبات"
+   },
+   "privacyGuard": {
+      "message": "پرائیویسی گارڈ"
+   },
+   "pro": {
+      "message": "پرو"
+   },
+   "protectionOff": {
+      "message": "تحفظ آف ہے"
+   },
+   "protectionOn": {
+      "message": "تحفظ آن ہے"
+   },
+   "protectionPaused": {
+      "message": "تحفظ موقوف ہے"
+   },
+   "recommended": {
+      "message": "تجویز کردہ"
+   },
+   "refreshWarning": {
+      "message": "جب آپ پرائیویسی گارڈ کو آن یا آف کرتے ہیں، تو آپ کا صفحہ خود کار طور پر ریفریش ہو جائے گا، اور ہو سکتا ہے آپ کی کی گئی تبدیلیاں محفوظ نہ ہوں۔ براہ کرم پرائیویسی گارڈ کو تبدیل کرنے سے پہلے کسی بھی کام کو محفوظ کرنا یقینی بنائیں۔"
+   },
+   "remove": {
+      "message": "ہٹائیں"
+   },
+   "save": {
+      "message": "محفوظ کریں"
+   },
+   "saveSiteIntoWhitelist": {
+      "message": "وائٹ لسٹ میں سائٹ کو محفوظ کریں"
+   },
+   "setStrict": {
+      "message": "سختی سیٹ کریں"
+   },
+   "setStrictDescription_avast": {
+      "message": "بہت کم غیر-ناگوار اشتہارات Avast Secure Browser کو مالیات فراہم کرنے میں ہماری مدد کرتے ہیں۔ وہ آپ کی براؤزنگ میں دخل اندازی نہیں کرتے ہیں اور آپ کے براؤزر کو آزاد رکھنے میں مدد کرتے ہیں۔ براہ کرم ان اشتہارات کو اجازت دے کر ہمیں تھوڑی محبت کا اظہار کریں۔"
+   },
+   "setStrictDescription_avg": {
+      "message": "بہت کم غیر-ناگوار اشتہارات Avast Secure Browser کو مالیات فراہم کرنے میں ہماری مدد کرتے ہیں۔ وہ آپ کی براؤزنگ میں دخل اندازی نہیں کرتے ہیں اور آپ کے براؤزر کو آزاد رکھنے میں مدد کرتے ہیں۔ براہ کرم ان اشتہارات کو اجازت دے کر ہمیں تھوڑی محبت کا اظہار کریں۔"
+   },
+   "setStrictDescription_ccleaner": {
+      "message": "بہت کم غیر-ناگوار اشتہارات CCleaner Browser کو مالیات فراہم کرنے میں ہماری مدد کرتے ہیں۔ وہ آپ کی براؤزنگ میں دخل اندازی نہیں کرتے ہیں اور آپ کے براؤزر کو آزاد رکھنے میں مدد کرتے ہیں۔ براہ کرم ان اشتہارات کو اجازت دے کر ہمارے ساتھ تھوڑی محبت کا اظہار کریں۔"
+   },
+   "setStrictMode": {
+      "message": "سخت موڈ سیٹ کریں"
+   },
+   "setStrictTitle": {
+      "message": "پرائیویسی گارڈ کو سخت پر سیٹ کریں"
+   },
+   "setToBalanced": {
+      "message": "آپ متوازن مسدود کاری میں سیٹ ہیں"
+   },
+   "setToBasic": {
+      "message": "آپ بنیادی مسدود کاری میں سیٹ ہیں"
+   },
+   "setToStrict": {
+      "message": "آپ سخت مسدود کاری میں سیٹ ہیں"
+   },
+   "settingsDescription": {
+      "message": "بہتر رازداری کا تحفظ۔ ٹریکرز وغیرہ سے اپنی شناخت کی حفاظت کریں۔ تیز، محفوظ براؤزنگ کے لئے اشتہارات اور ٹریکرز کو مسدود کریں۔"
+   },
+   "settingsShowNumberBadge": {
+      "message": "آئیکن پر مسدود کردہ درخواستوں کی تعداد دکھائیں"
+   },
+   "site": {
+      "message": "سائٹ"
+   },
+   "sitesYouHaveAllowed": {
+      "message": "جن سائٹوں پر آپ نے اشتہاروں کی اجازت دی وہ یہاں ظاہر ہوں گی"
+   },
+   "spc": {
+      "message": "سکیورٹی اور رازداری سینٹر"
+   },
+   "stayOn_balanced": {
+      "message": "متوازن موڈ میں رہیں"
+   },
+   "stayOn_essential": {
+      "message": "لازمی موڈ میں رہیں"
+   },
+   "strictBlocking": {
+      "message": "سختی سے مسدود کاری"
+   },
+   "strictBlockingDescription": {
+      "message": "تیز تر، بغیر خلل براؤزر کے تجربے کے لیے ہر چیز کو خود کاطر طریقے سے مسدود کریں۔"
+   },
+   "strictBlockingDescriptionExtra": {
+      "message": "یہ ترتیب کچھ سائٹس کو صحیح طریقے سے لوڈ نہ ہونے کا سبب بن سکتی ہے (کچھ مواد ظاہر نہیں ہو سکتا یا اگر سائٹ ٹوٹی ہوئی نظر آتی ہے تو اس ترتیب کو بند کر دیں)۔"
+   },
+   "strictBlockingExtraDescription": {
+      "message": "تمام بطور بیلنس شدہ بلاکنگ اور براؤزر اطلاعات اور فنگرپرنٹ"
+   },
+   "strictBlockingName": {
+      "message": "سخت"
+   },
+   "strictModalDescription": {
+      "message": "اپنے براؤزر کو مفت رکھنے کے لیے، ہم ان شراکت داروں پر انحصار کرتے ہیں جو ہمیں کچھ غیر خلل انگیز اور صارف دوست اشتہارات کے ذریعے فنڈ دیتے ہیں۔ ہمارا مقصد آپ کو اپنی رازداری کو بہتر بنانے اور اپنی آن لائن شناخت کی حفاظت کرنے کے قابل بنانا ہے۔"
+   },
+   "strictModalTitle": {
+      "message": "ہمارے براؤزر کو مفت رکھنے میں مدد کریں۔"
+   },
+   "totalAdsTrackersBlocked": {
+      "message": "کُل __TOTAL_ADS__"
+   },
+   "visitSPC": {
+      "message": "\u003Cb>\u003Cu>سکیورٹی اور رازداری سینٹر\u003C/u>\u003C/b>\nپر جائیں  دیگر ترتیبات کے لیے"
+   },
+   "whitelistModalDescription": {
+      "message": "کس سائٹ پر آپ اشتہارات کی اجازت چاہتے ہیں؟"
+   },
+   "youWillBlock": {
+      "message": "آپ مسدود کریں گے: "
+   }
+}

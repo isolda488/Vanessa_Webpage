@@ -1,0 +1,23 @@
+{
+   "communication": {
+      "message": "通訊"
+   },
+   "extShortDesc": {
+      "message": "瀏覽器的側面板擴充功能"
+   },
+   "extTitle": {
+      "message": "側面板擴充功能"
+   },
+   "featured": {
+      "message": "精選"
+   },
+   "music": {
+      "message": "音樂"
+   },
+   "notes": {
+      "message": "記事"
+   },
+   "social": {
+      "message": "社交"
+   }
+}
